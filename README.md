@@ -1,2 +1,4 @@
-# Papers
-This repo is meant to list the papers that I have worked on. The list will keep growing with time so check back from time to time to view the latest commits.
+#Predicting Movie Ratings Using IMDb Dataset
+##A Machine Learning research project and paper analyzing the efficiency of different ML algorithms using evaluation metrics and drawing a comparison between them.
+##The data is split into training data and testing data in an 80:20 ration in accordance with the Pareto Principle.
+##The algorithms analyzed in this project are: SVM, Random Forest, Decision Trees and Naive Bayes.

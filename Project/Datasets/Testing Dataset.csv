@@ -1,0 +1,1011 @@
+color,director_name,num_critic_for_reviews,duration,director_facebook_likes,actor_3_facebook_likes,actor_2_name,actor_1_facebook_likes,gross,genres,actor_1_name,movie_title,num_voted_users,cast_total_facebook_likes,actor_3_name,num_user_for_reviews,language,country,budget,title_year,actor_2_facebook_likes,imdb_score,movie_facebook_likes
+Color,Thomas Vinterberg,349,115,346,26,Alexandra Rapaport,74,610968,Drama,Thomas Bo Larsen,The Hunt,170155,216,Hana Shuan,249,Danish,Denmark,3800000,2012,69,8.3,60000
+Color,Bob Clark,109,94,84,378,Darren McGavin,662,,Comedy|Family,Zack Ward,A Christmas Story,104908,2076,Scott Schwartz,458,English,USA,4000000,1983,577,8.1,18000
+Color,Alejandro Monteverde,60,91,38,377,Ramon Rodriguez,625,8108247,Drama|Romance,Armando Riesco,Bella,9607,2747,Eduardo Verástegui,174,English,USA,3300000,2006,464,7.4,0
+Color,Mark L. Lester,101,98,73,129,Perry King,595,,Action|Crime|Drama|Thriller,Roddy McDowall,Class of 1984,6549,1105,Timothy Van Patten,75,English,Canada,4300000,1982,251,6.6,934
+Color,Jennifer Finnigan,1,97,246,491,Kenan Thompson,756,,Comedy,Geoff Stults,The Opposite Sex,557,3717,Josh Hopkins,3,English,USA,3300000,2014,521,4.5,0
+Color,Eric Styles,16,92,4,405,Rupert Graves,631,7680,Drama|Romance,Samantha Morton,Dreaming of Joseph Lees,704,2020,Miriam Margolyes,18,English,USA,2000000,1999,443,6.4,100
+Color,Laurent Cantet,212,128,39,0,Agame Malembo-Emene,15,3766595,Drama,François Bégaudeau,The Class,29248,17,Angélica Sancio,86,French,France,,2008,2,7.5,0
+Color,Roman Polanski,215,136,2000,449,Mia Farrow,917,,Drama|Horror,John Cassavetes,Rosemary's Baby,140527,2997,Charles Grodin,447,English,USA,2300000,1968,563,8,13000
+ Black and White,John Ford,107,113,673,332,Woody Strode,756,,Drama|Western,Lee Marvin,The Man Who Shot Liberty Valance,53741,2693,Vera Miles,214,English,USA,3200000,1962,423,8.1,0
+Color,Max Mayer,122,99,6,194,Terry Walters,828,2277396,Drama|Romance,Peter Gallagher,Adam,29239,1936,Amy Irving,70,English,USA,,2009,390,7.2,0
+Color,Joshua Marston,155,101,13,6,Wilson Guerrero,280,6517198,Crime|Drama,Catalina Sandino Moreno,Maria Full of Grace,30474,308,Yenny Paola Vega,172,Spanish,Colombia,3000000,2004,11,7.5,0
+Color,Mike Mills,261,105,101,157,Lou Taylor Pucci,1000,5776314,Comedy|Drama|Romance,Goran Visnjic,Beginners,73349,2016,Mary Page Keller,142,English,USA,3200000,2010,394,7.2,15000
+Color,John Gulager,130,95,38,898,Eric Dane,164000,,Action|Comedy|Horror|Thriller,Krista Allen,Feast,25542,170118,Henry Rollins,252,English,USA,3200000,2005,2000,6.4,0
+Color,John Landis,94,109,644,559,Karen Allen,1000,141600000,Comedy,John Belushi,Animal House,90177,3468,Tim Matheson,257,English,USA,3000000,1978,783,7.6,0
+Color,Guy Hamilton,164,110,82,177,Gert Fröbe,387,51100000,Action|Adventure|Thriller,Honor Blackman,Goldfinger,139432,1198,Lois Maxwell,418,English,UK,3000000,1964,202,7.8,0
+Color,Brandon Cronenberg,188,108,43,463,Douglas Smith,691,,Horror|Sci-Fi|Thriller,Sarah Gadon,Antiviral,9356,1962,Caleb Landry Jones,47,English,Canada,3200000,2012,480,5.7,0
+Color,Frank Capra,206,118,964,248,Lionel Barrymore,488,,Drama|Family|Fantasy|Romance,Donna Reed,It's a Wonderful Life,275720,1844,Thomas Mitchell,706,English,USA,3180000,1946,275,8.6,41000
+Color,Danny Boyle,134,94,0,557,Shirley Henderson,2000,16501785,Drama,Kelly Macdonald,Trainspotting,469561,3559,Ewen Bremner,514,English,UK,3500000,1996,887,8.2,21000
+Color,Spike Lee,53,115,0,360,Cedric the Entertainer,1000,38168022,Comedy|Documentary,Bernie Mac,The Original Kings of Comedy,4687,1964,Steve Harvey,83,English,USA,3000000,2000,436,6.6,290
+Color,Tod Williams,264,98,21,189,Molly Ephraim,438,84749884,Horror,Sprague Grayden,Paranormal Activity 2,82133,1081,Micah Sloat,359,English,USA,3000000,2010,332,5.7,14000
+Color,Kirk Jones,94,91,52,482,David Kelly,773,24788807,Comedy,James Nesbitt,Waking Ned Devine,21245,1965,Fionnula Flanagan,213,English,UK,3000000,1998,588,7.4,0
+ Black and White,Michael Moore,215,120,909,184,Dick Clark,909,21244913,Crime|Documentary|Drama,Michael Moore,Bowling for Columbine,123090,1779,Bill Clinton,888,English,Germany,4000000,2002,504,8,4000
+Color,Yimou Zhang,85,109,611,4,Daoming Chen,878,377420,Drama,Li Gong,Coming Home,2789,900,Ni Yan,20,Mandarin,China,,2014,10,7.3,0
+Color,Jack Sholder,138,87,28,217,Robert Rusler,426,30000000,Fantasy|Horror,Clu Gulager,A Nightmare on Elm Street 2: Freddy's Revenge,43485,1472,Marshall Bell,327,English,USA,2200000,1985,359,5.4,0
+Color,James Ivory,55,117,133,249,Rupert Graves,687,20966644,Drama|Romance,Julian Sands,A Room with a View,29610,1665,Denholm Elliott,94,English,UK,3000000,1985,443,7.4,0
+Color,James DeMonaco,361,85,65,535,Adelaide Kane,942,64423650,Horror|Sci-Fi|Thriller,Rhys Wakefield,The Purge,139329,3708,Chris Mulkey,578,English,USA,3000000,2013,810,5.7,31000
+Color,Scott Derrickson,411,110,301,412,Victoria Leigh,1000,48056940,Horror|Mystery,Danielle Kotch,Sinister,155153,2239,James Ransone,524,English,USA,3000000,2012,419,6.8,58000
+Color,David Raynr,24,113,9,12,Mikki Padilla,71,19184015,Biography|Comedy|Documentary,Nancy O'Dell,Martin Lawrence Live: Runteldat,1466,159,Dayna Devon,35,English,USA,3000000,2002,65,5.4,63
+Color,Richard Brooks,70,108,174,110,Judith Anderson,253,,Drama|Romance,Burl Ives,Cat on a Hot Tin Roof,33741,649,Jack Carson,141,English,USA,3000000,1958,197,8.1,0
+Color,Ted Post,78,95,57,158,Gregory Sierra,220,,Action|Adventure|Sci-Fi,Linda Harrison,Beneath the Planet of the Apes,32378,1186,Victor Buono,150,English,USA,3000000,1970,162,6.1,0
+Color,Charles Martin Smith,35,98,188,693,Bill Cobbs,2000,24629916,Comedy|Drama|Family|Sport,Kevin Zegers,Air Bud,12942,4277,Michael Jeter,34,English,USA,3000000,1997,970,5.1,902
+Color,Kunihiko Yuyama,39,93,8,49,Eric Stuart,88,,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,Veronica Taylor,Pokémon 3: The Movie,9066,373,Lisa Ortiz,55,Japanese,Japan,16000000,2000,82,5.6,38
+Color,Tom McLoughlin,158,86,41,155,Ron Palillo,956,19472057,Horror|Thriller,Tony Goldwyn,Jason Lives: Friday the 13th Part VI,25332,1862,Vincent Guastaferro,307,English,USA,3000000,1986,316,5.9,0
+Color,David Lean,122,161,767,87,Sessue Hayakawa,682,27200000,Adventure|Drama|War,William Holden,The Bridge on the River Kwai,149444,1035,Jack Hawkins,273,English,UK,3000000,1957,119,8.2,0
+Color,Patrick Read Johnson,16,100,32,175,Royal Dano,610,15369573,Adventure|Comedy|Sci-Fi,Ariana Richards,Spaced Invaders,2580,1441,Tonya Lee Williams,54,English,USA,3000000,1990,232,5.3,710
+Color,Alfred Hitchcock,67,120,13000,416,Bruce Dern,897,,Comedy|Thriller,Ed Lauter,Family Plot,15293,2811,William Devane,111,English,USA,4490375,1976,844,6.8,609
+ Black and White,Billy Wilder,183,125,0,180,Ray Walston,516,,Comedy|Drama|Romance,Fred MacMurray,The Apartment,109335,1328,David White,241,English,USA,3000000,1960,417,8.3,0
+Color,Adam Marcus,112,91,18,307,Leslie Jordan,935,15935068,Fantasy|Horror|Thriller,Kane Hodder,Jason Goes to Hell: The Final Friday,19331,2899,Erin Gray,317,English,USA,2500000,1993,805,4.3,949
+Color,Alfred Hitchcock,64,128,13000,14,Lila Kedrova,18,,Thriller,Tamara Toumanova,Torn Curtain,18656,70,David Opatoshu,137,English,USA,6000000,1966,16,6.7,933
+Color,Michel Gondry,114,100,1000,220,Dave Chappelle,989,11694528,Comedy|Documentary|Music,Common,Dave Chappelle's Block Party,7721,2165,Lauryn Hill,72,English,USA,3000000,2005,744,7.2,635
+Color,John Maclean,246,84,85,748,Kodi Smit-McPhee,13000,229094,Western,Michael Fassbender,Slow West,27650,14696,Ben Mendelsohn,88,English,UK,,2015,884,6.9,0
+Color,Michael Schultz,7,97,78,77,LisaGay Hamilton,685,,Comedy|Drama|Music,Blair Underwood,Krush Groove,1361,1163,Bobby Brown,16,English,USA,3000000,1985,178,6.6,889
+Color,Benny Boom,49,84,23,706,Donald Faison,1000,10017041,Action|Comedy|Crime,Omari Hardwick,Next Day Air,8265,4815,Mike Epps,20,English,USA,3000000,2009,927,5.9,545
+Color,Richard Brooks,42,146,174,125,Jean Simmons,556,,Drama,Shirley Jones,Elmer Gantry,7998,1444,Edward Andrews,81,English,USA,3000000,1960,422,7.9,808
+ Black and White,Stanley Kramer,73,186,176,760,Montgomery Clift,877,,Drama|War,Maximilian Schell,Judgment at Nuremberg,44457,3847,Spencer Tracy,176,English,USA,3000000,1961,862,8.3,0
+Color,David Raynr,16,94,9,200,Deon Richmond,927,9016377,Comedy,Donald Faison,Trippin',1004,1936,Countess Vaughn,8,English,USA,,1999,209,5.2,143
+Color,,38,11,,0,Seth Green,11,,Animation|Comedy,Matthew Senreich,Robot Chicken,32923,11,Breckin Meyer,75,English,USA,,,0,7.8,1000
+ Black and White,Howard Hawks,91,126,393,281,Walter Brennan,862,,Action|Adventure|Romance|Western,Montgomery Clift,Red River,21316,2269,Harry Carey Jr.,162,English,USA,3000000,1948,376,7.8,0
+Color,Nnegest Likké,37,99,18,233,Jimmy Jean-Louis,939,7059537,Comedy,Mo'Nique,Phat Girlz,8279,2321,Joyful Drake,101,English,USA,3000000,2006,407,3,837
+Color,Richard Linklater,405,109,0,48,Ariane Labed,140,8114507,Drama|Romance,Seamus Davey-Fitzpatrick,Before Midnight,95362,328,Athina Rachel Tsangari,270,English,USA,3000000,2013,63,7.9,62000
+Color,Christopher Leitch,29,95,4,152,Robert Neary,641,7888703,Comedy|Fantasy,John Astin,Teen Wolf Too,8465,1389,Kim Darby,65,English,USA,3000000,1987,168,3.2,491
+Color,Don Coscarelli,81,97,152,135,A. Michael Baldwin,674,7282851,Action|Fantasy|Horror|Sci-Fi|Thriller,Angus Scrimm,Phantasm II,9502,1395,James Le Gros,100,English,USA,3000000,1988,174,6.5,812
+Color,Michael Schultz,17,94,78,469,Kimberly Elise,912,6879730,Drama,Loretta Devine,Woman Thou Art Loosed,806,3049,Clifton Powell,23,English,USA,,2004,637,6.9,187
+Color,Patricia Cardoso,75,90,15,453,Lupe Ontiveros,953,5844929,Comedy|Drama,America Ferrera,Real Women Have Curves,6000,2510,George Lopez,109,English,USA,3000000,2002,625,7,595
+Color,,,197,,110,Jessica De Gouw,578,,Drama|War,Rachel Griffiths,Deadline Gallipoli,299,1400,Luke Ford,1,English,Australia,15000000,,476,7.4,367
+Color,Deepa Mehta,91,117,375,31,Lisa Ray,1000,3222857,Drama|Romance,John Abraham,Water,12560,1394,Seema Biswas,147,Hindi,Canada,,2005,329,7.8,0
+Color,Damien O'Donnell,82,96,70,163,Jimi Mistry,883,4170647,Comedy|Drama,Archie Panjabi,East Is East,14548,1616,Om Puri,161,English,UK,1900000,1999,183,6.9,1000
+Color,Peter M. Cohen,48,82,0,51,Brian Van Holt,472,4142507,Comedy|Romance,Callie Thorne,Whipped,3665,858,David Heyman,81,English,USA,3000000,2000,324,4.4,131
+Color,Mira Nair,33,109,300,200,Sarita Choudhury,729,4109095,Crime|Drama|History|Romance,Indira Varma,Kama Sutra: A Tale of Love,8239,1292,Rekha,92,English,USA,3000000,1996,257,6,0
+Color,Nicole Holofcener,133,90,132,547,Thomas Ian Nicholas,1000,4033268,Comedy|Drama,Oliver Platt,Please Give,9808,3692,Ann Morgan Guilbert,53,English,USA,,2010,864,6.6,0
+Color,Mel Stuart,104,89,21,124,Jack Albertson,240,,Family|Fantasy|Musical,Peter Ostrum,Willy Wonka & the Chocolate Factory,128334,1011,Julie Dawn Cole,349,English,USA,3000000,1971,177,7.8,0
+Color,Anthony Hickox,22,98,16,222,Zach Galligan,687,3902679,Fantasy|Horror,Julian Sands,Warlock: The Armageddon,3943,1806,Paula Marshall,49,English,USA,3000000,1993,233,5.3,217
+Color,Tom Schulman,30,95,45,267,George Hamilton,578,3559990,Comedy|Crime,Kristy Swanson,8 Heads in a Duffel Bag,8005,1363,Dyan Cannon,49,English,USA,3000000,1997,341,5.3,417
+Color,Terrence Malick,112,94,0,180,Stuart Margolin,820,,Drama|Romance,Sam Shepard,Days of Heaven,37594,1618,Richard Libertini,181,English,USA,3000000,1978,350,8,0
+Color,Jill Sprecher,79,104,11,194,Rob McElhenney,11000,3287435,Drama,Matthew McConaughey,Thirteen Conversations About One Thing,8603,12250,Amy Irving,115,English,USA,4500000,2001,813,7.1,430
+Color,Darren Stein,49,87,18,844,Judy Greer,3000,3071947,Comedy|Crime|Thriller,Julie Benz,Jawbreaker,18711,9555,Jeff Conaway,183,English,USA,3500000,1999,2000,5.4,0
+Color,Julian Schnabel,42,108,232,353,Michael Wincott,10000,2961991,Biography|Drama,Gary Oldman,Basquiat,15885,11459,Courtney Love,78,English,USA,3300000,1996,721,6.9,0
+ Black and White,Noah Baumbach,345,86,387,270,Grace Gummer,962,4063238,Comedy|Drama|Romance,Greta Gerwig,Frances Ha,43982,2260,Vanessa Ray,139,English,USA,,2012,481,7.4,11000
+Color,Gavin Hood,152,94,151,29,Nambitha Mpumlwana,113,2912363,Crime|Drama,Terry Pheto,Tsotsi,25063,278,Rapulana Seiphemo,177,Zulu,UK,3000000,2005,64,7.3,0
+Color,Todd Solondz,148,134,377,812,Jon Lovitz,22000,3000000,Comedy|Drama,Philip Seymour Hoffman,Happiness,55329,36859,Dylan Baker,499,English,USA,3000000,1998,11000,7.8,0
+Color,George Gallo,23,89,269,24,Joe Howard,489,2223990,Comedy|Documentary,Eddie Griffin,DysFunktional Family,761,539,Robert Noble,14,English,USA,3000000,2003,26,6.6,26
+Color,Kevin Smith,254,102,0,387,Haley Joel Osment,40000,1821983,Comedy|Drama|Horror,Johnny Depp,Tusk,31089,43810,Michael Parks,261,English,USA,3000000,2014,3000,5.4,20000
+Color,Chan-wook Park,305,120,0,38,Ji-tae Yu,717,2181290,Drama|Mystery|Thriller,Min-sik Choi,Oldboy,356181,852,Hye-jeong Kang,809,Korean,South Korea,3000000,2003,78,8.4,43000
+Color,David Nixon,19,110,13,221,Michael Bolten,439,2848578,Drama|Family,Robyn Lively,Letters to God,3942,1567,Christopher Schmidt,65,English,USA,3500000,2010,399,6.3,0
+Color,Jason Eisener,272,86,59,104,Robb Wells,694,703002,Action|Comedy|Thriller,Gregory Smith,Hobo with a Shotgun,37495,1249,Molly Dunsworth,230,English,Canada,3000000,2011,324,6.1,37000
+Color,Enrique Begne,5,101,0,165,Héctor Jiménez,574,3105269,Action|Comedy,Kevin Pollak,Compadres,368,1335,Erick Elias,8,English,Mexico,3000000,2016,327,5,174
+Color,Matthew Bright,65,102,9,221,Dan Hedaya,904,,Comedy|Crime|Drama|Thriller,Bokeem Woodbine,Freeway,22246,1663,Robert Peters,196,English,USA,3000000,1996,281,6.9,0
+Color,Michael Landon Jr.,5,87,84,331,Kevin Gage,702,252726,Drama|Family|Western,William Morgan Sheppard,Love's Abiding Joy,1289,2715,Brianna Brown,18,,USA,3000000,2006,366,7.2,76
+Color,Andrea Arnold,248,123,121,168,Harry Treadaway,13000,373060,Drama,Michael Fassbender,Fish Tank,47385,13636,Jason Maza,112,English,UK,,2009,260,7.3,0
+Color,Whit Stillman,152,99,89,322,Megalyn Echikunwoke,962,1007535,Comedy|Drama|Romance,Greta Gerwig,Damsels in Distress,7625,2452,Zach Woods,54,English,USA,,2011,476,5.7,0
+Color,,10,173,,476,Colm Feore,723,,Horror|Sci-Fi|Thriller,Craig T. Nelson,Creature,2011,3149,Megalyn Echikunwoke,33,English,USA,,,539,5,518
+Color,Leslye Headland,156,87,21,416,Adam Scott,4000,418268,Comedy|Romance,Kirsten Dunst,Bachelorette,37156,8353,Andrew Rannells,129,English,USA,3000000,2012,3000,5.3,0
+Color,,7,44,,246,Megan Hilty,786,,Comedy|Drama|Horror|Sci-Fi|Thriller,Danny Pino,BrainDead,2948,1551,Zach Grenier,28,English,USA,,,341,7.9,3000
+Color,Bobby Roth,1,120,40,249,Aaron Ashmore,912,,Drama|Family|Music,Virginia Madsen,Brave New Girl,758,2330,Lindsey Haun,27,English,USA,,2004,750,5,47
+Color,Tim Heidecker,82,93,78,197,William Atherton,536,200803,Comedy,Michael Gross,Tim and Eric's Billion Dollar Movie,7988,1467,Bob Ross,71,English,USA,3000000,2012,317,5.3,0
+Color,Rupert Wyatt,175,111,81,81,Cjon Saulsberry,3000,33631221,Crime|Drama|Thriller,George Kennedy,The Gambler,48562,3784,Griffin Cleveland,145,English,USA,25000000,2014,571,6,0
+Color,,4,60,,23,Amanda Mealing,40,,Drama,Susan Hampshire,The Grand,437,158,Tim Healy,20,English,UK,,,37,7.6,450
+Color,Marco Kreuzpaintner,40,98,7,17,Kostja Ullmann,289,95016,Comedy|Drama|Romance|Sport,Alicja Bachleda,Summer Storm,11074,362,Robert Stadlober,56,German,Germany,2700000,2004,38,7.4,442
+Color,Kate Connor,8,100,27,847,Eric Stoltz,1000,73678,Drama|History|War,Johnny Pacar,Fort McCoy,266,4374,Brendan Fehr,8,English,USA,3000000,2011,902,5.9,348
+Color,Deon Taylor,63,88,26,236,Betsy Russell,487,143000,Horror|Thriller,Matt Cohen,Chain Letter,4122,1495,Noah Segan,48,English,USA,5000000,2009,298,4.1,0
+Color,Jason Alexander,20,97,700,56,Patti LuPone,599,39852,Comedy|Drama,Gretchen Mol,Just Looking,1238,1030,Peter Onorati,25,English,USA,3000000,1999,325,6.7,117
+Color,Xavier Gens,174,122,87,605,Lauren German,2000,22000,Drama|Sci-Fi|Thriller,Michael Biehn,The Divide,30511,4920,Rosanna Arquette,226,English,Germany,3000000,2011,683,5.8,0
+Color,Conor McPherson,90,86,0,77,Iben Hjejle,767,128937,Drama|Horror|Romance,Aidan Quinn,The Eclipse,2437,975,Jim Norton,31,English,Ireland,,2009,122,6.2,580
+Color,Will Canon,58,83,8,617,Scott Mechlowicz,798,,Horror|Thriller,Frank Grillo,Demonic,7358,4756,Aaron Yoo,39,English,USA,3000000,2015,634,5.3,0
+Color,Philip Zlotorynski,14,80,0,19,Darren Keefe Reiher,231,,Comedy,Neil Hopkins,My Big Fat Independent Movie,1257,313,David Douglas,24,English,USA,3000000,2005,27,3.3,48
+Color,Tim Burton,451,108,13000,11000,Alan Rickman,40000,334185206,Adventure|Family|Fantasy,Johnny Depp,Alice in Wonderland,306336,79957,Anne Hathaway,736,English,USA,200000000,2010,25000,6.5,24000
+Color,Lance Kawas,,90,66,452,Michael Rapaport,1000,,Comedy,Taylor Negron,The Deported,62,3882,Talia Shire,1,English,USA,3000000,2009,975,6.2,54
+Color,Francesca Gregorini,21,96,15,357,Amy Sedaris,433,5005,Drama,Tom Everett Scott,Tanner Hall,2280,1929,Chris Kattan,14,English,USA,3000000,2009,396,5.9,448
+Color,Marcio Garcia,9,85,74,47,Kristi Clainos,652,,Action|Drama|Thriller,John Savage,Open Road,1370,844,Emily Nelson,9,English,Brazil,3000000,2013,124,5.5,433
+Color,David Wain,98,83,136,975,Amy Poehler,3000,,Comedy,Christopher Meloni,They Came Together,16987,7191,Jack McBrayer,85,English,USA,,2014,1000,5.5,0
+Color,Craig Moss,29,80,19,73,Ashley Martin,319,,Comedy,French Stewart,30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo,2978,845,Olivia Alexander,13,English,USA,3000000,2013,302,2.6,2000
+Color,Michael Jai White,23,90,2000,454,Alex Meraz,2000,,Action|Drama|Sport,Michael Jai White,Never Back Down 2: The Beatdown,13599,3666,Jillian Murray,30,English,USA,3000000,2011,606,5.8,6000
+Color,John Boorman,87,92,128,480,Angie Dickinson,756,,Crime|Thriller,Lee Marvin,Point Blank,13640,2715,Carroll O'Connor,128,English,USA,3000000,1967,754,7.4,3000
+Color,Paolo Monico,2,100,3,382,Sarah Rafferty,1000,,Comedy,Stephanie Szostak,Four Single Fathers,118,2890,Salvatore Santone,1,Italian,Italy,3000000,2009,810,5.1,32
+Color,Youssef Delara,17,88,8,471,David Bianchi,2000,,Thriller,Noel Gugliemi,Enter the Dangerous Mind,704,4469,Jason Priestley,9,English,USA,800000,2013,715,5.2,406
+,Darin Scott,7,95,39,375,Shantel VanSanten,1000,,Drama|Horror|Mystery|Thriller,Julian Morris,Something Wicked,976,3024,John Robinson,15,English,USA,3000000,2014,747,4.8,395
+Color,Christian Sesma,6,82,9,648,Brooke Newton,904,,Thriller,Bokeem Woodbine,AWOL-72,520,4092,Brett Wagner,8,English,USA,3000000,2015,779,3.9,398
+Color,Monte Hellman,9,97,96,37,Jack Taylor,201,,Adventure|Crime|Drama,Everett McGill,Iguana,240,277,Fabio Testi,9,English,Italy,3000000,1988,39,6.2,37
+Color,Kenneth Branagh,343,105,0,502,Derek Jacobi,2000,201148159,Drama|Family|Fantasy|Romance,Hayley Atwell,Cinderella,103749,4671,Lily James,323,English,USA,95000000,2015,520,7,56000
+Color,Brian Caunter,11,94,0,356,Stacy Keach,854,,Action|Adventure|Crime|Drama,Mike Starr,Chicago Overcoat,706,1989,Frank Vincent,14,English,USA,3000000,2009,602,6.2,229
+Color,Chris D'Arienzo,34,95,7,463,Cybill Shepherd,2000,,Comedy|Drama|Romance,Judy Greer,Barry Munday,3443,3648,Shea Whigham,20,English,USA,,2010,536,5.9,480
+Color,Walter Salles,71,113,179,11,Matheus Nachtergaele,119,5595428,Drama,Fernanda Montenegro,Central Station,28951,167,Othon Bastos,257,Portuguese,Brazil,2900000,1998,14,8,0
+Color,Frank Capra,21,136,964,248,Glenn Ford,931,,Comedy|Drama,Ann-Margret,Pocketful of Miracles,4313,2167,Thomas Mitchell,40,English,USA,2900000,1961,416,7.3,612
+Color,Isaac Florentine,28,80,81,214,Nick Chinlund,640,,Action|Crime,Anthony L. Fernandez,Close Range,2425,1517,Scott Evans,31,English,USA,3000000,2015,277,4.9,968
+Color,Susan Seidelman,35,105,39,183,Michael Nouri,267,3123749,Comedy|Romance,Dyan Cannon,Boynton Beach Club,746,1231,Brenda Vaccaro,27,English,USA,1500000,2005,225,6.5,88
+Color,Michael Polish,30,90,35,21,Patrick Bauchau,216,,Drama|Horror|Mystery|Thriller,Olivia Rose Keegan,Amnesiac,2157,423,Mia Barron,15,English,USA,3000000,2014,158,4.3,421
+Color,Heidi Ewing,73,93,4,394,James Ransone,875,100675,Documentary,Greg Crowe,Freakonomics,5695,2305,Tempestt Bledsoe,23,English,USA,3000000,2010,412,6.4,0
+Color,Richard Donner,154,107,503,108,Patrick Troughton,264,,Fantasy|Horror|Mystery,Lee Remick,The Omen,80961,673,Billie Whitelaw,310,English,UK,2800000,1976,139,7.6,7000
+Color,Alexandre Aja,251,89,192,142,Maïwenn,447,3645438,Horror,Cécile De France,High Tension,55040,923,Oana Pellea,539,French,France,2200000,2003,236,6.8,0
+Color,Leon Ford,57,90,18,39,Patrick Brammall,130,,Comedy|Drama|Romance|Sci-Fi,Maeve Dermody,Griff the Invisible,4173,362,Kelly Paterniti,32,English,Australia,,2010,96,6.1,0
+Color,Hank Braxtan,14,89,6,29,Gregory Cruz,679,,Action|Horror|Thriller,Q'orianka Kilcher,Unnatural,859,964,Allegra Carpenter,17,English,USA,3000000,2015,234,4,369
+Color,Craig Brewer,159,116,153,165,Paula Jai Parker,275,22201636,Crime|Drama|Music,Isaac Hayes,Hustle & Flow,33567,727,Elise Neal,206,English,USA,8000000,2005,247,7.4,0
+ Black and White,Billy Wilder,181,120,0,102,Joe E. Brown,105,25000000,Comedy|Music|Romance,Nehemiah Persoff,Some Like It Hot,175196,527,George Raft,350,English,USA,2883848,1959,103,8.3,10000
+Color,John Carl Buechler,110,88,152,181,Terry Kiser,935,19170001,Horror,Kane Hodder,Friday the 13th Part VII: The New Blood,21359,1855,William Butler,270,English,USA,2800000,1988,448,5.3,0
+ Black and White,Victor Fleming,213,102,149,357,Terry,695,22202612,Adventure|Family|Fantasy|Musical,Margaret Hamilton,The Wizard of Oz,291875,2509,Billie Burke,533,English,USA,2800000,1939,421,8.1,14000
+ Black and White,Mel Brooks,129,106,0,481,Peter Boyle,1000,86300000,Comedy,Madeline Kahn,Young Frankenstein,112671,2703,Teri Garr,315,English,USA,2800000,1974,595,8,14000
+Color,George A. Romero,280,95,0,192,Shawn Roberts,569,952620,Horror,Megan Park,Diary of the Dead,40800,1797,Joe Dinicol,332,English,USA,2000000,2007,529,5.7,0
+Color,Rajkumar Hirani,15,144,124,327,Sanjay Dutt,464,,Comedy|Drama|Romance,Vidya Balan,Lage Raho Munna Bhai,27569,1761,Jimmy Shergill,106,Hindi,India,120000000,2006,426,8.2,349
+Color,Victor Nunez,61,113,9,42,Patricia Richardson,402,9054736,Drama,Peter Fonda,Ulee's Gold,5744,787,Vanessa Zima,57,English,USA,2700000,1997,222,7.1,381
+Color,Carroll Ballard,33,118,19,48,Kelly Reno,481,,Adventure|Family|Sport,Teri Garr,The Black Stallion,8856,681,Hoyt Axton,90,English,USA,2700000,1979,81,7.4,0
+Color,Rohit Jugraj,1,141,2,32,Neeru Bajwa,258,,Romance,Bhavkhandan Singh Rakhra,Sardaar Ji,745,434,Diljit Dosanjh,8,Panjabi,Canada,3000000,2015,85,6.6,50
+Color,Thorbjørn Christoffersen,2,90,0,13,Frank Hvam,122,,Action|Adventure|Animation|Comedy|Sci-Fi,Iben Hjejle,Journey to Saturn,1828,197,Casper Christensen,6,Danish,Denmark,,2008,33,5.7,77
+Color,John Ford,27,109,673,359,Cesar Romero,756,,Adventure|Comedy|Romance,Lee Marvin,Donovan's Reef,5786,1949,Jack Warden,65,English,USA,2686585,1963,370,6.9,573
+Color,Alex van Warmerdam,19,95,53,2,Ariane Schluter,20,,Comedy|Drama,Rijk de Gooyer,The Dress,1470,25,Henri Garcin,5,Dutch,Netherlands,2650000,1996,3,7,121
+ Black and White,Victor Fleming,9,122,149,315,Esther Williams,760,,Drama|Fantasy|Romance|War,Spencer Tracy,A Guy Named Joe,1553,2555,Irene Dunne,27,English,USA,2627000,1943,675,7,116
+Color,Mel Brooks,121,93,0,628,David Huddleston,1000,119500000,Comedy|Western,Madeline Kahn,Blazing Saddles,95294,4701,Harvey Korman,363,English,USA,2600000,1974,1000,7.8,12000
+Color,Joseph Zito,166,97,17,74,Tom Everett,158,32600000,Horror|Thriller,Judie Aronson,Friday the 13th: The Final Chapter,29488,467,Kimberly Beck,326,English,USA,1800000,1984,84,5.9,0
+ Black and White,Pawel Pawlikowski,269,82,84,46,Agata Trzebuchowska,88,3826455,Drama,Joanna Kulig,Ida,34643,205,Agata Kulesza,123,Polish,Poland,,2013,64,7.4,17000
+Color,James Ivory,29,140,133,239,Denholm Elliott,443,3130592,Drama|Romance,Rupert Graves,Maurice,10755,1269,Simon Callow,69,English,UK,2600000,1987,249,7.8,963
+Color,Frank Sebastiano,20,86,3,327,Laurie Metcalf,833,475000,Comedy|Sport,Joe Lo Truglio,Beer League,6930,2753,Seymour Cassel,53,English,USA,2800000,2006,549,6,323
+Color,Rand Ravich,107,109,7,1000,Charlize Theron,40000,10654581,Drama|Sci-Fi|Thriller,Johnny Depp,The Astronaut's Wife,45500,52621,Clea DuVall,260,English,USA,34000000,1999,9000,5.3,1000
+Color,Stacy Peralta,74,105,147,28,Gabrielle Reece,52,2276368,Documentary|History|Sport,Gerry Lopez,Riding Giants,3849,179,Laird John Hamilton,37,English,USA,,2004,52,7.9,0
+Color,Nacho Vigalondo,173,66,76,36,Nacho Vigalondo,123,38108,Horror|Mystery|Sci-Fi|Thriller,Karra Elejalde,Timecrimes,40878,239,Bárbara Goenaga,124,Spanish,Spain,2600000,2007,76,7.2,0
+Color,Hao Ning,5,99,0,4,Bo Huang,11,,Action|Adventure|Comedy,Jack Kao,Silver Medallist,1418,19,Zheng Xu,4,Mandarin,China,15000000,2009,4,7.4,30
+Color,Tony Giglio,66,100,6,209,Nick Searcy,331,,Horror|Thriller,Brianna Brown,Timber Falls,5012,1082,Beth Broderick,47,English,USA,2600000,2007,272,5.3,254
+Color,Stanley Donen,169,103,134,390,Debbie Reynolds,804,,Comedy|Musical|Romance,Rita Moreno,Singin' in the Rain,150020,2510,Cyd Charisse,568,English,USA,2540800,1952,786,8.3,0
+Color,Joe Cross,13,97,65,0,Joel Fuhrman,65,,Documentary,Joe Cross,"Fat, Sick & Nearly Dead",6429,67,Amy Badberg,25,English,Australia,2500000,2010,2,7.6,10000
+Color,Michael Tiddes,129,86,89,555,Alanna Ubach,713,40041683,Comedy|Fantasy,Essence Atkins,A Haunted House,34620,3421,J.B. Smoove,107,English,USA,2500000,2013,584,5.1,0
+Color,Dinesh D'Souza,30,87,67,67,Zackary Steven Graham,871,33349949,Documentary,Barack Obama,2016: Obama's America,9010,1111,Dinesh D'Souza,199,English,USA,2500000,2012,118,5.1,0
+Color,Rob Zombie,220,119,0,593,Tyler Mane,908,33386128,Horror,Scout Taylor-Compton,Halloween II,36372,3226,Margot Kidder,491,English,USA,15000000,2009,764,4.9,3000
+Color,Tom Hanks,75,149,15000,982,Charlize Theron,15000,25809813,Comedy|Drama|Music,Tom Hanks,That Thing You Do!,50311,28713,Ethan Embry,212,English,USA,26000000,1996,9000,6.9,0
+Color,Tommy Lee Wallace,162,98,24,67,Dan O'Herlihy,381,14400000,Horror|Mystery|Sci-Fi,Tom Atkins,Halloween III: Season of the Witch,28589,684,Nancy Kyes,532,English,USA,2500000,1982,128,4.6,0
+Color,Don Taylor,74,98,11,450,M. Emmet Walsh,595,,Action|Sci-Fi,Roddy McDowall,Escape from the Planet of the Apes,23546,2373,Sal Mineo,92,English,USA,2500000,1971,521,6.3,819
+ Black and White,Martin Ritt,65,112,58,124,Melvyn Douglas,617,,Drama,Patricia Neal,Hud,15277,1141,Whit Bissell,120,English,USA,2500000,1963,189,7.9,1000
+Color,Leslie Small,26,75,15,36,La'Princess Jackson,1000,32230907,Comedy|Documentary,David Jason Perez,Kevin Hart: Let Me Explain,6062,1385,Dana Hanna,30,English,USA,2500000,2013,309,6.7,0
+Color,Gus Van Sant,63,104,835,535,Udo Kier,18000,6401336,Drama,Keanu Reeves,My Own Private Idaho,36996,19923,Flea,153,English,USA,2500000,1991,595,7.1,0
+Color,Zach Braff,205,102,0,294,Michael Weston,625,26781723,Comedy|Drama|Romance,Armando Riesco,Garden State,187595,1655,Jill Flint,978,English,USA,2500000,2004,379,7.6,0
+Color,Richard Linklater,121,105,0,4,Hans Weingartner,15,5400000,Drama|Romance,Hanno Pöschl,Before Sunrise,183288,36,Dominik Castell,395,English,USA,2500000,1995,12,8.1,22000
+Color,Éric Tessier,9,99,0,6,Michel Côté,50,,Action|Drama|Horror|Thriller,Patrick Huard,Sur le seuil,1003,79,Jean Pierre Bergeron,5,French,Canada,3200000,2003,16,6.6,39
+Color,Alison Maclean,74,107,7,442,Samantha Morton,745,1282084,Drama,Billy Crudup,Jesus' Son,6221,2125,Mark Webber,87,English,USA,2500000,1999,631,7,500
+Color,Alice Wu,54,96,13,209,Ato Essandoh,643,1186323,Comedy|Drama|Romance,Joan Chen,Saving Face,7776,1396,Jessica Hecht,84,English,USA,,2004,265,7.6,774
+Color,Sarah Gavron,80,101,34,40,Christopher Simpson,56,1094998,Drama,Satish Kaushik,Brick Lane,2560,150,Tannishtha Chatterjee,29,English,UK,,2007,41,6.7,430
+Color,Jake Schreier,252,89,14,215,Joshua Ormond,902,3325638,Comedy|Crime|Drama|Sci-Fi,Frank Langella,Robot & Frank,52509,1980,Ana Gasteyer,84,English,USA,2500000,2012,291,7.1,13000
+Color,Isabel Coixet,72,106,148,471,Julian Richings,900,395592,Drama|Romance,Sarah Polley,My Life Without Me,21202,2972,Amanda Plummer,134,English,Spain,2000000,2003,648,7.6,0
+Color,James Ponsoldt,220,95,53,478,Jennifer Jason Leigh,8000,6851969,Comedy|Drama|Romance,Shailene Woodley,The Spectacular Now,105591,10040,Dayo Okeniyi,178,English,USA,2500000,2013,1000,7.1,10000
+Color,Randall Miller,1,34,19,362,Elden Henson,882,333658,Comedy|Family|Musical|Romance|Short,William Hurt,Marilyn Hotchkiss' Ballroom Dancing and Charm School,97,1967,Michael Bower,2,English,USA,34000,1990,577,7.1,16
+Color,Larry Charles,197,101,119,0,Tal Bachman,334,12995673,Comedy|Documentary|War,Bill Maher,Religulous,52286,338,Steve Burg,345,English,USA,2500000,2008,4,7.7,24000
+Color,Joshua Tickell,14,112,9,125,Sheryl Crow,860,173783,Documentary,Larry David,Fuel,578,1252,George W. Bush,34,English,USA,2500000,2008,130,7.6,588
+Color,Tim Boxell,3,100,10,107,Diana Scarwid,655,118666,Drama,Bruce McGill,Valley of the Heart's Delight,91,1064,Tom Bower,3,English,USA,2500000,2006,157,6.6,144
+ Black and White,Rawson Marshall Thurber,191,92,43,936,Stephen Root,989,114324072,Comedy|Sport,Gary Cole,Dodgeball: A True Underdog Story,185345,4730,Joel David Moore,392,English,USA,20000000,2004,939,6.7,0
+Color,Michael D. Sellers,18,100,0,249,Carly Schroeder,640,71904,Comedy|Drama|Family,Katharine Ross,Eye of the Dolphin,806,1491,George Harris,18,English,USA,2500000,2006,261,5.7,140
+Color,Reed Cowan,28,80,0,5,Emily Pearson,191,99851,Documentary,Dustin Lance Black,8: The Mormon Proposition,1138,210,Gavin Newsom,30,English,USA,2500000,2010,12,7.1,0
+Color,James Dodson,22,106,8,315,Anupam Kher,611,115504,Comedy|Drama|Romance,Larry Miller,The Other End of the Line,4820,1739,Shriya Saran,26,English,UK,14000000,2008,397,6.2,0
+Color,Stefan Ruzowitzky,62,103,24,10,Rüdiger Vogler,127,5725,Horror|Thriller,Benno Fürmann,Anatomy,10220,163,Sebastian Blomberg,110,German,Germany,8400000,2000,10,6.1,560
+Color,Alex Rivera,47,90,8,35,Jacob Vargas,426,75727,Drama|Romance|Sci-Fi|Thriller,Leonor Varela,Sleep Dealer,5699,862,Tenoch Huerta,40,Spanish,USA,2500000,2008,399,5.9,0
+Color,James Gunn,238,96,571,370,Rainn Wilson,2000,322157,Comedy|Crime|Drama,Linda Cardellini,Super,61787,4590,Paul T. Taylor,203,English,USA,2500000,2010,973,6.8,19000
+Color,John Murlowski,2,89,20,555,Piper Mackenzie Harris,794,,Comedy|Drama|Family|Romance,Ashley Scott,Christmas Mail,858,2579,Lochlyn Munro,7,English,USA,2500000,2010,607,5.8,190
+Color,Benni Diez,95,87,2,577,Cecilia Pillado,968,,Comedy|Horror,Clifton Collins Jr.,Stung,3119,3157,David Masterson,23,English,Germany,2500000,2015,625,5,0
+Color,Danny Perez,10,94,0,442,Emmanuel Kabongo,1000,,Horror,Natasha Lyonne,Antibirth,63,2406,Mark Webber,2,English,USA,3500000,2016,677,6.3,89
+Color,Spike Lee,28,120,0,702,Harry Lennix,1000,5731103,Drama|History,Bernie Mac,Get on the Bus,4100,5963,Andre Braugher,35,English,USA,2400000,1996,748,6.8,352
+Color,Robby Henson,25,101,9,201,Max Ryan,973,978908,Drama|Horror|Mystery|Thriller,Marc Blucas,Thr3e,4057,2306,Justine Waddell,90,English,Poland,2400000,2006,872,5.1,250
+Color,Mike Judge,121,84,406,233,Patrick Fischler,586,438653,Adventure|Comedy|Sci-Fi,Anthony 'Citric' Campos,Idiocracy,108052,1490,David Herman,434,English,USA,,2006,497,6.6,79000
+,Zackary Adler,10,110,0,109,Kevin Leslie,490,,Crime|Drama,Simon Merrells,The Rise of the Krays,1510,881,Kris Sommerville,26,English,UK,2500000,2015,159,5,0
+Color,Shane Meadows,172,101,222,698,Joseph Gilgun,1000,327919,Crime|Drama,Stephen Graham,This Is England,99177,3282,Jack O'Connell,192,English,UK,1500000,2006,788,7.7,11000
+Color,Dominic Burns,20,101,15,663,Sean Pertwee,844,,Comedy|Sci-Fi,Julian Glover,Alien Uprising,2753,3132,Bianca Brigitte VanDamme,82,English,UK,2500000,2012,722,3.1,0
+Color,George Sidney,8,101,24,226,Basil Rathbone,675,,Comedy|Musical,Esther Williams,Bathing Beauty,1079,1627,Red Skelton,28,English,USA,2361000,1944,659,6.5,144
+Color,Carmen Marron,8,105,29,76,Aimee Garcia,847,178739,Drama|Musical,Jossara Jinaro,Go for It!,1015,1668,Rene Rosado,10,English,USA,2450000,2011,618,3.9,566
+Color,Tim McCanlies,15,97,23,326,Michael O'Neill,982,565592,Comedy|Drama|Family,Ethan Embry,"Dancer, Texas Pop. 81",2189,2580,Alexandra Holden,63,English,USA,,1998,599,6.8,500
+Color,George Sidney,14,108,24,244,Ava Gardner,960,,Drama|Family|Musical|Romance,Agnes Moorehead,Show Boat,3538,2329,Howard Keel,46,English,USA,2295429,1951,715,7,438
+Color,Mario Van Peebles,12,95,535,608,Cinda McCain,1000,27012,Drama,Tom Skerritt,Redemption Road,440,3586,Luke Perry,9,English,USA,,2010,646,5.9,279
+Color,Jason Stone,48,108,14,826,Ellen Burstyn,2000,,Thriller,Topher Grace,The Calling,6025,4385,Christopher Heyerdahl,28,English,USA,,2014,1000,5.8,0
+Color,Jerry Rees,17,90,115,385,Phil Hartman,11000,,Adventure|Animation|Comedy|Family|Fantasy|Musical,Jon Lovitz,The Brave Little Toaster,19650,12359,Mindy Sterling,62,English,USA,2300000,1987,516,7.3,0
+Color,James Algar,99,120,11,,Deems Taylor,16,76400000,Animation|Family|Fantasy|Music,Leopold Stokowski,Fantasia,71321,16,,230,English,USA,2280000,1940,0,7.8,3000
+Color,William Friedkin,138,104,607,109,Fernando Rey,813,,Action|Crime|Drama|Thriller,Roy Scheider,The French Connection,82476,1196,Tony Lo Bianco,280,English,USA,1800000,1971,165,7.8,0
+Color,Jaco Booyens,,90,37,0,Sebastian Aguilar,210,,Drama|Thriller,Nicole Smolen,8 Days,44,210,Ivette Alvarez,3,English,USA,2500000,2014,0,6.9,224
+Color,Steve Miner,235,91,49,20,Dana Kimmell,72,36200000,Horror|Thriller,Richard Brooker,Friday the 13th Part III,31952,174,Catherine Parks,372,English,USA,4000000,1982,31,5.7,0
+Color,Danny Steinmann,160,92,13,17,Melanie Kinnaman,42,21300000,Horror|Mystery|Thriller,Tiffany Helm,Friday the 13th: A New Beginning,22521,170,Dominick Brascia,342,English,USA,2200000,1985,27,4.7,1000
+Color,Michael Landon Jr.,18,117,84,275,Louise Fletcher,861,379643,Drama,Henry Thomas,The Last Sin Eater,1573,2161,A.J. Buckley,29,English,USA,2200000,2007,425,5.9,285
+Color,Jon Gunn,11,120,16,835,Delroy Lindo,2000,12985267,Drama,Alexa PenaVega,Do You Believe?,4977,6752,Madison Pettis,63,English,USA,2300000,2015,848,5.9,13000
+Color,Hayley Cloake,11,90,0,306,Kayla Ewell,676,,Thriller,Brian Austin Green,Impact Point,1118,1651,Linden Ashby,9,English,USA,2200000,2008,399,4.3,77
+ Black and White,Tay Garnett,7,119,10,275,Greer Garson,509,,Drama,Jessica Tandy,The Valley of Decision,1314,1490,Lionel Barrymore,29,English,USA,2160000,1945,284,7.5,68
+Color,Shyam Madiraju,5,90,0,708,Ethan Peck,1000,,Drama|Thriller,Jessica Lowndes,Eden,1351,3799,Brad Schmidt,4,English,Spain,,2015,800,4.8,452
+Color,Harmage Singh Kalirai,10,90,11,18,Zohra Segal,114,,Comedy|Drama|Romance,Saeed Jaffrey,Chicken Tikka Masala,480,244,Shobu Kapoor,14,English,UK,1200000,2005,79,5.8,172
+Color,Rita Merson,5,97,5,782,James Wolk,3000,,Comedy|Music|Romance,Ryan Guzman,Always Woodstock,485,6085,Jason Ritter,6,English,USA,2400000,2014,938,5.3,107
+Color,Jon Knautz,95,90,10,42,Daniel Kash,371,,Action|Comedy|Horror,Rachel Skarsten,Jack Brooks: Monster Slayer,5187,558,Stefanie Drummond,46,English,Canada,2500000,2007,52,6,870
+ Black and White,William Wyler,97,172,355,188,Teresa Wright,749,23650000,Drama|Romance|War,Myrna Loy,The Best Years of Our Lives,40359,1941,Dana Andrews,235,English,USA,2100000,1946,208,8.1,0
+Color,Larry Clark,76,115,184,551,Nick Stahl,730,510092,Biography|Crime|Drama,Kelli Garner,Bully,29424,3293,Brad Renfro,336,English,USA,,2001,648,7,0
+Color,Petter Næss,67,89,16,14,Per Christian Ellefsen,117,313436,Comedy|Drama,Jørgen Langhelle,Elling,12244,155,Sven Nordin,95,Norwegian,Norway,15500000,2001,21,7.6,0
+Color,Robert Fontaine,4,125,7,17,Arturo Castro,128,3330,Crime|Drama,Michael Derek,Mi America,22,214,Brad Lee Wind,1,English,USA,2100000,2015,22,7.2,305
+Color,Jaume Balagueró,252,78,57,7,Pablo Rosso,120,,Horror,Manuela Velasco,[Rec],131462,145,Carlos Lasarte,374,Spanish,Spain,1500000,2007,9,7.5,15000
+Color,Patricia Cardoso,,89,15,650,Martha Higareda,919,,Drama,Rosie Perez,Lies in Plain Sight,544,3873,Cheyenne Haynes,4,English,USA,2100000,2010,718,6.3,162
+Color,Dan Perri,1,100,0,338,David Proval,749,,Comedy|Drama|Mystery|Romance|Thriller,Travis Myers,Sharkskin,6,1814,Carmen Argenziano,1,English,USA,2100000,2015,354,6.7,14
+Color,Neil Mcenery-West,33,77,0,260,Michael Chapman,846,,Horror|Sci-Fi|Thriller,Walter Hendrix III,Containment,1355,2044,Louise Brealey,21,English,UK,,2015,366,4.8,275
+Color,Anthony O'Brien,19,81,7,106,Maria Doyle Kennedy,412,,Adventure|Drama|Western,James Ransone,The Timber,1274,1020,Shaun O'Hagan,17,English,USA,2100000,2015,308,5.5,380
+Color,Terence Young,167,115,92,177,Daniela Bianchi,559,24800000,Action|Adventure|Thriller,Robert Shaw,From Russia with Love,89403,1456,Lois Maxwell,358,English,UK,2000000,1963,201,7.5,0
+Color,Michael Herz,49,96,6,14,Jessica Dublin,40,792966,Action|Comedy|Horror|Sci-Fi,Phoebe Legere,The Toxic Avenger Part II,4663,99,Lisa Gaye,40,English,USA,2300000,1989,30,5.1,321
+Color,,1,60,,213,Alan Autry,480,,Crime|Drama|Mystery,Carroll O'Connor,In the Heat of the Night,2258,1736,Crystal R. Fox,24,English,USA,,,360,7.4,763
+Color,Woody Allen,66,89,11000,45,John Beck,11000,,Comedy|Sci-Fi,Woody Allen,Sleeper,33335,11192,Mews Small,128,English,USA,2000000,1973,66,7.3,0
+Color,David Robert Mitchell,533,100,421,159,Ruby Harris,314,14673301,Horror|Mystery,Maika Monroe,It Follows,112899,1062,Jake Weary,631,English,USA,2000000,2014,189,6.9,45000
+ Black and White,Woody Allen,50,88,11000,258,John Carradine,11000,,Comedy,Woody Allen,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,31077,12034,Lynn Redgrave,78,English,USA,2000000,1972,300,6.8,0
+ Black and White,Robert Mulligan,127,129,89,161,Brock Peters,3000,,Crime|Drama,Robert Duvall,To Kill a Mockingbird,215086,3833,William Windom,471,English,USA,2000000,1962,226,8.4,15000
+ Black and White,George Miller,177,87,750,41,Bruce Spence,745,9003011,Action|Adventure|Sci-Fi|Thriller,Vernon Wells,Mad Max 2: The Road Warrior,133966,1396,Kjell Nilsson,294,English,Australia,2000000,1981,531,7.6,0
+Color,Chia-Liang Liu,77,102,32,75,Anita Mui,483,11546543,Action|Comedy,Andy Lau,The Legend of Drunken Master,34520,768,Ho-Sung Pak,146,Cantonese,Hong Kong,2000000,1994,147,7.6,0
+ Black and White,Stanley Kubrick,103,152,0,177,Shelley Winters,618,,Crime|Drama|Romance,James Mason,Lolita,67825,1404,Lois Maxwell,207,English,UK,2000000,1962,367,7.7,0
+Color,Kimberly Peirce,123,118,108,103,Brendan Sexton III,173,11533945,Biography|Crime|Drama|Romance,Alicia Goranson,Boys Don't Cry,77551,563,Jeannetta Arnette,434,English,USA,2000000,1999,148,7.6,0
+Color,Chris Kentis,218,86,9,32,Julia Taylor Ross,120,12555230,Drama|Horror|Mystery|Thriller,Eric Sheffer Stevens,Silent House,18566,218,Adam Trese,154,English,France,2000000,2011,44,5.3,0
+Color,Florian Henckel von Donnersmarck,215,137,207,155,Ulrich Mühe,380,11284657,Drama|Thriller,Sebastian Koch,The Lives of Others,259379,927,Martina Gedeck,407,German,Germany,2000000,2006,284,8.5,39000
+Color,Alex Kendrick,34,129,589,341,Alex Kendrick,690,34522221,Drama,Ben Davies,Courageous,15401,2300,T.C. Stallings,175,English,USA,2000000,2011,589,7,10000
+ Black and White,Robert Rossen,100,134,31,366,Jackie Gleason,654,,Drama|Sport,George C. Scott,The Hustler,62860,2290,Murray Hamilton,167,English,USA,2000000,1961,491,8,0
+ Black and White,Jack Conway,12,119,6,380,Spencer Tracy,1000,,Adventure|Drama|Romance|Western,Hedy Lamarr,Boom Town,2269,2555,Claudette Colbert,34,English,USA,1614000,1940,760,7.1,236
+Color,Sylvain Chomet,167,80,162,0,Charles Linton,23,7002255,Animation|Comedy|Drama,Michel Robin,The Triplets of Belleville,42462,29,Béatrice Bonifassi,312,French,France,9500000,2003,6,7.8,0
+Color,Chris Eyre,56,89,149,580,Irene Bedard,912,6719300,Comedy|Drama,Michael Greyeyes,Smoke Signals,8224,3163,Gary Farmer,132,English,Canada,2000000,1998,752,7.2,0
+Color,Shari Springer Berman,180,101,30,92,James Urbaniak,14000,6003587,Biography|Comedy|Drama,Josh Hutcherson,American Splendor,41999,14412,Daniel Tay,226,English,USA,,2003,119,7.5,0
+Color,Richard Linklater,211,80,0,3,Albert Delpy,50,5792822,Drama|Romance,Vernon Dobtcheff,Before Sunset,168398,65,Marie Pillet,492,English,USA,2700000,2004,8,8,13000
+Color,Alejandro G. Iñárritu,157,115,0,35,Jorge Salinas,85,5383834,Drama|Thriller,Adriana Barraza,Amores Perros,173551,318,Goya Toledo,361,Spanish,Mexico,2000000,2000,79,8.1,11000
+Color,Catherine Hardwicke,126,100,308,374,Sarah Clarke,1000,4599680,Drama,Holly Hunter,Thirteen,68222,2186,Kip Pardue,545,English,USA,1500000,2003,482,6.8,0
+ Black and White,Elia Kazan,61,118,603,167,Celeste Holm,936,,Drama|Romance,Dean Stockwell,Gentleman's Agreement,10791,1846,John Garfield,113,English,USA,2000000,1947,297,7.4,0
+Color,Debra Granik,365,100,81,179,Shelley Waggener,34000,6531491,Drama,Jennifer Lawrence,Winter's Bone,111658,34446,Lauren Sweetser,297,English,USA,2000000,2010,248,7.2,20000
+Color,Kevin Macdonald,121,106,162,3,Brendan Mackey,21,4581222,Adventure|Documentary|Drama|Sport,Nicholas Aaron,Touching the Void,26926,29,Joe Simpson,156,English,UK,,2003,5,8.1,0
+ Black and White,Henry King,10,106,85,300,Don Ameche,480,,Drama|Musical|Romance,Tyrone Power,Alexander's Ragtime Band,1381,1833,John Carradine,29,English,USA,2000000,1938,392,7,60
+Color,Miranda July,151,91,244,244,Brad William Henke,538,3885134,Comedy|Drama,Najarra Townsend,Me and You and Everyone We Know,31130,1349,Miranda July,243,English,USA,2000000,2005,363,7.4,0
+Color,Charles Ferguson,171,105,117,18,George W. Bush,13000,4311834,Crime|Documentary,Matt Damon,Inside Job,55382,13145,Barney Frank,129,English,USA,,2010,125,8.3,63000
+Color,Max Joseph,158,96,31,328,Emily Ratajkowski,804,3590010,Drama|Music|Romance,Vanessa Lengies,We Are Your Friends,20885,3013,Jonny Weston,60,English,UK,2000000,2015,625,6.1,0
+Color,Jim Jarmusch,167,116,0,116,Gano Grills,251,3300230,Action|Crime|Drama|Thriller,Henry Silva,Ghost Dog: The Way of the Samurai,70084,675,Richard Portnow,346,English,France,,1999,147,7.5,0
+Color,David Ayer,118,116,453,2000,Christian Bale,24000,3335839,Action|Crime|Drama|Thriller,J.K. Simmons,Harsh Times,54657,50313,Noel Gugliemi,222,English,USA,2000000,2005,23000,7,0
+Color,Jerry Jameson,39,97,5,349,Leonor Varela,1000,2557668,Crime|Drama|Thriller,David Oyelowo,Captive,3911,2739,Sydelle Noel,22,English,USA,2000000,2015,426,5.3,0
+Color,Steven Soderbergh,108,101,0,685,Enrico Colantoni,8000,2506446,Comedy|Romance,Julia Roberts,Full Frontal,8662,11327,Blair Underwood,172,English,USA,2000000,2002,724,4.7,134
+Color,Kevin Tenney,65,98,85,186,Tawny Kitaen,265,7369373,Horror|Mystery|Thriller,Kathleen Wilhoite,Witchboard,4288,901,Rose Marie,74,English,UK,2000000,1986,194,5.7,0
+Color,,8,22,,344,Amy Sedaris,459,,Comedy,Stephen Colbert,Strangers with Candy,4181,1359,Maria Thayer,62,English,USA,,,396,8.1,558
+Color,Kenneth Branagh,85,150,0,401,Brian Blessed,597,4414535,Drama,Julie Christie,Hamlet,30618,1645,Richard Briers,224,English,UK,18000000,1996,591,7.8,0
+Color,John Cameron Mitchell,160,101,263,37,Peter Stickles,71,1984378,Comedy|Drama|Romance,Sook-Yin Lee,Shortbus,27346,226,Raphael Barker,206,English,USA,2000000,2006,51,6.5,0
+Color,Ari Folman,231,90,56,0,Ronny Dayag,56,2283276,Animation|Biography|Documentary|Drama|History|War,Ari Folman,Waltz with Bashir,46107,56,Zahava Solomon,156,Hebrew,Israel,1500000,2008,0,8,0
+Color,Gary Rogers,7,120,0,40,Kirby Heyborne,178,1098224,Adventure,Noah Danby,"The Book of Mormon Movie, Volume 1: The Journey",397,359,Bruce Newbold,30,English,USA,2000000,2003,69,3.3,32
+Color,Charles Ferguson,79,102,117,17,Dick Cheney,393,1430185,Documentary|War,Campbell Scott,No End in Sight,7314,446,Donald Rumsfeld,55,English,USA,2000000,2007,21,8.3,0
+Color,Marielle Heller,168,102,22,80,David Fine,10000,1477002,Drama|Romance,Alexander Skarsgård,The Diary of a Teenage Girl,16645,11184,Austin Lyon,72,English,USA,2000000,2015,1000,6.9,0
+Color,,1,60,,143,Jon Tenney,11000,,Comedy|Drama|Romance,Anne Hathaway,Get Real,415,11618,Debrah Farentino,26,English,USA,,,289,7.3,43
+ Black and White,David Sington,107,100,90,65,Buzz Aldrin,168,1134049,Documentary|History,John F. Kennedy,In the Shadow of the Moon,5475,408,Neil Armstrong,44,English,UK,2000000,2007,142,8.1,0
+Color,Kelly Reichardt,200,104,129,887,Zoe Kazan,991,977600,Drama|Western,Bruce Greenwood,Meek's Cutoff,8204,3427,Shirley Henderson,98,English,USA,,2010,962,6.5,0
+ Black and White,Fenton Bailey,123,89,13,218,Bill Maher,373,653621,Biography|Documentary|History,Hugh M. Hefner,Inside Deep Throat,5615,1136,Linda Lovelace,64,English,USA,2000000,2005,334,6.8,592
+Color,Bob Giraldi,39,99,34,120,Manny Perez,388,110000,Crime|Drama|Romance,Danny Aiello,Dinner Rush,4359,1156,Ajay Naidu,73,English,USA,,2000,159,7.3,495
+Color,Jill Sprecher,41,96,11,490,Bob Balaban,584,444354,Comedy|Drama,Alanna Ubach,Clockwatchers,4049,3011,Jamie Kennedy,111,English,UK,,1997,559,6.4,166
+Color,Huck Botko,46,86,10,126,Krysta Rodriguez,189,535249,Comedy,Matt Bennett,The Virginity Hit,3467,768,Zack Pearlman,13,English,USA,3400000,2010,131,4.6,974
+Color,Luc Besson,30,98,0,164,Isabelle Adjani,1000,,Comedy|Drama|Thriller,Christopher Lambert,Subway,11031,1917,Jean-Hugues Anglade,45,French,France,17000000,1985,572,6.5,739
+Color,David Duchovny,46,96,0,902,Mark Margolis,49000,371081,Comedy|Drama,Robin Williams,House of D,7479,51441,Frank Langella,86,English,USA,6000000,2004,1000,7,857
+Color,Mitchell Lichtenstein,221,94,53,268,Nathan Parsons,386,347578,Comedy|Fantasy|Horror|Thriller,Jess Weixler,Teeth,34556,1511,John Hensley,161,English,USA,,2007,357,5.4,17000
+Color,Lance Mungia,51,91,4,0,Stephane Gauger,33,124494,Action|Adventure|Comedy|Drama|Music|Sci-Fi,Jeffrey Falcon,Six-String Samurai,5613,36,Kim De Angelo,102,English,USA,2000000,1998,3,6.7,0
+Color,Kundan Shah,1,,4,72,Bobby Deol,353,,Action|Comedy|Romance|Thriller,Karisma Kapoor,Hum To Mohabbat Karega,275,613,Shakti Kapoor,1,Hindi,India,,2000,89,2.8,10
+Color,Michael Dowse,58,90,31,137,Neil Maskell,326,120620,Biography|Comedy|Drama|Music,Paul Kaye,It's All Gone Pete Tong,16828,865,Kate Magowan,67,English,UK,,2004,246,7.4,0
+Color,Hue Rhodes,45,85,0,966,Steve Buscemi,22000,100669,Comedy|Drama,Peter Dinklage,Saint John of Las Vegas,2522,36885,Romany Malco,11,English,USA,3800000,2009,12000,5.8,407
+ Black and White,Shane Meadows,44,96,222,20,Annette Badland,5000,,Comedy|Drama|Romance|Sport,Bob Hoskins,24 7: Twenty Four Seven,2081,5535,Karl Collins,21,English,UK,,1997,497,7.1,224
+Color,Roland Emmerich,74,129,776,256,Caleb Landry Jones,25000,186354,Drama,Jeremy Irvine,Stonewall,1758,26176,Matt Craven,30,English,USA,13500000,2015,463,4.5,0
+Color,,20,60,,543,Colin Ferguson,780,,Comedy|Drama|Sci-Fi,Joe Morton,Eureka,39559,4280,Salli Richardson-Whitfield,136,English,USA,,,747,7.9,3000
+Color,Jugal Hansraj,6,93,32,24,Sanjay Mishra,532,55202,Animation|Comedy|Family|Romance,Saif Ali Khan,Roadside Romeo,922,653,Javed Jaffrey,17,Hindi,India,,2008,85,5.3,39
+Color,Danny Provenzano,5,100,84,267,Frank Vincent,584,,Crime|Drama,Vincent Pastore,This Thing of Ours,508,1307,Chuck Zito,18,English,USA,,2003,356,5.4,61
+Color,Bill Muir,10,97,19,395,Jansen Panettiere,589,549632,Adventure|Family|Fantasy,Alex Kendrick,The Lost Medallion: The Adventures of Billy Stone,1278,2522,Tiya Sircar,16,English,Thailand,,2013,488,4.8,715
+Color,Richard LaGravenese,81,94,98,89,Jeremy Jordan,10000,137945,Comedy|Drama|Musical|Romance,Anna Kendrick,The Last Five Years,6223,10869,Charly Bivona,40,English,USA,,2014,773,5.9,0
+Color,Noah Buschel,66,95,8,399,Amy Ryan,529,17580,Drama,Merritt Wever,The Missing Person,1268,2749,Paul Adelstein,23,English,USA,1500000,2009,423,6.2,195
+Color,Brian Yuzna,46,97,97,163,Kent McCord,787,,Horror|Romance|Sci-Fi,Melinda Clarke,Return of the Living Dead III,10182,1362,Sarah Douglas,130,English,USA,2000000,1993,196,5.9,810
+Color,Hunter Richards,34,92,11,1000,Chris Evans,26000,12667,Drama|Romance,Jason Statham,London,19336,39518,Dane Cook,90,English,UK,14000,2005,11000,6.6,0
+Color,Laurie Collyer,78,96,38,85,Kate Burton,363,198407,Drama,Brad William Henke,Sherrybaby,10282,774,Michelle Hurst,78,English,USA,2000000,2006,223,6.6,474
+Color,Bruce McCulloch,52,85,54,455,Megan Mullally,985,13973532,Comedy|Crime,Martin Starr,Stealing Harvard,11211,3065,Chris Penn,92,English,USA,25000000,2002,637,5.1,215
+Color,Aaron Hann,29,87,0,94,Michael McLafferty,160,,Drama|Horror|Mystery|Sci-Fi|Thriller,Jordi Vilasuso,Circle,13279,776,Kaiwi Lyman-Mersereau,59,English,USA,,2015,152,6,0
+Color,James Watkins,161,91,43,418,Jack O'Connell,13000,5824,Horror|Thriller,Michael Fassbender,Eden Lake,57811,14561,Lorraine Stanley,357,English,UK,,2008,698,6.8,0
+Color,Catherine Hardwicke,18,99,308,395,James Kyson,638,2843,Thriller,Frances Fisher,Plush,2895,2341,Marlene Forte,24,English,USA,,2013,449,5.4,604
+Color,Phil Claydon,107,88,6,161,James Corden,513,,Action|Comedy|Fantasy|Horror,MyAnna Buring,Vampire Killers,17296,1593,Silvia Colloca,91,English,UK,,2009,480,5.2,0
+Color,Ralph Ziman,30,119,5,12,Kenneth Nkosi,29,4958,Action|Crime|Drama,Rapulana Seiphemo,Gangster's Paradise: Jerusalema,9689,86,Robert Hobbs,23,English,South Africa,2000000,2008,18,7.8,1000
+Color,John Simpson,24,99,0,268,Lee Evans,766,,Crime|Drama|Thriller,Colin Salmon,Freeze Frame,2588,1650,Ian McNeice,41,English,UK,2000000,2004,312,6.4,205
+Color,Colin Minihan,116,92,6,103,Sean Rogerson,253,,Horror,Mackenzie Gray,Grave Encounters,40380,762,Ashleigh Gryzko,235,English,Canada,100000,2011,113,6.1,0
+Color,Conor McMahon,98,86,5,47,Tommy Knight,121,,Comedy|Horror,Peter McQuinn,Stitches,6585,322,Jemma Curran,53,English,Ireland,,2012,94,5.7,0
+Color,Chris Shadley,25,83,0,107,William Lee Scott,413,,Crime|Drama|Horror|Mystery|Thriller,Daniel Baldwin,Nine Dead,9280,1149,Marc Macaulay,64,English,USA,2000000,2010,167,5.5,0
+Color,Simon Napier-Bell,,81,0,8,Tim Rice,674,,Documentary,Alice Cooper,"To Be Frank, Sinatra at 100",7,712,Louis Walsh,,English,UK,2000000,2015,27,7.4,0
+Color,Woody Allen,40,82,11000,167,Charlotte Rae,11000,,Comedy,Woody Allen,Bananas,27646,11700,Louise Lasser,105,English,USA,2000000,1971,430,7.1,0
+Color,Simon Yin,20,102,0,46,Linus Roache,473,13220,Thriller,Paul Sheehan,Supercapitalist,289,892,Kathy Uyen,9,English,USA,,2012,303,3.9,115
+Color,Jeff Crook,8,90,5,372,Mario Cimarro,601,,Action|Crime|Drama|Thriller,Nicholas Gonzalez,Rockaway,355,2395,Ricardo Chavira,6,English,USA,2000000,2007,453,4.6,44
+Color,,19,30,,424,Tim Daly,685,,Comedy|Drama,Steven Weber,Wings,7646,1884,Amy Yasbeck,56,English,USA,,,511,7.3,1000
+ Black and White,Orson Welles,90,92,0,18,Everett Sloane,1000,7927,Crime|Drama|Film-Noir|Mystery|Thriller,Rita Hayworth,The Lady from Shanghai,19236,1055,Ted de Corsia,175,English,USA,2300000,1947,29,7.7,0
+Color,Dave Payne,21,88,0,332,Lew Temple,633,,Horror|Thriller,Mircea Monroe,No Man's Land: The Rise of Reeker,2701,2620,Robert Pine,31,English,USA,2000000,2008,597,4.9,153
+Color,James Cox,12,97,10,171,M.C. Gainey,15000,,Crime|Drama,Jake Gyllenhaal,Highway,5182,15740,Mark Rolston,67,English,USA,14000000,2002,284,6.3,912
+,Jonas Åkerlund,33,96,68,722,Saffron Burrows,2000,,Comedy|Crime|Drama,Noel Gugliemi,Small Apartments,5732,3683,Matt Lucas,26,English,USA,2000000,2012,811,6.1,0
+Color,Brad Copeland,9,87,8,424,Ben Schwartz,34000,,Comedy,Sunil Narkar,Coffee Town,4204,35796,Glenn Howerton,19,English,USA,2000000,2013,463,6.6,0
+ Black and White,Paul Bunnell,94,106,5,356,Kevin McCarthy,416,2436,Comedy|Fantasy|Musical|Sci-Fi,Kate Maberly,The Ghastly Love of Johnny X,344,1611,Paul Williams,19,English,USA,2000000,2012,403,5.7,655
+Color,Phil Morrison,41,107,17,322,Curtiss Cook,594,4556,Comedy|Drama,Sally Hawkins,All Is Bright,4478,2020,Peter Hermann,23,English,USA,,2013,591,5.6,825
+Color,Harald Reinl,38,80,2,51,Lex Barker,16000,,Horror|Mystery,Christopher Lee,The Torture Chamber of Dr. Sadism,952,16110,Karin Dor,36,German,West Germany,,1967,57,6,200
+Color,James Cox,12,91,10,293,Powers Boothe,924,,Comedy|Drama,Jon Mack,Straight A's,3605,2654,Josh Meyers,20,English,USA,2000000,2013,472,5.7,0
+Color,Richard Lester,25,99,44,137,Zero Mostel,907,,Comedy|Musical,Buster Keaton,A Funny Thing Happened on the Way to the Forum,6804,1807,Phil Silvers,72,English,USA,2000000,1966,164,7,805
+Color,Michael Moore,27,102,909,119,Eddie Vedder,909,,Documentary,Michael Moore,Slacker Uprising,2242,1674,Steve Earle,15,English,USA,2000000,2007,562,5.3,69
+Color,Tanner Beard,2,108,531,894,Kevin Alejandro,10000,,Action|Adventure|History|Western,William McNamara,The Legend of Hell's Gate: An American Conspiracy,583,15707,Glenn Morshower,14,English,USA,2000000,2011,1000,4.4,651
+Color,Scott Dow,23,88,6,233,Wray Crawford,680,,Comedy|Horror,Trenton Rostedt,The Walking Deceased,2348,1425,Dave Sheridan,25,English,USA,1250000,2015,418,3.4,0
+Color,Derick Martini,32,89,20000,618,Bella Heathcote,2000,,Drama|Horror|Mystery|Thriller,Kevin Zegers,The Curse of Downers Grove,1040,4968,Tom Arnold,22,English,USA,2000000,2015,860,4.5,0
+Color,Jerry Dugan,18,92,3,412,Michael Aaron Milligan,11000,,Thriller,Melissa Bolona,Shark Lake,838,13583,James Chalke,17,English,USA,2000000,2015,1000,3.4,728
+ Black and White,Tim Hunter,45,99,28,223,Daniel Roebuck,18000,4600000,Crime|Drama,Keanu Reeves,River's Edge,11763,19649,Ione Skye,111,English,USA,1900000,1986,1000,7.1,0
+Color,Michael Polish,60,103,35,482,Anthony Edwards,548,1420578,Drama|Fantasy,Peter Coyote,Northfork,4894,2389,Jon Gries,122,English,USA,1900000,2003,495,6.4,298
+Color,William Kaufman,23,90,58,164,Mike 'The Miz' Mizanin,405,,Action|Thriller,Paul McGillion,The Marine 4: Moving Target,2032,1204,David Lewis,15,English,USA,1950000,2015,217,5.2,620
+Color,Rodrigo Cortés,363,95,89,263,Samantha Mathis,16000,1028658,Drama|Mystery|Thriller,Ryan Reynolds,Buried,118684,17471,Erik Palladino,447,English,Spain,3000000,2010,517,7,24000
+Color,Richard Ayoade,249,97,0,594,Paddy Considine,920,466702,Comedy|Drama|Romance,Craig Roberts,Submarine,65877,3275,Sally Hawkins,100,English,UK,,2010,680,7.3,17000
+Color,Jehane Noujaim,68,108,63,5,Ahmed Hassan,161,,Documentary|Drama|History|News,Khalid Abdalla,The Square,6678,176,Aida Elkashef,42,Arabic,Egypt,1500000,2013,10,8.1,0
+Color,Pascal Arnold,14,95,0,164,Lizzie Brocheré,533,18435,Drama,Karl E. Landler,One to Another,1010,1082,Pierre Perrier,15,French,France,1400000,2006,323,5.8,104
+Color,Kimberly Peirce,359,100,108,534,Judy Greer,17000,35266619,Drama|Fantasy|Horror,Chloë Grace Moretz,Carrie,108248,20051,Portia Doubleday,371,English,USA,30000000,2013,2000,5.9,39000
+Color,Remo,15,160,168,71,Remo,733,95236,Drama|Musical,Lauren Gottlieb,ABCD (Any Body Can Dance),5018,1182,Prabhudheva,38,Hindi,India,,2013,168,6.4,1000
+Color,Wes Craven,256,101,0,574,Lin Shaye,40000,26505000,Horror,Johnny Depp,A Nightmare on Elm Street,149293,42918,Amanda Wyss,668,English,USA,1800000,1984,852,7.5,10000
+Color,James Marsh,194,90,120,0,Philippe Petit,41,2957978,Biography|Crime|Documentary|History|Thriller,Paul McGill,Man on Wire,40481,68,Jean-Louis Blondeau,134,English,UK,1000000,2008,27,7.8,0
+Color,John Laing,,86,0,3,Peter Feeney,42,,Drama,Siobhan Marshall,Abandoned,333,90,Rachel Nash,6,English,New Zealand,,2015,40,6.3,213
+Color,Jamal Hill,10,89,47,585,Adam Ratcliffe,628,444044,Drama,Logan Browning,Brotherly Love,744,4249,Faizon Love,19,English,USA,1900000,2015,606,7.2,1000
+Color,Daniel Stamm,311,87,13,308,Ashley Bell,463,40990055,Drama|Horror|Thriller,Caleb Landry Jones,The Last Exorcism,41509,1958,Patrick Fabian,300,English,France,1800000,2010,400,5.6,0
+Color,Sam Taylor-Johnson,205,98,456,231,Ophelia Lovibond,1000,1445366,Biography|Drama|Music,Kristin Scott Thomas,Nowhere Boy,29019,2032,Anne-Marie Duff,75,English,UK,,2009,548,7.2,10000
+ Black and White,Elia Kazan,94,125,603,114,Karl Malden,10000,,Drama,Marlon Brando,A Streetcar Named Desire,78454,10570,Kim Hunter,233,English,USA,1800000,1951,416,8,5000
+ Black and White,Stanley Kubrick,192,95,0,277,Slim Pickens,654,,Comedy,George C. Scott,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,342585,1991,Keenan Wynn,839,English,USA,1800000,1964,575,8.5,18000
+Color,Carlos Carrera,85,118,12,67,Ana Claudia Talancón,201,5709616,Drama|Romance,Damián Alcázar,El crimen del padre Amaro,11088,546,Pedro Armendáriz Jr.,110,Spanish,Mexico,1800000,2002,163,6.8,544
+Color,Benh Zeitlin,663,93,188,168,Gina Montana,2000,12784397,Drama|Fantasy,Quvenzhané Wallis,Beasts of the Southern Wild,70336,2658,Dwight Henry,269,English,USA,1800000,2012,458,7.3,31000
+Color,J. Lee Thompson,62,96,88,196,Paul Williams,595,,Action|Sci-Fi,Roddy McDowall,Battle for the Planet of the Apes,22764,1432,Claude Akins,91,English,USA,1800000,1973,356,5.5,511
+Color,Maggie Greenwald,39,109,9,280,David Patrick Kelly,767,3050934,Drama|Music,Aidan Quinn,Songcatcher,2794,2187,Jane Adams,78,English,USA,1800000,2000,380,7.3,0
+Color,Vera Farmiga,68,109,0,186,Bill Irwin,553,841206,Drama,Donna Murphy,Higher Ground,2603,1439,Michael Chernus,34,English,USA,,2011,471,6.3,952
+Color,Vijay Chandar,3,155,0,61,T.R. Silambarasan,141,,Comedy|Romance,Hansika Motwani,Vaalu,563,349,Brahmanandam,6,Tamil,India,150000000,2015,77,5.1,82
+Color,Morgan Spurlock,130,90,293,808,J.J. Abrams,16000,638476,Comedy|Documentary,Quentin Tarantino,The Greatest Movie Ever Sold,13223,32405,Donald Trump,45,English,USA,1500000,2011,14000,6.6,0
+ Black and White,Jonathan Wacks,13,93,0,482,Gary Farmer,12000,,Comedy|Horror,Steve Buscemi,Ed and His Dead Mother,1435,14620,Jon Gries,17,English,USA,1800000,1993,580,6.1,266
+Color,Khyentse Norbu,44,108,28,0,Lhakpa Dorji,0,505295,Adventure|Drama,Tshewang Dendup,Travelers and Magicians,1747,0,Sonam Kinga,28,Dzongkha,Australia,1800000,2003,0,7.5,353
+Color,Ted Post,26,114,57,426,Bruce Dern,16000,,Western,Clint Eastwood,Hang 'Em High,25472,18263,Alan Hale Jr.,109,English,USA,1800000,1968,844,7,0
+ Black and White,Richard Brooks,27,87,174,114,Jim Backus,2000,,Crime|Drama|Film-Noir,Humphrey Bogart,Deadline - U.S.A.,1756,2831,Kim Hunter,28,English,USA,,1952,399,7.2,169
+Color,Tony Krantz,53,113,15,491,Tom Cavanagh,647,,Horror|Thriller,George Newbern,Sublime,6267,2439,Cas Anvar,103,English,USA,1800000,2007,642,5.3,368
+Color,Mitchell Altieri,,87,9,165,Luke Edwards,467,,Comedy|Horror|Thriller,Kimberley Crossman,A Beginner's Guide to Snuff,13,1270,Bree Williamson,,English,USA,,2016,258,8.7,8
+Color,W.D. Hogan,10,90,4,91,Keenan Tracey,433,,Action|Sci-Fi,Tom Everett Scott,Independence Daysaster,761,984,Nicholas Carella,12,English,Canada,1800000,2013,108,3.4,566
+Color,Corey Grant,4,111,21,685,Essence Atkins,761,,Comedy|Drama,Christian Keyes,Dysfunctional Friends,686,4306,Tatyana Ali,8,English,USA,1800000,2012,713,5.4,569
+ Black and White,Tom Tykwer,181,81,670,34,Ludger Pistor,486,7267324,Crime|Drama,Moritz Bleibtreu,Run Lola Run,161471,623,Armin Rohde,709,German,Germany,3500000,1998,37,7.8,0
+Color,Lucky McKee,114,93,75,446,Will Estes,701,145540,Drama|Horror,James Duval,May,26773,2489,Nora Zehetner,277,English,USA,500000,2002,461,6.7,0
+Color,Richard Boddington,11,90,15,120,CJ Adams,900,,Adventure|Family,Natasha Henstridge,Against the Wild,840,1724,Erin Pitt,9,English,Canada,2000000,2013,450,4.7,326
+Color,David Hunt,1,112,0,11,Chris Cleveland,86,,Horror,Matthew Alan,Living Dark: The Story of Ted the Caver,28,139,Circus-Szalewski,1,English,USA,1750000,2013,42,6.3,73
+Color,Patricia Riggen,75,106,36,345,Eugenio Derbez,953,12589108,Adventure|Drama,America Ferrera,Under the Same Moon,5526,2198,Kate del Castillo,58,Spanish,Mexico,,2007,399,7.4,0
+Color,J. Lee Thompson,80,88,88,67,Gordon Jump,595,,Action|Sci-Fi,Roddy McDowall,Conquest of the Planet of the Apes,23268,941,John Randolph,95,English,USA,1700000,1972,70,6.1,794
+Color,Todd Field,179,138,143,783,Sissy Spacek,1000,35918429,Crime|Drama,Tom Wilkinson,In the Bedroom,32415,3970,Karen Allen,510,English,USA,1700000,2001,874,7.5,951
+Color,Steven R. Monroe,225,105,68,374,Chad Lindberg,635,92401,Horror|Thriller,Sarah Butler,I Spit on Your Grave,56402,2423,Daniel Franzese,209,English,USA,2000000,2010,445,6.3,17000
+Color,Mark Illsley,77,98,3,327,Illeana Douglas,349,1943649,Comedy|Crime|Romance,Ally Walker,"Happy, Texas",8697,2095,Jeremy Northam,122,English,USA,1700000,1999,347,6.3,374
+Color,Pawel Pawlikowski,124,86,84,34,Natalie Press,680,992238,Drama|Romance,Paddy Considine,My Summer of Love,16349,763,Dean Andrews,103,English,UK,1700000,2004,46,6.8,869
+Color,Ritesh Batra,195,104,25,73,Nimrat Kaur,638,4231500,Drama|Romance,Nawazuddin Siddiqui,The Lunchbox,30479,822,Lillete Dubey,162,Hindi,India,1000000,2013,85,7.8,16000
+Color,Sally Potter,76,100,87,420,Joan Allen,887,396035,Drama|Romance,Shirley Henderson,Yes,2725,2721,Stephanie Leonidas,48,English,UK,1000000,2004,805,6.9,305
+ Black and White,Frank Capra,51,126,964,275,Ann Miller,319,,Comedy|Drama|Romance,Jean Arthur,You Can't Take It with You,17799,1363,Lionel Barrymore,133,English,USA,1644736,1938,302,8,0
+ Black and White,Fred Zinnemann,101,118,160,426,Donna Reed,862,,Drama|Romance|War,Montgomery Clift,From Here to Eternity,33987,2247,Deborah Kerr,150,English,USA,1650000,1953,488,7.8,0
+Color,John Ford,55,103,673,89,Ben Johnson,281,,Western,Harry Carey Jr.,She Wore a Yellow Ribbon,11920,955,Victor McLaglen,90,English,USA,1600000,1949,230,7.4,721
+Color,Brad J. Silverman,15,102,11,575,Michael Welch,651,2507106,Drama|Music,Shawnee Smith,Grace Unplugged,2561,3894,Anthony Reynolds,21,English,USA,,2013,611,6.1,0
+Color,Dave Meyers,16,84,11,249,Clifton Powell,489,6026908,Comedy|Drama,Eddie Griffin,Foolish,536,2196,Marla Gibbs,13,English,USA,2000000,1999,469,4.3,43
+Color,David M. Matthews,5,,8,394,Lamman Rucker,713,2592808,Crime|Drama|Thriller,Essence Atkins,N-Secure,548,3137,Tempestt Bledsoe,15,English,USA,,2010,607,3.5,588
+Color,Nadine Labaki,109,95,0,0,Adel Karam,227,1060591,Comedy|Drama|Romance,Yasmine Al Massri,Caramel,9750,231,Nadine Labaki,66,Arabic,France,1300000,2007,4,7.2,0
+Color,Lluís Quílez,40,92,0,2,Pixie Davies,327,,Horror|Thriller,Stephen Rea,Out of the Dark,2621,380,Alejandro Furth,18,English,USA,,2014,51,4.7,844
+Color,Eytan Fox,51,90,21,27,Lior Ashkenazi,53,155972,Comedy|Drama|Romance,Ohad Knoller,The Bubble,4702,137,Yousef 'Joe' Sweid,23,Hebrew,Israel,1500000,2006,30,7.3,0
+Color,Francis Ford Coppola,149,113,0,324,Teri Garr,11000,,Drama|Mystery|Thriller,Harrison Ford,The Conversation,74651,12157,Cindy Williams,313,English,USA,1600000,1974,481,7.9,6000
+Color,Romesh Sharma,4,,0,45,Revathy,421,129319,Romance,Annabelle Wallis,Dil Jo Bhi Kahey...,257,622,Bhoomika Chawla,4,English,India,70000000,2005,96,5.1,9
+Color,François Truffaut,35,123,0,21,Jean-Paul Belmondo,963,26893,Crime|Drama|Romance,Catherine Deneuve,Mississippi Mermaid,4391,1694,Michel Bouquet,26,French,France,1600000,1969,710,7.2,278
+Color,Adam Goldberg,22,111,1000,127,Marisa Coughlan,2000,2580,Drama|Mystery,Judy Greer,I Love Your Work,1618,2564,Nicky Katt,40,English,USA,1650000,2003,163,5.4,63
+Color,Travis Zariwny,68,99,4,114,Gage Golightly,427,,Horror,Dustin Ingram,Cabin Fever,3313,992,Samuel Davis,40,English,USA,,2016,253,3.7,2000
+Color,Zack Snyder,287,110,0,1000,Kevin Zegers,3000,58885635,Action|Horror|Thriller,Ty Burrell,Dawn of the Dead,194426,10438,Mekhi Phifer,1057,English,USA,26000000,2004,2000,7.4,7000
+Color,Adrienne Shelly,173,108,191,336,Cheryl Hines,597,19067631,Comedy|Drama|Romance,Lew Temple,Waitress,37714,1981,Eddie Jemison,204,English,USA,2000000,2007,541,7.1,0
+Color,Newt Arnold,61,92,15,49,Donald Gibb,633,11806119,Action|Biography|Drama|Sport,Bolo Yeung,Bloodsport,57578,1168,Ken Siu,210,English,USA,1100000,1988,403,6.8,0
+ Black and White,Frank Capra,96,120,964,248,Jean Arthur,607,,Comedy|Drama,Claude Rains,Mr. Smith Goes to Washington,77392,1573,Thomas Mitchell,245,English,USA,1500000,1939,319,8.2,0
+Color,Larry Clark,71,91,184,82,Leo Fitzpatrick,3000,7417210,Drama,Rosario Dawson,Kids,59041,3310,Justin Pierce,408,English,USA,1500000,1995,202,7,0
+Color,Noah Baumbach,110,88,387,18,Elizabeth Meriwether,436,7362100,Comedy|Drama,William Baldwin,The Squid and the Whale,60295,479,Owen Kline,232,English,USA,1500000,2005,25,7.4,0
+Color,Charles Herman-Wurmfeld,110,97,0,117,Jennifer Westfeldt,378,7022940,Comedy|Drama|Romance,Scott Cohen,Kissing Jessica Stein,14018,1173,Brian Stepanek,190,English,USA,1000000,2001,321,6.7,682
+Color,Yimou Zhang,101,95,611,3,Ni Yan,9,190666,Comedy|Drama,Honglei Sun,"A Woman, a Gun and a Noodle Shop",2410,18,Dahong Ni,20,Mandarin,China,,2009,4,5.7,784
+,John Stockwell,2,90,134,354,T.J. Storm,260000,,Action,Matthew Ziff,Kickboxer: Vengeance,246,261818,Sam Medina,1,,USA,17000000,2016,454,9.1,0
+Color,Alfred Hitchcock,97,95,13000,82,Rhonda Fleming,472,,Film-Noir|Mystery|Romance|Thriller,Norman Lloyd,Spellbound,32927,896,Leo G. Carroll,161,English,USA,1696377,1945,239,7.6,0
+Color,Atom Egoyan,53,103,460,900,Mia Kirshner,991,5132222,Drama|Mystery|Romance,Bruce Greenwood,Exotica,14112,2990,Sarah Polley,83,English,Canada,2000000,1994,971,7.2,619
+Color,Vincent Gallo,106,110,787,642,Vincent Gallo,1000,2365931,Comedy|Crime|Drama|Romance,Anjelica Huston,Buffalo '66,36657,4762,Jan-Michael Vincent,318,English,USA,1500000,1998,787,7.5,0
+Color,James Wan,445,103,0,588,Barbara Hershey,852,53991137,Fantasy|Horror|Mystery|Thriller,Lin Shaye,Insidious,202800,3030,Philip Friedman,752,English,USA,1500000,2010,618,6.8,60000
+Color,Alex Cox,131,92,92,166,Tracey Walter,752,,Comedy|Crime|Sci-Fi|Thriller,Del Zamora,Repo Man,25332,1652,Miguel Sandoval,148,English,USA,1500000,1984,324,6.9,0
+Color,Fabián Bielinsky,94,114,44,7,Gastón Pauls,827,1221261,Crime|Drama|Thriller,Ricardo Darín,Nine Queens,38215,856,Leticia Brédice,125,Spanish,Argentina,1500000,2000,22,7.9,0
+Color,Dror Moreh,105,101,4,0,Yuval Diskin,0,2408553,Documentary|War,Ami Ayalon,The Gatekeepers,4547,0,Yaakov Peri,33,Hebrew,Israel,,2012,0,7.6,0
+Color,Rebecca Miller,75,112,58,42,Susanna Thompson,552,712294,Drama,Beau Bridges,The Ballad of Jack and Rose,9408,859,Ryan McDonald,68,English,USA,1500000,2005,265,6.7,608
+Color,Maggie Carey,97,104,38,690,Alia Shawkat,801,3447339,Comedy|Romance,Donald Glover,The To Do List,29517,2667,Scott Porter,79,English,USA,1500000,2013,727,5.8,0
+Color,Roger Avary,37,99,675,164,Salvator Xuereb,902,418953,Crime|Drama|Thriller,Eric Stoltz,Killing Zoe,17322,1582,Jean-Hugues Anglade,93,English,France,1500000,1993,424,6.5,853
+ Black and White,Henry Bean,84,98,21,76,Theresa Russell,33000,406035,Drama,Ryan Gosling,The Believer,30314,33441,Summer Phoenix,159,English,USA,1500000,2001,243,7.2,0
+Color,David Gordon Green,88,107,234,442,Connor Paolo,947,402820,Drama|Romance,Michael Angarano,Snow Angels,10896,2747,Tom Noonan,57,English,USA,,2007,530,6.9,415
+Color,Simeon Rice,6,93,6,56,Lisa Brave,393,,Action|Horror|Thriller,Ward G. Smith,Unsullied,95,792,Malone Thomas,3,English,USA,1500000,2014,191,5.5,307
+Color,Brad Anderson,127,100,122,83,Brendan Sexton III,210,373967,Horror|Mystery,Paul Guilfoyle,Session 9,43839,469,Larry Fessenden,481,English,USA,1500000,2001,148,6.5,0
+Color,Jeff Garlin,32,80,522,423,Jeff Garlin,813,194568,Comedy|Romance,Jessy Schram,I Want Someone to Eat Cheese With,2963,2179,Joey Slotnick,28,English,USA,1500000,2006,522,6.2,0
+Color,Qasim Basir,8,94,13,616,Nia Long,1000,,Drama|Family,Dorian Missick,Mooz-Lum,919,3288,Evan Ross,14,English,USA,,2010,826,6.7,0
+Color,Adam Green,229,93,134,488,Kane Hodder,936,,Comedy|Horror,Joel David Moore,Hatchet,23349,3668,Joel Murray,235,English,USA,1500000,2006,935,5.7,0
+ Black and White,Charles Chaplin,120,87,0,8,Stanley Blystone,309,163245,Comedy|Drama|Family,Paulette Goddard,Modern Times,143086,352,Fred Malatesta,211,English,USA,1500000,1936,8,8.6,0
+Color,Pete Jones,31,91,18,597,Aidan Quinn,954,119841,Drama,Brian Dennehy,Stolen Summer,2419,3901,Bonnie Hunt,55,English,USA,1500000,2002,767,6.5,304
+Color,Bruce Campbell,100,84,0,158,Dan Hicks,634,173066,Comedy|Fantasy,Ted Raimi,My Name Is Bruce,21379,1238,Timothy Patrick Quill,88,English,USA,1500000,2007,328,6.3,0
+Color,Mark Brown,14,90,7,424,Monica Calhoun,890,92362,Comedy|Drama,Vivica A. Fox,The Salon,444,3138,Garrett Morris,5,English,USA,1500000,2005,597,4.3,68
+Color,Adam Carolla,14,98,102,360,Jim O'Heir,563,105943,Comedy,Jay Mohr,Road Hard,1351,2628,David Alan Grier,11,English,USA,1500000,2015,485,6.1,212
+Color,Ira Sachs,39,108,60,121,Jenny O'Hara,826,,Drama|Music|Romance,Rip Torn,Forty Shades of Blue,1134,1240,Darren E. Burrows,26,English,USA,1500000,2005,189,6,216
+Color,John Sayles,35,124,407,7,John Arcilla,38,183490,Drama|War,Brian Lee Franklin,Amigo,463,60,Ronnie Lazaro,8,English,USA,1700000,2010,8,5.8,594
+Color,Bruce McDonald,178,95,49,57,Georgina Reilly,413,3478,Fantasy|Horror,Stephen McHattie,Pontypool,22212,721,Boyd Banks,142,English,Canada,1500000,2008,98,6.7,0
+Color,James Mottern,46,90,7,711,Joey Lauren Adams,87000,52166,Drama,Jimmy Bennett,Trucker,2792,89263,Matthew Lawrence,22,English,USA,2000000,2008,781,6.7,371
+Color,Jaime Zevallos,,93,228,134,Jaime Zevallos,310,,Comedy|Drama|Romance,Angela Sarafyan,Me You and Five Bucks,7,771,Michael Elian,,English,USA,1500000,2015,228,7.6,132
+Color,Rob Zombie,234,101,0,721,Dee Wallace,1000,1163508,Drama|Fantasy|Horror|Thriller,Sid Haig,The Lords of Salem,20376,5158,Michael Berryman,166,English,USA,2500000,2012,725,5.1,15000
+Color,Gerard Johnstone,166,107,3,28,Bruce Hopkins,61,,Comedy|Horror|Mystery,Morgana O'Reilly,Housebound,23323,165,Cameron Rhodes,83,English,New Zealand,350000,2014,46,6.8,10000
+Color,Robert Greenwald,56,20,21,0,Jon Hunter,0,,Documentary,Lee Scott,Wal-Mart: The High Cost of Low Price,4120,0,Matt Hunter,70,English,USA,1500000,2005,0,6.8,0
+Color,David Ray,16,87,0,108,Sarah Lind,199,,Drama|Fantasy|Romance,Nicole Muñoz,Fetching Cody,1232,596,Kyla Wise,10,English,Canada,1500000,2005,134,6.8,193
+,Dave Rodriguez,9,98,11,636,Michael Rapaport,979,,Comedy|Drama,Chazz Palminteri,Once Upon a Time in Queens,291,4036,Paul Sorvino,7,English,USA,1500000,2013,975,6.3,283
+Color,Nae Caranfil,18,112,34,71,Joe Armstrong,129,,Comedy|Drama,Monica Barladeanu,Closer to the Moon,2841,588,Martin Hancock,13,English,Romania,5000000,2014,98,7.1,0
+Color,David Winning,4,82,65,146,Amber Marshall,341,,Sci-Fi,Ashanti,Mutant World,459,967,John DeSantis,10,English,Canada,1500000,2014,265,2.8,236
+Color,Frank Lotito,,102,5,259,Jake Busey,3000,,Comedy|Drama|Family,Brighton Sharbino,Growing Up Smith,108,4320,Tim Guinee,1,English,USA,2000000,2015,660,8.2,232
+Color,Timothy Woodward Jr.,6,97,764,492,Johnny Messner,835,,Action|Crime|Thriller,Katrina Law,Checkmate,735,2882,Michael Paré,18,English,USA,1500000,2015,522,3.1,402
+Color,Christopher McQuarrie,387,130,188,1000,Robert Duvall,10000,80033643,Action|Crime|Mystery|Thriller,Tom Cruise,Jack Reacher,226583,16385,David Oyelowo,448,English,USA,60000000,2012,3000,7,38000
+Color,Tara Subkoff,35,101,37,56,Balthazar Getty,501,,Drama|Horror|Mystery|Thriller,Timothy Hutton,#Horror,1547,1044,Lydia Hearst,42,English,USA,1500000,2015,418,3.3,750
+Color,Russell Friedenberg,27,93,9,485,Glen Powell,708,,Action|Horror|Thriller,Rudy Youngblood,Wind Walkers,133,2870,Kiowa Gordon,2,English,USA,2000000,2015,571,3.6,135
+Color,William Cottrell,145,83,0,31,Billy Gilbert,82,184925485,Animation|Family|Fantasy|Musical,Adriana Caselotti,Snow White and the Seven Dwarfs,133348,229,Lucille La Verne,204,English,USA,2000000,1937,47,7.7,0
+Color,Lucrecia Martel,78,106,33,3,Mercedes Morán,341,304124,Drama,Mía Maestro,The Holy Girl,2720,358,María Alche,37,Spanish,Argentina,1400000,2004,5,6.7,57
+Color,Edward Dmytryk,10,113,74,387,Woody Strode,984,,Western,Brigitte Bardot,Shalako,1978,2140,Honor Blackman,41,English,UK,1455000,1968,423,5.5,209
+Color,Zak Penn,60,94,87,37,Gabriel Beristain,87,36830,Adventure|Comedy|Horror,Zak Penn,Incident at Loch Ness,3291,256,John Bailey,63,English,UK,1400000,2004,70,6.6,400
+Color,Alex Ranarivelo,9,101,20,256,Christina Moore,1000,,Drama,Lea Thompson,The Dog Lover,162,2419,Cullen Douglas,8,English,USA,2000000,2016,301,4.8,724
+Color,Jon Knautz,63,99,10,295,Adam DiMarco,756,,Horror|Thriller,Camren Bicondova,Girl House,4948,2072,Chasty Ballesteros,33,English,Canada,3150000,2014,382,5.5,969
+Color,Mathieu Amalric,92,76,412,3,Léa Drucker,412,231186,Crime|Romance|Thriller,Mathieu Amalric,The Blue Room,2082,421,Laurent Poitrenaux,16,French,France,,2014,4,6.3,389
+Color,David Worth,4,91,58,69,Jonathan Mangum,847,,Horror|Thriller,Jessica Szohr,House at the End of the Drive,330,1159,Angela Jones,6,English,USA,1400000,2014,147,6.9,223
+Color,Leslie H. Martinson,53,105,7,356,Cesar Romero,1000,,Adventure|Comedy|Family,Burgess Meredith,Batman: The Movie,22975,2658,Burt Ward,155,English,USA,1377800,1966,370,6.5,0
+Color,Guy Ritchie,116,120,0,452,Jason Flemyng,26000,3650677,Comedy|Crime,Jason Statham,"Lock, Stock and Two Smoking Barrels",414976,28294,Dexter Fletcher,523,English,UK,960000,1998,1000,8.2,21000
+Color,Robert M. Young,,105,0,467,Bruce McGill,883,,Western,Barry Corbin,The Ballad of Gregorio Cortez,39,3164,Ned Beatty,2,English,USA,1250000,1982,655,7.1,32
+Color,,13,120,,,Michael Douglas,416,,Action|Crime|Drama|Mystery,Karl Malden,The Streets of San Francisco,3405,416,,13,English,USA,,,0,7.3,533
+Color,Thomas Vinterberg,98,105,346,141,Paprika Steen,280,1647780,Drama,Ulrich Thomsen,The Celebration,65951,821,Trine Dyrholm,258,Danish,Denmark,1300000,1998,278,8.1,5000
+Color,Steve Buscemi,43,95,12000,636,Debi Mazar,12000,695229,Comedy|Drama,Steve Buscemi,Trees Lounge,11369,14420,Carol Kane,65,English,USA,1300000,1996,680,7.2,872
+Color,Ham Tran,15,135,5,5,Kieu Chinh,51,638951,Drama,Long Nguyen,Journey from the Fall,775,83,Cat Ly,19,Vietnamese,USA,1592000,2006,24,7.4,100
+Color,Rich Cowan,14,105,7,548,Karen Allen,2000,609042,Drama,Eric Dane,The Basket,449,3475,Peter Coyote,38,English,USA,1300000,1999,783,6.5,117
+Color,Boris Rodriguez,56,83,5,98,Thure Lindhardt,413,1521,Comedy|Horror,Stephen McHattie,Eddie: The Sleepwalking Cannibal,1231,843,Georgina Reilly,10,English,Canada,1500000,2012,197,5.7,932
+Color,Harold Becker,79,111,17,652,Miko Hughes,13000,32940507,Action|Crime|Drama|Thriller,Bruce Willis,Mercury Rising,54316,16537,Carrie Preston,127,English,USA,60000000,1998,969,6.1,0
+Color,,8,60,,109,Tucker Smallwood,210,,Drama|Sci-Fi,James Morrison,Space: Above and Beyond,6381,611,Kristen Cloke,79,English,USA,5000000,,121,7.7,963
+Color,Sadyk Sher-Niyaz,16,135,135,0,Aziz Muradillayev,0,,Action|Biography|Drama|History,Elina Abai Kyzy,Queen of the Mountains,3144,0,Mirlan Abdulayev,24,English,Kyrgyzstan,1400000,2014,0,8.7,0
+Color,Paul Donovan,18,88,4,13,Lenore Zann,232,,Action|Sci-Fi,Maury Chaykin,Def-Con 4,1339,289,Tim Choate,46,English,Canada,1750000,1985,23,4.3,220
+ Black and White,Jonathan Kesselman,35,87,4,624,Adam Goldberg,2000,19539,Comedy,Judy Greer,The Hebrew Hammer,4182,6227,Tony Cox,53,English,USA,1000000,2003,1000,6.2,3000
+Color,Arjun Sablok,5,97,0,40,Uday Chopra,374,100358,Comedy|Musical|Romance,Abhishek Bachchan,Neal 'N' Nikki,1167,602,Samantha McLeod,24,English,India,1500000,2005,145,3.3,66
+Color,Craig Moss,16,82,19,134,Bryan Callen,700,,Comedy,Noureen DeWulf,The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It,5579,1499,Matt Crabtree,42,English,USA,1300000,2010,460,2.7,0
+Color,Tyler Oliver,24,103,0,511,Chloe Bridges,35000,,Horror|Romance|Thriller,Bella Thorne,Forget Me Not,4866,38121,Christopher Atkins,38,English,USA,1300000,2009,516,5.2,969
+ Black and White,Alfred Hitchcock,144,130,13000,333,Joan Fontaine,1000,,Drama|Film-Noir|Mystery|Thriller,Laurence Olivier,Rebecca,87424,2888,George Sanders,276,English,USA,1288000,1940,991,8.2,0
+Color,Steve Miner,242,87,49,59,Adrienne King,309,19100000,Horror|Mystery|Thriller,Betsy Palmer,Friday the 13th Part 2,39690,707,Amy Steel,394,English,USA,1250000,1981,121,6.1,0
+ Black and White,Billy Wilder,97,101,0,66,Jane Wyman,287,,Drama|Film-Noir,Ray Milland,The Lost Weekend,24959,581,Frank Faylen,136,English,USA,1250000,1945,160,8,0
+Color,Douglas Cheek,77,96,4,132,John Heard,796,,Horror|Sci-Fi,Daniel Stern,C.H.U.D.,7528,1866,Sam McMurray,88,English,USA,1250000,1984,697,5.5,0
+Color,Youssef Delara,16,80,8,183,Jenni Rivera,2000,2833383,Drama|Music,Noel Gugliemi,Filly Brown,910,2459,Jorge Diaz,11,English,USA,427000,2012,245,5.7,0
+Color,Deryck Broom,7,87,11,397,Omar Benson Miller,578,,Animation,Vic Mignogna,The Lion of Judah,458,1730,Anupam Kher,3,English,USA,15000000,2011,418,3.7,381
+Color,Henry Hathaway,74,92,83,48,Jean Peters,469,,Crime|Film-Noir|Thriller,Joseph Cotten,Niagara,11047,683,Will Wright,116,English,USA,1250000,1953,79,7.1,1000
+ Black and White,John Ford,74,118,673,137,Walter Pidgeon,595,,Drama|Family,Roddy McDowall,How Green Was My Valley,15840,1129,Barry Fitzgerald,124,English,USA,1250000,1941,176,7.8,0
+Color,,19,27,,201,Riley Keough,934,,Drama,Mary Lynn Rajskub,The Girlfriend Experience,3282,1961,Paul Sparks,17,English,USA,,,691,7.3,632
+Color,Spike Lee,46,123,0,161,Elvis Nolasco,3000,,Comedy|Romance|Thriller,Rami Malek,Da Sweet Blood of Jesus,794,4040,Felicia Pearson,9,English,USA,1420000,2014,372,4.1,447
+Color,Steven Soderbergh,58,100,0,65,Laura San Giacomo,828,24741700,Drama,Peter Gallagher,"Sex, Lies, and Videotape",37785,1431,Steven Brill,95,English,USA,1200000,1989,531,7.2,2000
+Color,James Wan,287,103,0,651,Monica Potter,2000,55153403,Horror|Mystery|Thriller,Michael Emerson,Saw,299127,5161,Shawnee Smith,1509,English,USA,1200000,2004,878,7.7,0
+Color,Jay Chandrasekhar,100,100,422,422,Daniel von Bargen,816,18488314,Comedy|Crime|Mystery,Geoffrey Arend,Super Troopers,76151,2893,Jay Chandrasekhar,333,English,USA,1200000,2001,577,7.1,0
+Color,Giovanni Zelko,5,99,4,434,Harry Lennix,18000,,Action|Romance|Thriller,Zuhair Haddad,The Algerian,101,20218,Ben Youcef,1,English,USA,1300000,2014,748,7.6,221
+Color,Claudia Sainte-Luce,50,89,0,3,Vera Wilson,31,11278,Comedy|Drama,Ximena Ayala,The Amazing Catfish,1229,58,José Manuel Orozco Angulo,2,Spanish,Mexico,1300000,2013,24,7,407
+Color,Scott Derrickson,276,104,301,71,Jon Hamm,18000,79363785,Drama|Sci-Fi|Thriller,Keanu Reeves,The Day the Earth Stood Still,139426,22194,Juan Riedinger,698,English,USA,80000000,2008,4000,5.5,0
+Color,Mira Nair,137,114,300,73,Randeep Hooda,307,13876974,Comedy|Drama|Romance,Naseeruddin Shah,Monsoon Wedding,19397,809,Lillete Dubey,214,Hindi,India,7000000,2001,209,7.4,0
+Color,Kenneth Lonergan,122,111,50,612,Rory Culkin,2000,9180275,Drama,Matthew Broderick,You Can Count on Me,22145,4288,Gaby Hoffmann,231,English,USA,1200000,2000,710,7.7,756
+Color,Alfred Hitchcock,73,99,13000,232,John Forsythe,282,,Comedy|Mystery|Romance,Jerry Mathers,The Trouble with Harry,24891,1041,Royal Dano,150,English,USA,1200000,1955,255,7.2,0
+Color,Paul McGuigan,202,110,118,1000,Morgan Freeman,13000,22494487,Crime|Drama|Mystery|Thriller,Bruce Willis,Lucky Number Slevin,262160,26451,Dorian Missick,507,English,Germany,27000000,2006,11000,7.8,10000
+Color,Jamie Babbit,99,85,91,849,Clea DuVall,1000,2199853,Comedy|Drama,Natasha Lyonne,But I'm a Cheerleader,19986,4289,Eddie Cibrian,186,English,USA,1200000,1999,1000,6.6,0
+Color,David Boyd,10,113,29,449,Drew Waters,890,2859955,Drama|Sport,Vivica A. Fox,Home Run,2417,2681,Scott Elrod,32,English,USA,1200000,2013,848,6,0
+Color,Quentin Tarantino,173,99,16000,455,Steve Buscemi,16000,2812029,Crime|Drama|Thriller,Quentin Tarantino,Reservoir Dogs,664719,28994,Chris Penn,931,English,USA,1200000,1992,12000,8.4,19000
+ Black and White,Walter Lang,7,83,9,51,Nigel Bruce,94,,Drama|Family|Fantasy,Spring Byington,The Blue Bird,1047,293,Gale Sondergaard,25,English,USA,,1940,62,6.5,548
+Color,Sergio Leone,181,142,0,24,Luigi Pistilli,16000,6100000,Western,Clint Eastwood,"The Good, the Bad and the Ugly",503509,16089,Enzo Petito,780,Italian,Italy,1200000,1966,34,8.9,20000
+Color,Anna Muylaert,111,112,9,4,Regina Casé,61,375723,Comedy|Drama,Alex Huszar,The Second Mother,7025,76,Luis Miranda,26,Portuguese,Brazil,4000000,2015,9,7.9,0
+Color,Steve Taylor,38,108,14,274,Marshall Allman,1000,594904,Comedy|Drama,Jason Marsden,Blue Like Jazz,2582,1805,Eric Lange,89,English,USA,1200000,2012,330,6,0
+Color,Kurt Voss,12,88,0,3,Coyote Shivers,268,58936,Comedy|Music,Lemmy,Down and Out with the Dolls,91,318,Zoë Poledouris,4,English,USA,1200000,2001,44,6.1,27
+Color,Léa Pool,23,97,4,,,,24784,Documentary,,"Pink Ribbons, Inc.",591,0,,10,English,Canada,1200000,2011,,7.4,5000
+Color,James David Pasternak,17,85,0,924,Sarah Silverman,49000,7826,Comedy|Documentary,Robin Williams,Certifiably Jonathan,132,54484,Jonathan Winters,2,English,USA,1200000,2007,931,6.2,87
+Color,Laurent Bouhnik,9,103,0,24,Johnny Amaro,34,,Drama,Déborah Révy,Q,4068,114,Yassine Azzouz,16,French,France,1500000,2011,29,5.6,754
+Color,Tom Sanchez,1,110,0,0,Antonio Arrué,3,3830,Comedy|Drama,Nataniel Sánchez,The Knife of Don Juan,27,5,Juan Carlos Montoya,1,Spanish,USA,1200000,2013,2,7.2,75
+Color,David Caffrey,51,88,4,95,Scott Adsit,690,,Adventure|Comedy|Drama,Marley Shelton,Grand Theft Parsons,2953,1438,Jim Cody Williams,38,English,USA,,2003,316,6.1,480
+Color,Adam Jay Epstein,14,76,0,227,Denise Boutte,387,,Comedy,Rich Ceraulo,Extreme Movie,9560,1190,Vanessa Lee Chester,35,English,USA,,2008,295,3.8,636
+ Black and White,Michael Curtiz,24,100,345,94,David Niven,843,,Action|Adventure|Romance|War,Errol Flynn,The Charge of the Light Brigade,3418,1621,Spring Byington,52,English,USA,1200000,1936,490,7.1,204
+Color,Justin Thomas Ostensen,18,99,0,5,Kristin Booth,721,,Thriller,Michael Berryman,Below Zero,652,862,Michael Eisner,11,English,Canada,1200000,2011,134,4.5,161
+Color,Brenton Spencer,22,84,0,63,Victor Zinck Jr.,380,,Action|Horror|Mystery|Thriller,Christie Burke,Crowsnest,1321,630,Chelsey Reist,51,English,Canada,1200000,2012,91,3.8,238
+Color,Rob Bowman,9,91,38,117,Jacob Vargas,584,2850263,Adventure|Comedy|Sport,Alanna Ubach,Airborne,5061,1218,Brittney Powell,70,English,USA,2600000,1993,399,6.2,0
+Color,Ossie Davis,30,97,282,148,Cleavon Little,586,,Action|Comedy,Redd Foxx,Cotton Comes to Harlem,1172,1581,Calvin Lockhart,27,English,USA,1200000,1970,434,6.6,477
+Color,Jay Alaimo,9,84,2,475,Sabrina Carmichael,10000,,Horror,William McNamara,The Wicked Within,742,11257,Patrick Muldoon,7,English,USA,1200000,2015,500,4.6,479
+Color,Dylan Bank,7,100,0,312,Deirdre Lorenz,498,,Horror,Seregon O'Dassey,Bleeding Hearts,71,1810,Dustin Diamond,2,English,USA,1200000,2015,350,4.2,242
+Color,Rob McKittrick,91,94,6,804,Dane Cook,16000,16101109,Comedy,Ryan Reynolds,Waiting...,76467,19957,Vanessa Lengies,236,English,USA,3000000,2005,1000,6.8,0
+ Black and White,Shane Meadows,99,90,222,68,Gary Stretch,680,6013,Crime|Drama|Thriller,Paddy Considine,Dead Man's Shoes,39929,1311,George Newton,207,English,UK,695393,2004,404,7.7,0
+Color,,2,,,206,John Jarratt,511,,Drama|Horror|Thriller,Richard Cawthorne,Wolf Creek,726,1617,Lucy Fry,6,English,Australia,,,457,7.1,954
+Color,Jeff Burr,57,92,155,147,Clu Gulager,448,1400000,Action|Drama|Horror|Thriller,Terry Kiser,From a Whisper to a Scream,1324,1329,Susan Tyrrell,37,English,USA,1100000,1987,426,5.9,241
+Color,Harry Gantz,12,105,0,,,,247740,Documentary|Drama,,Sex with Strangers,285,0,,8,English,USA,,2002,,4.7,51
+ Black and White,Guy Maddin,58,73,126,3,CindyMarie Small,14,39659,Comedy|Horror|Musical,Sarah Murphy-Dyson,Dracula: Pages from a Virgin's Diary,1555,21,Brent Neale,32,English,Canada,1600000,2002,4,7,131
+Color,Regardt van den Bergh,5,116,12,25,Frank Rautenbach,412,,Drama,Sean Cameron Michael,Faith Like Potatoes,2050,521,Jeanne Neilson,36,Zulu,South Africa,10000000,2006,48,6.9,0
+Color,Panos Cosmatos,97,110,22,48,Marilyn Norry,434,56129,Sci-Fi|Thriller,Chris Gauthier,Beyond the Black Rainbow,6555,645,Eva Bourne,82,English,Canada,1100000,2010,95,6.1,0
+Color,Gareth Evans,481,102,338,60,Yayan Ruhian,1000,4105123,Action|Crime|Thriller,Iko Uwais,The Raid: Redemption,148221,1445,Donny Alamsyah,316,Indonesian,Indonesia,1100000,2011,342,7.6,51000
+Color,Matthew R. Anderson,17,89,252,252,Vernon Wells,1000,,Action|Horror|Sci-Fi,Johnny Pacar,The Dead Undead,737,2510,Matthew R. Anderson,15,English,USA,1100000,2010,745,3,444
+Color,Joe Marino,9,76,0,0,Anella Vastola,12,,Horror,Piero Maggiò,The Vatican Exorcisms,332,12,Joe Marino,10,English,Italy,1100000,2013,0,2.6,200
+Color,Michael Curtiz,242,82,345,269,Claude Rains,2000,,Drama|Romance|War,Humphrey Bogart,Casablanca,387508,3442,Conrad Veidt,1123,English,USA,950000,1942,607,8.6,23000
+Color,Joel Anderson,95,89,0,5,Rosie Traynor,12,,Drama|Horror|Mystery|Thriller,Talia Zucker,Lake Mungo,9465,29,Martin Sharpe,85,English,Australia,1400000,2008,5,6.1,0
+Color,Shimit Amin,14,150,6,20,Shazahn Padamsee,964,,Comedy|Drama,Ranbir Kapoor,Rocket Singh: Salesman of the Year,11010,1052,Gauhar Khan,35,Hindi,India,,2009,22,7.5,773
+Color,Douglas Trumbull,87,89,136,42,Ron Rifkin,844,,Drama|Sci-Fi,Bruce Dern,Silent Running,20678,1080,Jesse Vint,199,English,USA,1000000,1972,184,6.7,0
+Color,John G. Avildsen,141,145,80,794,Burgess Meredith,13000,117235247,Drama|Sport,Sylvester Stallone,Rocky,375240,16094,Carl Weathers,542,English,USA,960000,1976,1000,8.1,0
+Color,Mona Fastvold,16,91,2,9,Brady Corbet,321,,Drama,Christopher Abbott,The Sleepwalker,512,622,Gitte Witt,2,English,Norway,1100000,2014,287,4.9,234
+Color,John Carpenter,212,89,0,606,Hal Holbrook,2000,21378000,Fantasy|Horror,Jamie Lee Curtis,The Fog,46493,4878,Janet Leigh,335,English,USA,1000000,1980,826,6.8,7000
+Color,Tony Richardson,30,121,62,69,Susannah York,883,,Adventure|Comedy|History,Albert Finney,Tom Jones,8508,1371,Hugh Griffith,56,English,UK,1000000,1963,269,6.8,328
+Color,Levan Gabriadze,270,83,6,142,Renee Olstead,707,31537320,Horror|Mystery|Thriller,Shelley Hennig,Unfriended,44329,1565,Heather Sossaman,309,English,USA,1000000,2014,305,5.7,13000
+Color,Martin Scorsese,211,110,17000,595,Albert Brooks,22000,,Crime|Drama,Robert De Niro,Taxi Driver,507063,23525,Peter Boyle,881,English,USA,1300000,1976,745,8.3,35000
+Color,Joe Dante,161,91,287,725,Robert Picardo,1000,17986000,Horror,Patrick Macnee,The Howling,22773,4438,Dee Wallace,195,English,USA,1000000,1981,823,6.6,0
+Color,Terence Young,184,110,92,177,Jack Lord,650,16067035,Action|Adventure|Thriller,Ursula Andress,Dr. No,116642,1421,Lois Maxwell,389,English,UK,1100000,1962,275,7.3,5000
+Color,Bradley Parker,270,86,18,300,Ingrid Bolsø Berdal,1000,18112929,Horror|Mystery|Sci-Fi|Thriller,Jesse McCartney,Chernobyl Diaries,52642,2665,Jonathan Sadowski,271,English,USA,1000000,2012,466,5,24000
+Color,Clive Barker,203,86,385,100,Ashley Laurence,266,14564027,Fantasy|Horror,Andrew Robinson,Hellraiser,76407,673,Clare Higgins,335,English,UK,1000000,1987,209,7,0
+Color,Harold Cronk,29,120,18,295,Robin Givens,634,20773070,Drama,Benjamin A. Onyango,God's Not Dead 2,4501,1810,Maria Canals-Barrera,102,English,USA,5000000,2016,420,3.4,0
+Color,Jeff Wadlow,137,90,65,683,Gary Cole,1000,10042266,Drama|Horror|Mystery|Thriller,Julian Morris,Cry_Wolf,23021,3155,Lindy Booth,220,English,USA,1000000,2005,989,5.9,816
+Color,Takao Okawara,107,99,2,3,Naomi Nishida,43,10037390,Action|Adventure|Drama|Sci-Fi|Thriller,Hiroshi Abe,Godzilla 2000,5442,53,Sakae Kimura,140,Japanese,Japan,1000000000,1999,3,6,339
+Color,Derek Cianfrance,377,112,310,616,Mike Vogel,33000,9701559,Drama|Romance,Ryan Gosling,Blue Valentine,141425,35941,John Doman,283,English,USA,3500000,2010,2000,7.4,25000
+Color,Duncan Tucker,169,103,2,226,Felicity Huffman,2000,9013113,Adventure|Comedy|Drama,Kevin Zegers,Transamerica,36321,3192,Paul Borghese,230,English,USA,1000000,2005,508,7.4,0
+Color,William Brent Bell,225,83,19,128,Claudiu Trandafir,403,53245055,Horror,Fernanda Andrade,The Devil Inside,30570,988,Brian Johnson,290,English,USA,1000000,2012,169,4.2,12000
+Color,Russ Meyer,101,109,199,44,Cynthia Myers,503,9000000,Comedy|Drama|Music,Charles Napier,Beyond the Valley of the Dolls,7584,731,Harrison Page,137,English,USA,900000,1970,46,6.2,0
+ Black and White,Robert D. Webb,39,89,0,102,Neville Brand,356,,Drama|Romance|Western,James Drury,Love Me Tender,2636,831,Debra Paget,36,English,USA,1000000,1956,110,6.2,365
+Color,Davis Guggenheim,372,96,49,,Al Gore,861,23808111,Documentary,Billy West,An Inconvenient Truth,67654,929,,504,English,USA,,2006,68,7.5,0
+ Black and White,Allan Dwan,40,109,23,88,Richard Jaeckel,183,,Action|Drama|Romance|War,James Brown,Sands of Iwo Jima,7346,510,Forrest Tucker,69,English,USA,1000000,1949,102,7.2,624
+Color,Martin Scorsese,129,122,17000,184,Keith Richards,543,5355376,Biography|Documentary|Music,Mick Jagger,Shine a Light,9638,1218,Albert Maysles,67,English,USA,,2008,426,7.2,0
+Color,Eli Roth,285,100,0,389,Richard Burgi,640,7186670,Adventure|Horror,Daryl Sabara,The Green Inferno,21468,2082,Magda Apanowicz,164,English,USA,6000000,2013,550,5.4,12000
+Color,Andrew Steggall,29,109,0,30,Alex Lawther,202,,Drama|Family|Romance,Juliet Stevenson,Departure,162,283,Niamh Cusack,5,English,UK,1100000,2015,47,7,75
+Color,Ben Lewin,337,95,20,365,Adam Arkin,422,5997134,Biography|Comedy|Drama|Romance,W. Earl Brown,The Sessions,36381,1899,Rhea Perlman,126,English,USA,1000000,2012,374,7.2,11000
+Color,Robert Kenner,120,94,11,2,Eric Schlosser,37,4417124,Documentary,Michael Pollan,"Food, Inc.",42389,42,Barbara Kowalcyk,183,English,USA,,2008,3,7.9,37000
+Color,Andrew Erwin,40,107,10,245,Robert Amaya,544,5355847,Drama,Rachel Hendrix,October Baby,6110,1147,Jason Burkey,82,English,USA,,2011,264,6.8,0
+Color,Brad Anderson,38,104,122,458,Callie Thorne,22000,3386698,Comedy|Drama|Romance,Philip Seymour Hoffman,Next Stop Wonderland,4195,23461,Holland Taylor,86,English,USA,1000000,1998,472,6.7,392
+Color,Jason Reitman,387,96,655,973,Jennifer Garner,24000,143492840,Comedy|Drama|Romance,J.K. Simmons,Juno,414345,28817,Rainn Wilson,881,English,USA,7500000,2007,3000,7.5,10000
+Color,Craig Johnson,185,93,7,180,Boyd Holbrook,3000,5283379,Comedy|Drama,Ty Burrell,The Skeleton Twins,31254,3986,Kathleen Rose Perkins,79,English,USA,,2014,439,6.8,0
+Color,Sean Durkin,348,102,46,287,Julia Garner,321,2981638,Drama|Mystery|Thriller,Christopher Abbott,Martha Marcy May Marlene,40425,1263,Brady Corbet,186,English,USA,,2011,300,6.9,0
+Color,Gillian Robespierre,155,84,9,313,Jenny Slate,612,3122616,Comedy|Drama,Gaby Hoffmann,Obvious Child,16594,1587,Jake Lacy,73,English,USA,,2014,457,6.8,0
+Color,Courtney Hunt,181,97,33,229,Michael O'Keefe,496,2508841,Crime|Drama,Charlie McDermott,Frozen River,21746,994,Misty Upham,93,English,USA,1000000,2008,238,7.2,0
+Color,Morgan Neville,149,91,9,13,Lou Adler,130,4946250,Documentary|Music,Sheryl Crow,20 Feet from Stardom,9540,198,Merry Clayton,80,English,USA,1000000,2013,19,7.4,14000
+Color,James Toback,54,84,56,13,Natasha Gregson Wagner,21000,1950218,Comedy|Drama,Robert Downey Jr.,Two Girls and a Guy,5933,21124,Angel David,102,English,USA,1000000,1997,104,5.6,387
+Color,Nicole Holofcener,18,86,132,584,Anne Heche,778,1277257,Comedy|Drama|Romance,Kevin Corrigan,Walking and Talking,2629,2400,Vincent Pastore,32,English,UK,1000000,1996,695,6.8,227
+Color,Peter Cattaneo,122,91,11,121,Mark Addy,1000,45857453,Comedy|Drama|Music,Tom Wilkinson,The Full Monty,82232,2323,Lesley Sharp,174,English,UK,3500000,1997,891,7.2,0
+Color,Chris Paine,87,92,2,5,Phyllis Diller,783,1677838,Documentary,Ed Begley Jr.,Who Killed the Electric Car?,11283,1447,Colette Divine,155,English,USA,1000000,2006,659,7.7,0
+Color,Greg Berlanti,51,94,112,428,Nia Long,1000,1744858,Comedy|Drama|Romance|Sport,Justin Theroux,The Broken Hearts Club: A Romantic Comedy,6084,3085,Mary McCormack,120,English,USA,1000000,2000,826,7,671
+Color,Don Coscarelli,260,92,152,124,Ossie Davis,1000,,Comedy|Fantasy|Mystery,Daniel Roebuck,Bubba Ho-Tep,38893,1587,Ella Joyce,366,English,USA,1000000,2002,282,7.2,0
+Color,Rob Letterman,218,103,11,543,Dylan Minnette,2000,80021740,Adventure|Comedy|Family|Fantasy|Horror,Odeya Rush,Goosebumps,47988,5497,Ken Marino,154,English,USA,58000000,2015,1000,6.4,35000
+Color,Marc Levin,16,100,12,6,Saul Williams,245,982214,Drama,Sonja Sohn,Slam,1976,295,Bonz Malone,51,English,USA,1000000,1998,38,7.2,603
+Color,Richard Dutcher,12,119,13,25,Frank Gerrish,957,798341,Crime|Drama|Mystery,Wilford Brimley,Brigham City,983,1107,Rick Macy,63,English,USA,1000000,2001,81,7.2,100
+ Black and White,Khalid Mohamed,1,167,10,97,Manoj Bajpayee,353,610991,Drama|Romance,Karisma Kapoor,Fiza,2715,773,Jaya Bhaduri,19,Hindi,India,1000000,2000,186,6.2,92
+Color,Mel Brooks,48,92,0,842,Sid Caesar,1000,,Comedy,Madeline Kahn,History of the World: Part I,36559,3931,Dom DeLuise,131,English,USA,11000000,1981,898,6.9,0
+Color,Trey Parker,59,92,406,194,Dian Bachar,406,582024,Comedy|Sci-Fi,Trey Parker,Orgazmo,30396,904,Matt Stone,168,English,USA,1000000,1997,203,6.2,0
+Color,David Gordon Green,88,108,234,463,Paul Schneider,11000,548712,Drama|Romance,Zooey Deschanel,All the Real Girls,9233,12385,Shea Whigham,126,English,USA,2500000,2003,552,6.9,571
+Color,Finn Taylor,28,97,4,301,Cathy Moriarty,611,464655,Comedy|Drama,David Arquette,Dream with the Fishes,1524,1692,Kathryn Erbe,29,English,USA,1000000,1997,394,7,166
+Color,Karen Moncrieff,44,88,22,275,Agnes Bruckner,638,464126,Drama,Frances Fisher,Blue Car,3142,1641,A.J. Buckley,68,English,USA,1000000,2002,400,6.7,115
+Color,José Luis Valenzuela,13,100,0,268,Lupe Ontiveros,844,428535,Comedy|Romance,Cheech Marin,Luminarias,505,2289,Robert Beltran,32,English,USA,1000000,2000,625,3.6,24
+Color,Gia Coppola,117,100,71,145,Nat Wolff,11000,750100,Drama,James Franco,Palo Alto,19752,12234,Olivia Crocicchia,61,English,USA,,2013,733,6.3,0
+Color,Scandar Copti,100,124,13,7,Scandar Copti,20,621240,Crime|Drama,Shahir Kabaha,Ajami,4999,42,Ranin Karim,32,Arabic,Germany,,2009,13,7.4,0
+Color,Goran Dukic,117,88,21,772,Patrick Fugit,1000,104077,Comedy|Drama|Fantasy|Romance,Leslie Bibb,Wristcutters: A Love Story,46076,4720,Chase Ellison,88,English,USA,1000000,2006,835,7.4,11000
+Color,Mike Cahill,140,106,135,11,Cara Seymour,7000,334658,Drama|Romance|Sci-Fi,Steven Yeun,I Origins,75633,7098,Venida Evans,160,English,USA,,2014,71,7.3,32000
+Color,Efram Potelle,29,79,2,551,Elden Henson,855,279282,Comedy|Drama|Romance,Shiri Appleby,The Battle of Shaker Heights,3806,2489,Kathleen Quinlan,49,English,USA,1000000,2003,577,6.1,150
+Color,Peter Jackson,308,135,0,310,AJ Michalka,873,43982842,Drama|Fantasy|Thriller,Michael Imperioli,The Lovely Bones,125114,2369,Tom McCarthy,593,English,USA,65000000,2009,559,6.7,16000
+Color,Joshua Oppenheimer,248,96,50,0,Herman Koto,3,484221,Biography|Crime|Documentary|History,Anwar Congo,The Act of Killing,23836,6,Syamsul Arifin,107,Indonesian,UK,1000000,2012,3,8.2,20000
+Color,Alex Gibney,84,53,141,23,George W. Bush,141,274661,Crime|Documentary|War,Alex Gibney,Taxi to the Dark Side,10564,313,Greg D'Agostino,40,English,USA,1000000,2007,125,7.7,0
+Color,Paul Crowder,40,97,10,5,Marv Albert,102,144431,Documentary|Sport,Pelé,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,1290,118,Ahmet Ertegun,13,English,UK,1000000,2006,7,7.3,587
+Color,Rohit Jagessar,,120,0,0,Rufus Graham,12,227241,Drama,Kumar Gaurav,Guiana 1838,56,15,Aasheekaa Bathija,2,English,USA,,2004,3,7.4,32
+Color,Griffin Dunne,13,90,165,679,Fisher Stevens,978,112521,Comedy|Drama,Mira Sorvino,Lisa Picard Is Famous,455,3258,Melissa Gilbert,16,English,USA,,2000,922,5.7,25
+Color,Anthony Powell,31,91,9,9,Tom Hamann,53,287761,Adventure|Biography|Documentary|Drama,Josh Swanson,Antarctica: A Year on Ice,2482,86,Anthony Powell,16,English,New Zealand,1000000,2013,24,7.6,0
+Color,Kief Davidson,43,93,0,0,Brian Whitaker,20,100240,Documentary,G.W. Krauss,A Lego Brickumentary,1220,28,Jason Bateman,11,English,Denmark,1000000,2014,8,6.8,0
+Color,Johnny Remo,2,112,74,891,Randy Wayne,260000,96734,Action|Drama,Matthew Ziff,Hardflip,606,263584,Raquel Elizabeth Ames,5,English,USA,1000000,2012,984,5.6,706
+Color,Vivek Agnihotri,4,160,5,219,Anil Kapoor,724,49000,Thriller,Emraan Hashmi,Chocolate: Deep Dark Secrets,1524,2024,Sunil Shetty,30,Hindi,India,1500000,2005,668,4.8,31
+Color,Ti West,238,95,243,725,Greta Gerwig,969,100659,Horror,Lena Dunham,The House of the Devil,30160,3833,Dee Wallace,193,English,USA,900000,2009,962,6.4,0
+Color,Nick Tomnay,112,93,11,271,Clayne Crawford,443,48430,Comedy|Crime|Thriller,David Hyde Pierce,The Perfect Host,20176,1452,Nathaniel Parker,73,English,USA,500000,2010,298,6.8,0
+Color,John Hamburg,33,88,29,117,Michael Lerner,499,21210,Comedy|Crime,Harvey Fierstein,Safe Men,2735,1141,Josh Pais,52,English,USA,1000000,1998,230,6.1,157
+Color,Nickolas Perry,8,105,5,73,Patsy Kensit,590,,Crime|Drama|Romance,Patrick Renna,Speedway Junky,1434,1042,Adrienne Frantz,43,English,USA,1000000,1999,231,5.2,27
+Color,Dan Zukovic,95,98,8,14,Louis Mustillo,96,22434,Comedy|Drama,Yul Vazquez,The Last Big Thing,334,196,James Lorinz,17,English,USA,,1996,71,6.9,43
+Color,Craig Mazin,29,82,82,490,James Gunn,2000,12996,Action|Comedy|Fantasy|Sci-Fi,Judy Greer,The Specials,1938,3905,Jamie Kennedy,54,English,USA,1000000,2000,571,6,210
+Color,Becky Smith,3,89,32,256,Emily Baldoni,386,,Comedy|Romance,Will Rothhaar,16 to Life,397,1647,Hallee Hirsh,6,English,USA,1000000,2009,261,6.3,143
+ Black and White,Eric Nicholas,71,78,0,61,Ana Claudia Talancón,262,10018,Crime|Drama|Thriller,Jordana Spiro,Alone with Her,3228,509,Jonathon Trent,31,English,USA,1000000,2006,163,6.1,244
+Color,Benjamin Dickinson,36,97,4,150,Alexia Rasmussen,446,62480,Drama|Sci-Fi,Nora Zehetner,Creative Control,1048,928,Meredith Hagner,7,English,USA,1000000,2015,171,5.5,793
+Color,Hal Haberman,56,81,0,394,Paul Blackthorne,975,6387,Comedy|Drama|Sci-Fi,Michael Rapaport,Special,4862,2694,Ian Bohen,37,English,USA,1000000,2006,645,6.9,0
+Color,Darren Stein,8,90,18,422,Jamie Kennedy,491,5494,Comedy|Drama,Frances Bay,Sparkler,377,2633,Veronica Cartwright,13,English,USA,,1997,490,5.6,17
+Color,A. Raven Cruz,3,97,0,94,Vanilla Ice,639,,Action|Adventure|Comedy|Fantasy|Sci-Fi,Scott Levy,The Helix... Loaded,534,1188,Jennifer Sky,9,English,USA,1000000,2005,361,1.9,128
+Color,Brian Trenchard-Smith,8,88,53,176,Mariel Hemingway,563,721,Action|Drama,David Keith,In Her Line of Fire,783,1284,Jesse Hutch,12,English,Germany,1000000,2006,288,4.1,42
+Color,Frank Whaley,9,96,436,4,Frank Whaley,474,703,Comedy|Drama,Lynn Cohen,The Jimmy Show,480,920,Heather Bucha,21,English,USA,1500000,2001,436,5.4,47
+Color,Amat Escalante,87,105,50,8,Andrea Vergara,327,,Crime|Drama|Romance,Kenny Johnston,Heli,3499,351,Gabriel Reyes,15,Spanish,Mexico,1000000,2013,9,6.8,0
+Color,Wajahat Rauf,6,,3,4,Ayesha Omar,7,,Comedy|Family,Rasheed Naz,Karachi se Lahore,876,19,Javed Sheikh,15,Urdu,Pakistan,1000000,2015,5,7,259
+Color,Katherine Brooks,14,76,57,228,Kevin McCarthy,442,,Drama|Romance,Ilene Graff,Loving Annabelle,9190,1635,Laura Breckenridge,75,English,USA,1000000,2006,403,6.7,501
+Color,David Cross,20,96,0,396,Matt Walsh,782,,Comedy|Drama,Jason Ritter,Hits,1359,2607,Amy Sedaris,8,English,USA,1000000,2014,490,5.8,903
+Color,Randall Rubin,23,99,0,131,A.J. Buckley,363,,Crime|Drama|Thriller,Nicole Randall Johnson,Jimmy and Judy,1420,997,James Eckhouse,26,English,USA,1000000,2006,275,6.2,138
+Color,Robert Bennett,6,90,15,106,Lauren C. Mayhew,984,,Comedy,Randy Wayne,Frat Party,1612,1752,Alicia Ziegler,28,English,USA,1000000,2009,157,2.8,297
+ Black and White,Guy Hamilton,12,94,82,47,Eddie Albert,694,,Drama,Oliver Reed,The Party's Over,340,964,Louise Sorel,7,English,UK,,1965,196,7.3,32
+Color,Mary Pat Kelly,2,87,3,149,Ossie Davis,767,,Drama,Aidan Quinn,Proud,275,1593,Janet Hubert,22,English,USA,1000000,2004,282,5.8,141
+Color,Lori Petty,12,93,923,904,Chloë Grace Moretz,34000,,Drama,Jennifer Lawrence,The Poker House,3943,52113,Bokeem Woodbine,24,English,USA,,2008,17000,6.5,599
+Color,Charlie Levi,,90,0,171,Barbara Hershey,1000,,Drama,Joe Mantegna,Childless,33,1996,Diane Venora,,English,USA,1000000,2008,618,6.1,3
+Color,Kevin Hamedani,64,89,23,23,Janette Armand,199,,Comedy|Horror|Sci-Fi,Russell Hodgkinson,ZMD: Zombies of Mass Destruction,3650,292,Kevin Hamedani,39,English,USA,500000,2009,37,5.1,0
+Color,David DeCoteau,7,83,142,317,Shanley Caswell,458,,Horror,Maureen McCormick,Snow White: A Deadly Summer,634,1549,Tim Abell,14,English,USA,1000000,2012,383,2.2,150
+Color,Mikel Rueda,9,96,0,0,Germán Alcarazu,90,,Drama|Romance,Álex Angulo,Hidden Away,955,90,Joseba Ugalde,7,Spanish,Spain,,2014,0,7.2,68
+Color,Stefan C. Schaefer,21,90,0,360,Marlene Forte,898,,Comedy|Drama|Romance,Nicole Beharie,My Last Day Without You,982,2116,Reg E. Cathey,12,English,USA,1000000,2011,395,5.7,370
+Color,Michael Taliferro,,138,105,110,Sticky Fingaz,592,,Comedy|Music,Wesley Jonathan,Steppin: The Movie,293,1350,Chrystee Pharris,1,English,USA,1000000,2009,207,3.4,41
+Color,David DeCoteau,1,84,142,402,Tom Berenger,10000,,Western,William McNamara,Doc Holliday's Revenge,93,11466,Randy Jay Burrell,6,English,USA,1000000,2014,854,3.8,54
+Color,Katie Aselton,95,83,224,37,Anslem Richardson,224,,Horror|Thriller,Katie Aselton,Black Rock,6531,344,Jay Paulson,47,English,USA,,2012,59,4.7,0
+Color,Robert Heath,40,96,0,177,Alexander Vlahos,335,,Horror|Mystery,David Oakes,Truth or Die,6513,1226,Jennie Jacques,41,English,UK,1000000,2012,334,5.6,968
+Color,D. Stevens,6,94,6,0,Pierre Dulat,92,,Drama|Thriller,Magi Avila,The Pet,425,109,Summer Napoles,24,English,USA,1000000,2006,17,3.9,91
+Color,Jeffrey St. Jules,16,90,0,36,Chloe Rose,57,,Drama|Musical|Sci-Fi,Boyd Banks,Bang Bang Baby,137,231,Kristian Bruun,16,English,Canada,1000000,2014,40,5.4,48
+Color,Robert Hall,39,95,53,253,Kevin Gage,677,,Horror,Angelina Armani,Fear Clinic,6256,1825,Fiona Dourif,19,English,USA,1000000,2015,366,5.2,936
+Color,K. King,150,93,3,115,Shona Kay,214,,Action|Comedy|Horror,Jason K. Wixom,Zombie Hunter,2057,656,Jarrod Phillips,30,English,USA,1000000,2013,211,3.5,0
+,Jonathan Meyers,1,111,0,426,Luke Perry,657,,Drama,Justin Baldoni,A Fine Step,207,2677,Leonor Varela,1,,USA,1000000,2014,608,5.3,212
+Color,Danny Boyle,393,101,0,888,Spencer Wilding,3000,2319187,Crime|Drama|Mystery|Thriller,Rosario Dawson,Trance,92640,5056,Tuppence Middleton,212,English,UK,20000000,2013,1000,7,23000
+Color,Ralph Nelson,32,103,17,113,Dick Van Patten,754,,Drama|Romance|Sci-Fi,Cliff Robertson,Charly,4998,1567,Claire Bloom,55,English,USA,,1968,605,7.1,785
+Color,Blair Erickson,78,87,0,302,Katia Winter,696,,Horror|Thriller,Monique Candelaria,Banshee Chapter,6265,1618,Michael McMillian,56,English,Germany,950000,2013,371,5.5,2000
+Color,,,30,,223,David DeLuise,775,,Comedy,Eric Lloyd,Jesse,954,1713,Bruno Campos,14,English,USA,,,275,5.9,57
+Color,Allison Burnett,8,100,12,354,Gia Mantegna,529,,Drama,Kimberly Williams-Paisley,Ask Me Anything,7870,2468,Cathryn de Prume,64,English,USA,950000,2014,413,6,884
+Color,Richard Schenkman,6,90,29,558,Mike Colter,1000,,Comedy|Romance,Vanessa Williams,And Then Came Love,443,2504,Eartha Kitt,4,English,USA,989000,2007,569,4.8,42
+Color,Sanjay Rawal,9,83,0,17,Robert Kennedy Jr.,56,,Documentary|News,Alma Martinez,Food Chains,265,104,Eve Ensler,3,English,USA,913000,2014,28,7.1,489
+ Black and White,Elia Kazan,134,108,603,279,Karl Malden,10000,9600000,Crime|Drama|Romance,Marlon Brando,On the Waterfront,100890,11094,Rod Steiger,281,English,USA,910000,1954,416,8.2,0
+Color,Kat Coiro,18,100,28,501,Geoff Stults,945,20186,Comedy,Justin Kirk,L!fe Happens,6025,2924,Kristen Johnston,15,English,USA,930000,2011,756,5.7,995
+Color,Cristian Mungiu,233,113,163,27,Vlad Ivanov,131,1185783,Drama,Anamaria Marinca,"4 Months, 3 Weeks and 2 Days",44763,264,Alexandru Potocean,172,Romanian,Romania,590000,2007,60,7.9,14000
+Color,Brian Dorton,10,97,171,76,Brian Dorton,1000,,Horror,Javier Botet,The Horror Network Vol. 1,139,1343,Jan Cornet,3,English,USA,3000000,2015,171,7.3,52
+Color,David Slade,231,104,171,0,G.J. Echternkamp,109,1007962,Crime|Drama|Thriller,Odessa Rae,Hard Candy,131969,117,Patrick Wilson,651,English,USA,950000,2005,8,7.1,12000
+Color,Jamie Babbit,65,91,91,659,David Gallagher,982,381186,Drama|Thriller,Katy Mixon,The Quiet,13485,3299,Edie Falco,90,English,USA,900000,2005,796,6.4,698
+Color,Maryam Keshavarz,76,107,32,127,Reza Sixo Safai,144,439958,Drama,Sarah Kazemy,Circumstance,6277,509,Sina Amedson,43,Persian,France,,2011,127,5.9,0
+Color,Ryan Coogler,327,85,0,88,Melonie Diaz,282,16097842,Biography|Drama|Romance,Ahna O'Reilly,Fruitvale Station,53919,687,Ariana Neal,168,English,USA,900000,2013,270,7.5,17000
+Color,Ramaa Mosley,62,101,6,727,Michael Angarano,975,6643,Comedy|Fantasy|Thriller,Jack McBrayer,The Brass Teapot,11965,4184,Alia Shawkat,39,English,USA,900000,2012,947,6.4,0
+Color,James Algar,116,70,11,8,Donnie Dunagan,16,102797150,Animation|Drama|Family,Sam Edwards,Bambi,94225,63,Ann Gillis,136,English,USA,,1942,12,7.4,0
+Color,Charles Herman-Wurmfeld,73,88,0,102,Rian Bishop,465,442638,Comedy|Romance|Sport,John Enos III,The Hammer,5489,897,Adam Carolla,23,English,USA,850000,2007,140,7.3,337
+Color,Ric Roman Waugh,238,112,29,874,Harold Perrineau,12000,42919096,Action|Drama|Thriller,Dwayne Johnson,Snitch,64748,15800,Nadine Velazquez,122,English,USA,15000000,2013,1000,6.5,12000
+Color,C. Jay Cox,35,107,6,522,Rob McElhenney,23000,819939,Comedy|Drama|Romance,Joseph Gordon-Levitt,Latter Days,14580,26017,Jacqueline Bisset,252,English,USA,850000,2003,813,7.2,0
+Color,Mariette Monpierre,2,78,0,0,Christophe Cherki,0,,Drama,Stana Roumillac,Elza,19,0,Teddy Doloir,2,French,France,900000,2011,0,6.7,24
+Color,Tommy Oliver,6,90,66,734,Ruby Dee,904,,Drama,Bokeem Woodbine,1982,122,5435,Quinton Aaron,3,English,USA,1000000,2013,782,7.1,181
+Color,Jamie Travis,115,88,15,567,Ari Graynor,938,1243961,Comedy,James Wolk,"For a Good Time, Call...",13421,3770,Nia Vardalos,34,English,USA,850000,2012,904,6,0
+Color,Lee Toland Krieger,193,92,43,172,Janel Parrish,904,3094687,Comedy|Drama|Romance,Ari Graynor,Celeste & Jesse Forever,24391,1751,Rob Huebel,61,English,USA,,2012,517,6.7,0
+Color,Rich Christiano,16,95,14,221,D. David Morin,284,15278,Drama|Fantasy|Sci-Fi,Gavin MacLeod,Time Changer,1742,1185,Hal Linden,158,English,USA,825000,2002,234,5.6,409
+Color,Paul Andrew Williams,68,85,46,141,Johnny Harris,418,,Crime|Drama|Thriller,Lorraine Stanley,London to Brighton,7308,926,Georgia Groome,72,English,UK,500000,2006,146,7,933
+Color,Nick Love,16,86,63,175,Christopher Berry,489,,Action|Comedy|Drama|Sci-Fi,Eddie Griffin,American Hero,2706,1278,Michelle Tabora,23,English,USA,990000,2015,207,4.9,549
+Color,Natalie Bible',7,90,8,487,Samaire Armstrong,1000,,Mystery|Thriller,Tommy O'Reilly,Windsor Drive,169,3336,Matt Cohen,6,English,USA,100000,2015,806,3.2,312
+Color,Asghar Farhadi,354,123,0,620,Leila Hatami,786,7098492,Drama|Mystery,Shahab Hosseini,A Separation,151812,2501,Peyman Moaadi,264,Persian,Iran,500000,2011,712,8.4,48000
+Color,Justin Molotnikov,16,93,5,10,Stephen McCole,49,,Thriller,Jo Hartley,Crying with Laughter,190,81,Joe Cassidy,6,English,UK,,2009,11,6.9,33
+Color,Todd Solondz,74,88,377,236,Ken Leung,529,4771000,Comedy|Drama,Heather Matarazzo,Welcome to the Dollhouse,26513,1502,Christina Vidal,174,English,USA,800000,1995,502,7.5,0
+Color,Victor Nunez,11,114,9,86,Todd Field,159,1001437,Drama|Romance,Allison Dean,Ruby in Paradise,2039,423,Dorothy Lyman,28,English,USA,800000,1993,143,7.2,81
+Color,Peter Sollett,59,88,6,68,Melonie Diaz,302,2073984,Drama|Romance,Victor Rasuk,Raising Victor Vargas,4743,663,Judy Marte,135,English,France,800000,2002,270,7.2,219
+ Black and White,Georg Wilhelm Pabst,71,110,21,3,Francis Lederer,426,9950,Crime|Drama|Romance,Louise Brooks,Pandora's Box,7431,455,Fritz Kortner,84,German,Germany,,1929,20,8,926
+Color,Daniel Davila,5,95,0,167,Melora Walters,940,,Drama,Martin Landau,Harrison Montgomery,59,1484,Diane Baker,1,English,USA,850000,2008,188,7.4,18
+Color,Jorge Gaggero,25,83,0,0,Hilda Bernard,24,,Drama,Norma Aleandro,Live-In Maid,772,29,Claudia Lapacó,11,Spanish,Argentina,800000,2004,5,7.2,83
+Color,Rod Lurie,29,104,37,501,Kathryn Morris,574,144583,Drama|Thriller,Kevin Pollak,Deterrence,2256,1983,Timothy Hutton,79,English,France,800000,1999,573,6.5,130
+Color,Michael Burke,17,94,3,181,Tom Guiry,262,,Crime|Drama|Romance,Zachary Knighton,The Mudge Boy,3480,991,Ryan Donowho,30,English,USA,800000,2003,262,7.2,396
+Color,Catherine Jelski,13,87,0,258,Eion Bailey,1000,58163,Drama,Leslie Bibb,The Young Unknowns,122,2359,Arly Jover,3,English,USA,,2000,749,4.2,4
+Color,Shane Dawson,6,93,247,152,Kurt Angle,247,35688,Comedy,Shane Dawson,Not Cool,4167,954,Cherami Leigh,72,English,USA,600000,2014,217,5.1,0
+Color,Tommy Wirkola,224,91,75,13,Stig Frode Henriksen,35,41709,Comedy|Horror,Bjørn Sundquist,Dead Snow,54601,116,Ane Dahl Torp,200,Norwegian,Norway,800000,2009,16,6.4,23000
+Color,Ryan Little,33,90,38,69,Larry Bagby,214,1310270,Action|Adventure|Drama|War,Corbin Allred,Saints and Soldiers,17725,587,Kirby Heyborne,157,English,USA,780000,2003,115,6.8,1000
+Color,Clark Baker,1,14,0,37,Alan Pietruszewski,134,,Horror|Sci-Fi|Short|Thriller,Taylor Pigeon,Vessel,292,315,Whit Spurgeon,3,English,USA,,2012,93,6.2,14
+Color,George Lucas,100,112,0,425,Ron Howard,11000,115000000,Comedy|Drama|Music,Harrison Ford,American Graffiti,63839,14954,Mackenzie Phillips,238,English,USA,777000,1973,2000,7.5,0
+Color,Robert Greenwald,21,75,21,0,Katy Helvenston-Wettengal,25,,Documentary|War,Scott Helvenston,Iraq for Sale: The War Profiteers,1477,25,Donna Zovko,24,English,USA,750000,2006,0,7.7,274
+Color,Matt Maiellaro,82,86,8,357,Fred Armisen,2000,5518918,Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi,Tina Fey,Aqua Teen Hunger Force Colon Movie Film for Theaters,12160,3071,Chris Kattan,73,English,USA,750000,2007,424,6.9,307
+Color,Colin Trevorrow,271,86,365,522,Mark Duplass,934,4007792,Comedy|Drama|Romance,Mary Lynn Rajskub,Safety Not Guaranteed,101287,2714,Jeff Garlin,260,English,USA,750000,2012,830,7,31000
+Color,Leslie Small,5,89,15,95,Larry King,312,7705974,Comedy|Documentary,Isaac C. Singleton Jr.,Kevin Hart: Laugh at My Pain,3543,548,Jeanette Branch,8,English,USA,,2011,135,7.5,614
+Color,Ben Wheatley,255,95,214,246,Ben Crompton,513,26297,Crime|Horror|Thriller,MyAnna Buring,Kill List,25750,1269,Neil Maskell,209,English,UK,500000,2011,257,6.3,0
+Color,Ti West,292,101,243,74,Jake Ryan,969,77501,Horror,Lena Dunham,The Innkeepers,27260,1252,Pat Healy,247,English,USA,750000,2011,128,5.5,0
+Color,David S. Goyer,178,89,687,389,Atticus Shaffer,10000,42638165,Drama|Fantasy|Horror|Mystery|Thriller,Gary Oldman,The Unborn,42183,12183,Rachel Brosnahan,230,English,USA,16000000,2009,787,4.8,0
+Color,Bernardo Bertolucci,120,106,973,48,Stefania Sandrelli,319,,Drama,Jean-Louis Trintignant,The Conformist,17813,500,Dominique Sanda,101,Italian,Italy,750000,1970,90,8.1,0
+Color,Neil Burger,31,88,168,21,Christel Khalil,108,47329,Drama,Raymond J. Barry,Interview with the Assassin,1661,243,Renee Faia,31,English,USA,750000,2002,72,6.6,163
+Color,Oliver Blackburn,114,99,4,201,Nichola Burley,1000,18378,Crime|Drama|Horror|Thriller,Julian Morris,Donkey Punch,9376,1558,Tom Burke,74,English,UK,900000,2008,233,5.2,0
+Color,Jonathan Levine,233,90,129,280,Michael Welch,935,,Horror,Luke Grimes,All the Boys Love Mandy Lane,25951,2170,Whitney Able,129,English,USA,750000,2006,611,5.6,2000
+Color,Christopher Hutson,8,95,3,118,Jennifer Lee Wiggins,717,,Horror,Dichen Lachman,Bled,851,1117,Michele Morrow,30,English,USA,750000,2009,134,3.1,128
+ Black and White,Fred Zinnemann,153,85,160,433,Lloyd Bridges,998,,Thriller|Western,Gary Cooper,High Noon,80193,2496,Lon Chaney Jr.,333,English,USA,750000,1952,575,8.1,3000
+Color,Steve James,53,170,23,2,Arthur Agee,7,7830611,Documentary|Drama|Sport,William Gates,Hoop Dreams,18980,15,Isiah Thomas,74,English,USA,700000,1994,6,8.3,0
+Color,David LaChapelle,49,86,30,14,Christopher Toler,262,3278611,Documentary|Music,Kevin Scott Richardson,Rize,2877,321,Tommy the Clown,46,English,USA,,2005,23,7.1,903
+Color,Joseph Kosinski,4,,364,567,Lauren Cohan,22000,,Action|Adventure|Fantasy|Sci-Fi,Peter Dinklage,Destiny,3089,26578,Erick Avari,11,English,USA,,2014,4000,8.1,1000
+Color,Michael Cuesta,64,97,52,36,Bruce Altman,80,1141829,Crime|Drama,Adam LeFevre,L.I.E.,8509,209,Walter Masterson,109,English,USA,700000,2001,67,7.2,420
+Color,Caryn Waechter,23,104,0,195,Kara Hayward,601,,Drama|Mystery|Thriller,Laura Fraser,The Sisterhood of Night,1354,1581,Louis Ozawa Changchien,17,English,USA,1000000,2014,524,6.3,523
+Color,Emily Dell,8,88,0,311,Wesley Jonathan,618,,Drama|Music|Romance,Aimee Garcia,B-Girl,551,2476,Drew Sidora,10,English,USA,,2009,592,4,303
+Color,Peter Jackson,446,201,0,84,Thomas Kretschmann,6000,218051260,Action|Adventure|Drama|Romance,Naomi Watts,King Kong,316027,7122,Evan Parke,2618,English,New Zealand,207000000,2005,918,7.2,0
+Color,Jaume Collet-Serra,228,108,174,324,Paris Hilton,730,32048809,Horror,Robert Ri'chard,House of Wax,94463,2160,Brian Van Holt,576,English,Australia,30000000,2005,716,5.3,0
+Color,Ryan Fleck,208,106,31,71,Tristan Mack Wilds,33000,2694973,Drama,Ryan Gosling,Half Nelson,70885,33734,Jeff Lima,189,English,USA,700000,2006,519,7.2,0
+Color,Jennifer Wynne Farmer,2,107,0,236,Akima,752,10508,Drama,Irene Bedard,Naturally Native,103,1763,Max Gail,6,English,USA,700000,1998,282,6.5,102
+Color,Christopher Scott Cherot,25,84,21,48,Robinne Lee,465,2301777,Comedy,Hill Harper,Hav Plenty,819,714,Chenoa Maxwell,36,English,USA,650000,1997,170,6.5,161
+Color,H.M. Coakley,8,91,0,137,Steffinnie Phrommany,696,,Crime|Drama|Thriller,Mehcad Brooks,Adulterers,514,1210,Danielle Savre,1,English,USA,750000,2015,320,4.9,158
+ Black and White,Randy Moore,143,90,13,432,Lee Armstrong,977,169719,Fantasy|Horror,Trey Loney,Escape from Tomorrow,7384,2483,Amy Lucas,79,English,USA,,2013,511,5.2,0
+Color,Chris Atkins,21,103,2,442,Harvey Weinstein,628,,Documentary,Richard Curtis,Starsuckers,474,1683,Elton John,8,English,UK,400000,2009,474,7.4,203
+Color,Bill Benenson,1,71,0,21,Dave Fennoy,1000,,Documentary,Alfre Woodard,The Hadza: Last of the First,5,1359,Jane Goodall,1,English,USA,650000,2014,338,7.4,5
+Color,Ryan Smith,34,90,4,258,Madison Lintz,523,,Fantasy|Horror|Mystery|Thriller,Sandra Ellis Lafferty,After,3699,1553,Karolina Wydra,27,English,USA,650000,2012,385,5.4,1000
+Color,Travis Romero,5,67,4,2000,Lorraine Ziff,260000,,Drama|Thriller,Matthew Ziff,Treachery,344,283939,Michael Biehn,5,English,USA,625000,2013,21000,3.9,0
+Color,Anna Mastro,10,94,7,912,Justin Kirk,956,,Comedy|Drama,Leven Rambin,Walter,1432,4767,Virginia Madsen,19,English,USA,700000,2015,945,5.3,0
+ Black and White,Mark Sandrich,66,81,10,23,Edward Everett Horton,610,3000000,Comedy|Musical|Romance,Ginger Rogers,Top Hat,13269,824,Eric Blore,98,English,USA,609000,1935,172,7.8,1000
+ Black and White,Daniel Myrick,360,81,19,39,Joshua Leonard,170,140530114,Horror,Heather Donahue,The Blair Witch Project,186786,399,Michael C. Williams,3400,English,USA,60000,1999,170,6.4,0
+Color,Michael Wadleigh,53,215,14,136,Jimi Hendrix,262,13300000,Documentary|History|Music,Joe Cocker,Woodstock,12631,778,Joan Baez,63,English,USA,600000,1970,227,8.1,0
+Color,John Landis,82,83,644,11,Barry Dennen,119,,Comedy,David Zucker,The Kentucky Fried Movie,13915,190,Tara Strohmeier,109,English,USA,650000,1977,29,6.5,0
+Color,Jon Gunn,15,106,16,254,David A.R. White,602,171988,Action|Crime|Drama,Stacy Keach,Mercy Streets,448,1281,Cynthia Watros,16,English,USA,600000,2000,266,5.6,12
+Color,Gene Teigland,,103,0,20,Matthew Feeney,23,23616,Mystery|Thriller,Kendyl Joi,Arnolds Park,94,85,Tac Fitzgerald,4,English,USA,600000,2007,20,5.6,11
+Color,Scott Ziehl,18,90,4,218,Jason London,919,13493,Drama,William Smith,Broken Vessels,531,2288,Brent David Fraser,19,English,USA,600000,1998,711,6.6,51
+Color,Richard Montoya,,88,12,359,Angela Nordeng,601,79043,Crime|Drama,Nicholas Gonzalez,Water & Power,85,2241,Exie Booker,,English,USA,,2013,371,6.3,358
+Color,Johanna Schwartz,22,105,0,0,Garba Touré,0,,Documentary,Aliou Touré,They Will Have to Kill Us First,74,0,Khaira Arby,2,French,UK,400000,2015,0,7.7,34
+Color,William Gazecki,15,115,3,0,Colin Andrews,0,,Documentary,Karen Alexander,Crop Circles: Quest for Truth,204,0,Francine Blake,13,English,USA,750000,2002,0,7,32
+Color,Lance McDaniel,,90,0,271,Steven Michael Quezada,595,,Action|Drama|Thriller,Russell Wong,Light from the Darkroom,6,1754,Lymari Nadal,1,English,USA,600000,2014,412,8,9
+Color,Thomas Lilti,18,102,12,2,Félix Moati,541,,Comedy|Drama,François Cluzet,Irreplaceable,389,553,Marianne Denicourt,1,French,France,,2016,8,7.2,36
+Color,Michael Walker,8,98,5,233,Annabella Sciorra,587,,Thriller,Paula Garcés,The Maid's Room,719,1707,John Brodsky,9,English,USA,600000,2013,448,4.5,128
+ Black and White,Richard Lester,105,87,44,704,Ringo Starr,785,515005,Comedy|Musical,Paul McCartney,A Hard Day's Night,31429,2538,George Harrison,219,English,UK,560000,1964,725,7.7,0
+Color,U. Roberto Romano,3,80,6,,,,2245,Documentary,,The Harvest/La Cosecha,57,0,,2,English,USA,560000,2011,,7.2,88
+Color,Amy Holden Jones,4,88,11,221,Sally Kirkland,2000,,Drama|Romance,Jamie Lee Curtis,Love Letters,487,2996,Amy Madigan,9,English,USA,550000,1983,433,6.1,7
+Color,Blaz Zavrsnik,2,83,0,0,Spela Colja,0,,Comedy,Dario Nozic Serini,Julija in alfa Romeo,86,0,Andrej Nahtigal,2,Slovenian,Slovenia,500000,2015,0,6.4,18
+Color,Alex Kendrick,50,122,589,150,Ken Bevel,848,33451479,Drama|Romance,Kirk Cameron,Fireproof,17068,1164,Erin Bethea,215,English,USA,500000,2008,153,6.5,0
+Color,Pan Nalin,19,115,95,0,Pant Shirt Baba,0,,Biography|Documentary|Drama,Bhole Baba,Faith Connections,113,0,Shriman Umeshanad Brahmachari,3,Hindi,India,550000,2013,0,7,126
+Color,Joe Camp,5,86,24,142,Peter Breck,407,39552600,Adventure|Family|Romance,Frances Bavier,Benji,3411,1090,Edgar Buchanan,36,English,USA,500000,1974,189,6.1,816
+Color,Chris Kentis,235,79,9,7,Saul Stein,48,30500882,Adventure|Biography|Drama|Horror|Thriller,Blanchard Ryan,Open Water,42256,67,Daniel Travis,916,English,USA,500000,2003,10,5.7,0
+Color,Matt Walsh,8,87,490,201,Matt Jones,833,,Comedy,Joe Lo Truglio,High Road,1305,2295,Abby Elliott,3,English,USA,,2011,523,5.4,244
+Color,John 'Bud' Cardos,95,97,8,22,Hoke Howell,423,17000000,Horror|Sci-Fi,Woody Strode,Kingdom of the Spiders,3274,516,Tiffany Bolling,84,English,USA,500000,1977,23,5.9,0
+Color,Marilyn Agrelo,84,105,2,0,Eva Carrozza,0,8044906,Documentary|Family|Music,Heather Berman,Mad Hot Ballroom,3156,0,Paul Daggett,65,English,USA,,2005,0,7.5,588
+Color,Tom McCarthy,154,89,310,587,Joe Lo Truglio,22000,5739376,Comedy|Drama,Peter Dinklage,The Station Agent,58260,24419,Paula Garcés,286,English,USA,500000,2003,833,7.7,0
+Color,Brian Baugh,20,120,3,234,Sean Michael Afable,984,3773863,Drama,Randy Wayne,To Save a Life,4583,2563,D. David Morin,55,English,USA,1000000,2009,801,7.1,0
+Color,Patrick Creadon,88,94,3,2,Bill Clinton,196,3117666,Documentary,Ken Burns,Wordplay,3394,382,Bob Dole,43,English,USA,,2006,184,7.4,694
+Color,Barry W. Blaustein,70,108,6,43,Vince McMahon,54,2047570,Biography|Documentary|Sport,Terry Funk,Beyond the Mat,6790,194,Mick Foley,80,English,USA,500000,1999,44,7.6,491
+Color,Kurt Hale,5,102,0,15,Lincoln Hoppe,69,1250798,Comedy|Drama|Romance,Kirby Heyborne,The Singles Ward,1099,161,Daryn Tufts,53,English,USA,500000,2002,24,6.4,43
+Color,Siddiq Barmak,105,83,6,0,Zubaida Sahar,30,1127331,Drama,Marina Golbahari,Osama,7559,30,Mohamad Haref Harati,77,Dari,Afghanistan,46000,2003,0,7.4,0
+Color,Joseph Dorman,29,93,0,59,Peter Riegert,399,906666,Documentary,Rachel Dratch,Sholem Aleichem: Laughing in the Darkness,154,660,Jason Kravits,5,English,USA,500000,2011,169,6.8,287
+Color,Greg Harrison,46,86,7,17,Ari Gold,328,1114943,Drama|Music,Rachel True,Groove,3562,407,Denny Kirkwood,74,English,USA,500000,2000,27,6.5,0
+Color,Kurt Hale,3,101,0,17,Big Budah,69,1111615,Comedy|Crime|Family,Kirby Heyborne,The R.M.,651,155,Curt Doussett,34,English,USA,500000,2003,34,6,44
+Color,Michael Polish,54,111,35,482,William Katt,980,985341,Drama,Sasha Alexander,Twin Falls Idaho,3479,3166,Jon Gries,87,English,USA,500000,1999,505,7.3,180
+Color,Jacob Aaron Estes,126,90,9,595,Scott Mechlowicz,710,603943,Crime|Drama,Rory Culkin,Mean Creek,26407,2655,Trevor Morgan,154,English,USA,500000,2004,634,7.3,1000
+ Black and White,Morgan J. Freeman,17,86,204,474,Heather Matarazzo,659,334041,Crime|Drama|Romance,Edie Falco,Hurricane Streets,1038,2322,Lynn Cohen,21,English,USA,500000,1997,529,6.5,51
+Color,Eric Schaeffer,25,98,71,658,Bill Duke,22000,295468,Comedy|Romance,Peter Dinklage,Never Again,709,24382,Michael McKean,34,English,USA,500000,2001,1000,6,139
+Color,Neema Barnette,11,91,21,469,LisaRaye McCoy,597,243347,Crime|Drama|Thriller,Monica Calhoun,Civil Brand,553,2555,Clifton Powell,24,English,USA,500000,2002,485,5.3,86
+Color,Steve Buscemi,81,91,12000,213,Seymour Cassel,778,154077,Comedy|Drama,Kevin Corrigan,Lonesome Jim,6884,1440,Mary Kay Place,53,English,USA,500000,2005,327,6.6,238
+Color,Joe Swanberg,155,90,217,243,Anna Kendrick,10000,342936,Comedy|Drama|Romance,Olivia Wilde,Drinking Buddies,45928,20480,Ti West,106,English,USA,,2013,10000,6.1,0
+Color,Molly Bernstein,39,88,0,49,Ricky Jay,342,151389,Documentary,David Mamet,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,774,483,Dick Cavett,7,English,USA,500000,2012,79,7.1,590
+ Black and White,Akira Kurosawa,153,202,0,4,Minoru Chiaki,304,269061,Action|Adventure|Drama,Takashi Shimura,Seven Samurai,229012,338,Kamatari Fujiwara,596,Japanese,Japan,2000000,1954,8,8.7,11000
+Color,Marius A. Markevicius,26,89,6,8,Greg Speirs,14,133778,Documentary|Sport,Tommy Sheppard,The Other Dream Team,3086,44,Mickey Hart,9,English,USA,500000,2012,9,8.4,0
+ Black and White,Tom DiCillo,10,97,32,329,Tina Louise,11000,,Comedy|Music|Romance,Brad Pitt,Johnny Suede,3013,11839,Nick Cave,24,English,Switzerland,500000,1991,422,5.8,344
+Color,Justin Lin,35,84,681,143,Jake Sandvig,239,52850,Comedy,Monique Gabriela Curnen,Finishing the Game: The Search for a New Bruce Lee,1656,734,Joe McQueen,12,English,USA,500000,2007,172,6.2,155
+Color,Quentin Dupieux,230,82,248,196,Jack Plotnick,353,98017,Comedy|Fantasy|Horror,Haley Ramm,Rubber,26185,1498,Cecelia Antoinette,170,English,France,500000,2010,248,5.8,46000
+Color,Tim Johnson,165,94,12,183,Matt Jones,17000,177343675,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Jim Parsons,Home,70136,17883,April Winchell,214,English,USA,135000000,2015,523,6.7,26000
+Color,C. Jay Cox,9,100,6,325,Amber Benson,396,31937,Comedy|Romance,Tori Spelling,Kiss the Bride,1358,2310,Garrett M. Brown,10,English,USA,500000,2007,326,5.7,60
+Color,Alex Smith,17,112,12,699,Clea DuVall,33000,13134,Drama|Sport,Ryan Gosling,The Slaughter Rule,2004,35294,Eddie Spears,32,English,USA,500000,2002,1000,6.1,183
+Color,Gareth Edwards,344,94,380,113,Whitney Able,660,237301,Drama|Sci-Fi|Thriller,Scoot McNairy,Monsters,75669,1118,Ricky Catter,451,English,UK,500000,2010,280,6.4,19000
+Color,Jonathan Parker,2,87,0,347,Joanne Whalley,584,,Drama,Keith Carradine,The Californians,299,1924,Illeana Douglas,11,English,USA,,2005,507,5,29
+Color,Sol Tryon,28,91,0,170,Ann Dowd,472,12055,Comedy,Jim Gaffigan,The Living Wake,739,1047,Matthew Cowles,10,English,USA,500000,2007,185,6.5,339
+Color,Alex Craig Mann,29,87,38,445,Christa B. Allen,552,1332,Comedy|Horror,Justin Chon,Detention of the Dead,2038,2251,Max Adler,20,English,USA,500000,2012,533,4.6,898
+Color,Hao Ning,11,98,0,0,Zheng Xu,4,,Comedy|Crime,Bo Huang,Crazy Stone,2097,8,Zhonghua Chen,9,Mandarin,China,3000000,2006,4,7.7,23
+Color,Stephen Kijak,48,95,3,25,Jacques Brel,30,,Biography|Documentary|Music,Brian Eno,Scott Walker: 30 Century Man,1006,119,Damon Albarn,11,English,UK,500000,2006,27,7.3,808
+Color,Marc Forster,24,87,395,637,Alan Ruck,991,,Drama,Radha Mitchell,Everything Put Together,601,3309,Megan Mullally,10,English,USA,100000,2000,946,6.6,22
+Color,Andrew Niccol,166,102,487,118,Zoë Kravitz,991,316842,Drama|Thriller,Bruce Greenwood,Good Kill,15756,2099,Stafford Douglas,68,English,USA,,2014,943,6.4,0
+Color,Daston Kalili,,127,2,0,Rai Alexandra,2,,Thriller,Daston Kalili,Insomnia Manica,16,2,Chin-Chien Chang,3,English,USA,500000,2005,0,5.8,0
+Color,William Gazecki,9,96,3,205,Bruce Vilanch,387,,Documentary,Carol Channing,The Outrageous Sophie Tucker,38,1235,Tony Bennett,3,English,USA,500000,2014,244,7.2,16
+Color,Ol Parker,48,103,21,680,Olivia Williams,25000,,Drama|Romance,Jeremy Irvine,Now Is Good,26863,26999,Paddy Considine,54,English,UK,,2012,766,7.2,0
+Color,Michael Hoffman Jr.,64,104,32,238,John McGlothlin,685,,Comedy|Horror,Vincent Chimato,Girls Gone Dead,2012,2102,Al Sapienza,28,English,USA,500000,2012,492,3.5,0
+Color,Patrick Gilles,,90,0,569,Dylan Baker,970,,History,Emma Caulfield,America Is Still the Place,22,3359,Mike Colter,,English,USA,,2015,812,7.5,337
+Color,Georgia Hilton,1,122,406,152,Tim Abell,358,,Action|Mystery|Thriller,Mike Beckingham,Subconscious,292,1038,Tom Stedham,16,English,USA,,2015,317,2.2,353
+Color,Tamra Davis,111,93,33,135,Katherine Boecher,1000,37188667,Comedy|Drama,Britney Spears,Crossroads,34219,1531,Dave Allen,578,English,USA,12000000,2002,188,3.3,0
+Color,Jack Heller,26,90,0,120,Katherine Waterston,322,,Mystery|Thriller,Shaun Sipos,Enter Nowhere,5025,630,Christopher Denham,45,English,USA,500000,2011,178,6.6,701
+Color,Fernando Baez Mella,1,101,0,15,Christian Alvarez,159,,Crime|Drama,Manny Perez,The King of Najayo,197,206,Claudette Lalí,1,Spanish,Dominican Republic,500000,2012,15,6.9,126
+Color,Warren Sheppard,3,94,0,212,Randy Jay Burrell,918,,Action|Romance|Sport,Jennifer Hale,Fight to the Finish,60,2091,Vincent De Paul,2,English,USA,150000,2016,402,4,381
+Color,Darren Lynn Bousman,10,97,163,303,Barry Bostwick,636,,Horror|Musical,Paul Sorvino,Alleluia! The Devil's Carnival,259,2438,Terrance Zdunich,20,English,USA,500000,2016,456,7.4,707
+Color,Justin Paul Miller,1,90,0,33,Jennifer Landa,84,,Comedy|Mystery|Thriller,Mary Kate Wiles,The Sound and the Shadow,30,254,Felix Avitia,1,English,USA,,2014,41,8.3,70
+Color,Joel Paul Reisig,1,108,431,317,Joel Paul Reisig,466,,Family,Carrie Bradstreet,Rodeo Girl,62,1628,Yassie Hawkes,4,English,USA,500000,2016,431,5.7,0
+Color,Catherine Gund,10,82,0,0,Sarah Callan,0,21199,Action|Biography|Documentary|Sport,Elizabeth Streb,Born to Fly: Elizabeth Streb vs. Gravity,40,0,Laura Flanders,10,English,USA,500000,2014,0,6.8,44
+Color,Luke Dye,1,84,0,53,Jeff Delaney,385,,Family,Mike Stanley,The Little Ponderosa Zoo,15,683,Jamison Stalsworth,1,English,USA,500000,2016,169,5.2,9
+Color,Sam Raimi,525,130,0,11000,Mila Kunis,44000,234903076,Adventure|Family|Fantasy,Tim Holmes,Oz the Great and Powerful,175413,73441,James Franco,511,English,USA,215000000,2013,15000,6.4,60000
+Color,Michael Herz,96,91,6,10,Mark Torgl,488,,Action|Comedy|Horror|Sci-Fi,Patrick Kilpatrick,The Toxic Avenger,19253,553,Pat Ryan,147,English,USA,475000,1984,11,6.2,0
+Color,Matty Rich,8,91,10,10,George T. Odom,353,2712293,Crime|Drama,Lawrence Gilliard Jr.,Straight Out of Brooklyn,475,380,Matty Rich,11,English,USA,450000,1991,12,5.9,123
+Color,Paul Greengrass,92,107,521,80,Nicholas Farrell,773,768045,Drama|History|War,James Nesbitt,Bloody Sunday,19732,976,Tim Pigott-Smith,120,English,UK,2000000,2002,89,7.7,0
+Color,Alec Asten,1,82,5,237,Dennis L.A. White,472,,Action,Luis Sanchez,Diamond Ruff,53,1752,Fredro Starr,5,English,USA,500000,2015,251,4.3,62
+Color,Hans Canosa,365,84,3,446,Thomas Lennon,10000,379122,Comedy|Drama|Romance,Olivia Wilde,Conversations with Other Women,10143,12496,Nora Zehetner,54,English,UK,450000,2005,651,7.1,0
+Color,Lloyd Kaufman,88,103,365,49,Lloyd Kaufman,907,23000,Comedy|Horror|Musical,John Karyus,Poultrygeist: Night of the Chicken Dead,5931,1411,Kate Graham,58,English,USA,500000,2006,365,6.2,0
+Color,Matthew Watts,3,86,0,304,Cheyenne Jackson,873,,Comedy|Romance,Jennifer Lafleur,Mutual Friends,64,2830,Michael Stahl-David,3,English,USA,450000,2013,469,6.8,31
+ Black and White,Lloyd Bacon,65,89,24,45,Dick Powell,610,2300000,Comedy|Musical|Romance,Ginger Rogers,42nd Street,7921,995,George Brent,97,English,USA,439000,1933,105,7.7,439
+Color,Joe Kenemore,,52,0,0,Jack Canfield,8,,Documentary,Bob Proctor,Rise of the Entrepreneur: The Search for a Better Way,78,10,Eric Worre,10,English,USA,450000,2014,2,8.2,460
+Color,Whit Stillman,71,98,89,3,Taylor Nichols,88,2938208,Comedy|Drama|Romance,Chris Eigeman,Metropolitan,7143,173,Ellia Thompson,52,English,USA,225000,1990,74,7.5,865
+Color,Kay Pollak,34,133,10,19,Frida Hallgren,690,9910,Comedy|Drama|Music|Romance,Michael Nyqvist,As It Is in Heaven,13543,774,Nils-Anders Vallgårda,94,Swedish,Sweden,25000000,2004,24,7.6,0
+Color,Eric England,15,81,15,93,Ace Marrero,847,,Drama|Horror|Mystery|Thriller,Jack E. Curenton,Roadside,268,1151,Alan Pietruszewski,6,English,USA,,2013,94,4.1,61
+Color,Jared Hess,220,92,100,482,Diedrich Bader,970,44540956,Comedy,Jon Heder,Napoleon Dynamite,161448,3950,Jon Gries,1473,English,USA,400000,2004,759,6.9,0
+Color,Jeremy Saulnier,279,90,57,92,Eve Plumb,1000,258113,Crime|Drama|Thriller,Devin Ratray,Blue Ruin,42678,1528,Amy Hargreaves,135,English,USA,1066167,2013,235,7.1,0
+Color,Oren Peli,409,84,110,21,Ashley Palmer,189,107917283,Horror,Micah Sloat,Paranormal Activity,184824,330,Amber Armstrong,1189,English,USA,15000,2007,109,6.3,12000
+ Black and White,Stacy Peralta,86,91,147,5,Jay Adams,22,1293295,Documentary|Sport,Tony Alva,Dogtown and Z-Boys,10366,54,Jeff Ament,88,English,USA,,2001,20,7.7,0
+Color,Terry Gilliam,131,91,0,332,Michael Palin,795,1229197,Adventure|Comedy|Fantasy,Eric Idle,Monty Python and the Holy Grail,382240,2158,Terry Jones,660,English,UK,229575,1975,561,8.3,14000
+Color,Richard Glatzer,69,90,25,138,Jesse Garcia,231,1689999,Drama,Emily Rios,Quinceañera,3675,771,Alicia Sixtos,48,Spanish,USA,400000,2006,200,7.1,426
+Color,Sue Corcoran,8,96,14,6,Sue Corcoran,361,11798,Comedy|Fantasy|Horror|Musical,Tony Doupe,Gory Gory Hallelujah,179,387,David Frederick White,18,English,USA,100000,2003,14,4.7,39
+Color,,75,60,,833,Masi Oka,1000,,Drama|Fantasy|Sci-Fi|Thriller,Sendhil Ramamurthy,Heroes,202115,4908,Greg Grunberg,379,English,USA,,,923,7.7,0
+Color,Jonathan Caouette,72,88,20,0,Jonathan Caouette,58,592014,Biography|Documentary,Greg Ayres,Tarnation,5709,78,Renee Leblanc,114,English,USA,218,2003,20,7.2,754
+Color,Ray Griggs,4,92,4,12,Chris Cox,93,425899,Documentary,Bill Farmer,I Want Your Money,1123,168,Mike Huckabee,31,English,USA,400000,2010,31,5.1,638
+Color,Matt Jackson,9,97,0,271,Paul Elia,935,,Comedy|Horror,Kane Hodder,Love in the Time of Monsters,143,2350,Alex Sanborn,5,English,USA,500000,2014,709,5.4,194
+ Black and White,Lucio Fulci,203,82,385,22,David Warbeck,48,126387,Horror,Catriona MacColl,The Beyond,14985,123,Al Cliver,253,Italian,Italy,400000,1981,22,6.9,2000
+Color,,11,22,,6,Ron Lynch,59,,Animation|Comedy|Drama,Brendon Small,Home Movies,7458,81,Melissa Bardin Galsky,82,English,USA,,,11,8.2,526
+Color,Tom Vaughan,148,101,12,149,Andrew Daly,642,80276912,Comedy|Romance,Treat Williams,What Happens in Vegas,140740,1026,Michelle Krusiec,151,English,USA,35000000,2008,171,6.1,0
+Color,Paul Fox,80,80,3,39,Jeff Seymour,108,,Horror|Thriller,Dov Tiefenbach,The Dark Hours,4788,272,Gordon Currie,52,English,Canada,500000,2005,64,6.1,166
+Color,Stephen Frears,46,97,350,33,Roshan Seth,114,,Comedy|Drama|Romance,Saeed Jaffrey,My Beautiful Laundrette,10577,260,Garry Cooper,64,English,UK,650000,1985,61,6.9,0
+ Black and White,Ari Kirschenbaum,8,84,0,36,Adam LeFevre,169,25918,Drama|Horror|Mystery|Thriller,R. Brandon Johnson,Fabled,191,312,Desmond Askew,10,English,USA,,2002,80,5.8,7
+Color,Cassandra Nicolaou,10,97,0,83,Michelle Nolden,918,,Drama|Thriller,Katharine Isabelle,Show Me,369,1163,Gabriel Hogan,5,French,Canada,900000,2004,100,6,12
+Color,Ingmar Bergman,76,91,0,92,Ingrid Thulin,440,,Drama,Liv Ullmann,Cries & Whispers,19964,809,Erland Josephson,197,Swedish,Sweden,400000,1972,132,8.2,0
+ Black and White,D.W. Griffith,69,123,204,9,Mae Marsh,436,,Drama|History|War,Lillian Gish,Intolerance: Love's Struggle Throughout the Ages,10718,481,Walter Long,88,,USA,385907,1916,22,8,691
+Color,Roger Nygard,43,86,3,513,DeForest Kelley,643,617172,Documentary,Walter Koenig,Trekkies,4407,2864,James Doohan,75,English,USA,375000,1997,606,7,672
+ Black and White,Harry Beaumont,36,100,4,4,Bessie Love,77,2808000,Musical|Romance,Anita Page,The Broadway Melody,4546,109,Charles King,71,English,USA,379000,1929,28,6.3,167
+Color,Sam Raimi,304,96,0,58,Betsy Baker,634,,Fantasy|Horror,Ted Raimi,The Evil Dead,141219,813,Ellen Sandweiss,740,English,USA,375000,1981,66,7.6,12000
+Color,Franck Khalfoun,279,89,33,118,Nora Arnezeder,470,12843,Horror|Thriller,America Olivo,Maniac,27297,1233,Liane Balaban,131,English,France,6000000,2012,378,6.1,0
+Color,Mor Loushy,23,84,0,,,3,34151,Documentary|History,Amos Oz,Censored Voices,186,3,,3,Hebrew,Israel,450000,2015,,7.2,111
+Color,Henry Alex Rubin,110,88,30,0,Joe Bishop,15,1523883,Documentary|Sport,Mark Zupan,Murderball,9037,15,Andy Cohn,70,English,USA,1750211,2005,0,7.8,0
+Color,Sam Firstenberg,40,90,44,93,Steve James,615,4000000,Action|Drama,Michael Dudikoff,American Ninja 2: The Confrontation,6046,872,Larry Poindexter,46,English,USA,350000,1987,96,4.7,583
+Color,Doug Block,45,90,0,0,Ellen Block,0,84689,Documentary,Carol Block,51 Birch Street,695,0,Mike Block,16,English,Germany,,2005,0,7.5,70
+Color,,23,43,,576,Tracy Spiridakos,2000,,Action|Adventure|Drama|Sci-Fi,Billy Burke,Revolution,72017,5052,David Lyons,323,English,USA,,,821,6.7,17000
+Color,Chad Kapper,4,98,0,0,Natalie Welch,196,,Family|Sci-Fi,Tom E. Nicholson,Rotor DR1,209,199,Christian Kapper,8,English,USA,350000,2015,3,3.4,240
+Color,John Carpenter,318,101,0,598,Donald Pleasence,2000,47000000,Horror|Thriller,Jamie Lee Curtis,Halloween,157863,4400,P.J. Soles,1191,English,USA,300000,1978,742,7.9,12000
+ Black and White,Sidney Lumet,177,96,0,253,Lee J. Cobb,359,,Crime|Drama,Jack Warden,12 Angry Men,447785,1433,John Fiedler,888,English,USA,350000,1957,259,8.9,40000
+Color,Paul Fierlinger,51,83,3,258,Peter Gerety,812,246574,Animation|Drama,Isabella Rossellini,My Dog Tulip,1272,1370,Lynn Redgrave,15,English,USA,,2009,277,6.9,675
+ Black and White,Frank Capra,124,65,964,21,Alan Hale,380,,Comedy|Romance,Claudette Colbert,It Happened One Night,64888,540,Walter Connolly,235,English,USA,325000,1934,114,8.2,0
+Color,Yorgos Lanthimos,211,94,252,14,Mary Tsoni,47,110197,Drama|Thriller,Angeliki Papoulia,Dogtooth,44864,126,Sissy Petropoulou,170,Greek,Greece,,2009,37,7.3,13000
+Color,Lauren Lazin,26,112,2,321,Gary Coleman,786,7707563,Biography|Documentary|Music,James Cagney,Tupac: Resurrection,7687,2638,Todd Bridges,32,English,USA,,2003,633,8,0
+Color,Gavin O'Connor,64,102,149,276,Janet McTeer,409,1281176,Comedy|Drama,Kimberly J. Brown,Tumbleweeds,2932,1986,Lois Smith,73,English,USA,312000,1999,277,6.7,121
+Color,Gregory Widen,56,98,10,912,Adam Goldberg,10000,16115878,Action|Fantasy|Horror|Mystery|Thriller,Viggo Mortensen,The Prophecy,24438,13433,Virginia Madsen,194,English,USA,8000000,1995,1000,6.6,0
+Color,Cédric Klapisch,29,91,82,8,Zinedine Soualem,75,1652472,Comedy|Romance,Simon Abkarian,When the Cat's Away,2843,102,Jane Bradbury,25,French,France,300000,1996,9,6.9,166
+Color,Peter Hedges,131,80,54,543,Adrian Martinez,1000,2360184,Comedy|Drama,Oliver Platt,Pieces of April,18035,3010,Derek Luke,177,English,USA,300000,2003,806,7.1,0
+Color,Niall Johnson,4,114,7,2,Mark Caven,19,,Drama,Kevin Howarth,The Big Swap,270,37,Thierry Harcourt,7,English,UK,,1998,16,5.6,29
+Color,Kelly Reichardt,88,76,129,26,Lucy,52,255352,Drama,Daniel London,Old Joy,4423,132,Will Oldham,57,English,USA,300000,2006,44,6.7,594
+Color,Kelly Reichardt,189,80,129,26,Lucy,375,856942,Drama,John Robinson,Wendy and Lucy,12241,460,Will Oldham,112,English,USA,200000,2008,44,7.1,0
+Color,Eric Mendelsohn,20,88,5,301,Edie Falco,795,,Drama,Embeth Davidtz,3 Backyards,554,1884,Kathryn Erbe,23,English,USA,300000,2010,659,5.2,92
+Color,Jean-Luc Godard,96,110,0,0,Anna Karina,710,,Crime|Drama|Romance,Jean-Paul Belmondo,Pierrot le Fou,19386,967,Graziella Galvani,74,French,France,300000,1965,257,7.7,2000
+Color,Florence Ayisi,27,104,0,,Beatrice Ntuba,2,32631,Documentary,Vera Ngassa,Sisters in Law,291,2,,8,English,Cameroon,,2005,0,7.5,50
+Color,Pan Nalin,15,102,95,,,,16892,Documentary,,Ayurveda: Art of Being,341,0,,12,English,India,300000,2001,,7.6,379
+ Black and White,Michael Roemer,24,95,0,87,Gloria Foster,581,12438,Drama|Romance,Yaphet Kotto,Nothing But a Man,891,835,Ivan Dixon,26,English,USA,160000,1964,99,8.1,363
+Color,Jesse Peretz,16,94,37,104,Eli Marienthal,318,40542,Drama|Romance,Robert John Burke,"First Love, Last Rites",294,751,Natasha Gregson Wagner,16,English,USA,300000,1997,157,5.5,26
+Color,Eddie O'Flaherty,13,109,3,25,Eddie Jones,54,5199,Drama|Sport,Don Wallace,Fighting Tommy Riley,720,185,Christina Chambers,23,English,USA,200000,2004,53,6.6,30
+Color,Babar Ahmed,8,90,0,32,Alexander Wraith,502,,Action|Thriller,Lalaine,Royal Kill,476,689,Darren Kendrick,18,English,USA,350000,2009,119,3.2,53
+Color,Julie Taymor,156,133,278,107,T.V. Carpio,5000,24343673,Drama|Fantasy|Musical|Romance,Jim Sturgess,Across the Universe,91863,5405,Robert Clohessy,524,English,USA,45000000,2007,117,7.4,14000
+Color,John D. Hancock,4,110,44,221,Elizabeth Stenholt,644,1711,Drama|Music,Trish Basinger,The Looking Glass,82,1440,Mary Norwood,1,English,USA,,2015,503,6.6,175
+Color,Paul Bartel,164,80,43,668,David Carradine,13000,,Action|Comedy|Sci-Fi|Sport,Sylvester Stallone,Death Race 2000,19875,14950,Martin Kove,147,English,USA,300000,1975,926,6.2,0
+Color,Bruce Dellis,10,95,0,309,Ricky Schroder,685,2468,Thriller,Tatyana Ali,Locker 13,241,2048,Jon Polito,5,English,USA,300000,2014,665,4.8,261
+,Pece Dingo,1,94,0,87,Wilhelm von Homburg,156,,Horror,Michael Des Barres,Midnight Cabaret,47,544,Thom Mathews,4,English,USA,,1990,102,4.5,4
+Color,Jerome Elston Scott,8,98,3,248,Joanna Cassidy,500,,Comedy|Drama|Romance,Taran Killam,Anderson's Cross,95,1545,Ryan Carnes,7,English,USA,300000,2010,317,7.2,7
+Color,Étienne Faure,9,98,77,0,Pierre Prieur,19,,Drama|Musical|Romance,Rumi Missabu,Bizarre,569,19,Raquel Nave,1,English,France,500000,2015,0,4.3,114
+Color,Herb Freed,78,96,5,180,Carmen Argenziano,431,,Horror|Mystery,Linnea Quigley,Graduation Day,1905,1228,Vanna White,58,English,USA,250000,1981,338,4.5,249
+Color,Jack Perez,131,97,19,313,Barry Bostwick,778,,Comedy|Crime|Drama|Horror|Mystery|Thriller,Kevin Corrigan,Some Guy Who Kills People,4550,2515,Ahmed Best,58,English,USA,300000,2011,456,6.4,0
+Color,Craig Zobel,286,90,25,235,Matt Servitto,601,318622,Biography|Crime|Drama|Thriller,Dreama Walker,Compliance,24668,1734,James McCaffrey,175,English,USA,270000,2012,260,6.4,0
+Color,Kevin Smith,147,113,0,781,Ethan Suplee,13000,12006514,Comedy|Drama|Romance,Matt Damon,Chasing Amy,114070,15765,Joey Lauren Adams,500,English,USA,250000,1997,1000,7.3,0
+Color,Nicole Holofcener,71,91,132,225,Brenda Blethyn,400,4186931,Comedy|Drama|Romance,Aunjanue Ellis,Lovely & Amazing,6041,1330,Raven Goodwin,85,English,USA,250000,2001,286,6.9,169
+Color,Ken Del Conte,,90,2,99,Robert Miano,466,,Action|Adventure|Mystery|Romance|Thriller,Hector Echavarria,Death Calls,30,842,Ron Roggé,,English,USA,290000,2010,216,4.3,16
+Color,Justin Lin,51,98,681,13,Jason Tobin,94,3799339,Crime|Drama|Romance,Parry Shen,Better Luck Tomorrow,8000,139,Collin Kahey,138,English,USA,250000,2002,26,7.2,661
+Color,Maria Maggenti,23,94,4,10,Laurel Holloman,360,1977544,Comedy|Drama|Romance,Nicole Ari Parker,The Incredibly True Adventure of Two Girls in Love,3513,656,Stephanie Berry,36,English,USA,250000,1995,273,6.5,423
+Color,Miguel Arteta,59,96,44,129,Mike White,625,1050600,Comedy|Drama,Lupe Ontiveros,Chuck & Buck,4662,1378,Chris Weitz,136,English,USA,250000,2000,487,6.6,170
+Color,Piyush Dinker Pandya,9,100,0,51,Rizwan Manji,250,902835,Comedy|Drama|Romance,Purva Bedi,American Desi,1489,454,Anil Kumar,40,English,USA,250000,2001,89,6.7,133
+Color,Daniel Columbie,,90,0,185,Nicholas Simmons,569,,Action|Crime|Drama,Keri Maletto,Amidst the Devil's Wings,28,1461,Barbie Castro,,English,USA,300000,2014,553,4.3,17
+Color,Vincenzo Natali,99,90,165,319,Julian Richings,686,489220,Mystery|Sci-Fi|Thriller,David Hewlett,Cube,160511,1743,Nicole de Boer,696,English,Canada,365000,1997,648,7.3,11000
+Color,Emma-Kate Croghan,21,76,0,62,Frances O'Connor,991,212285,Comedy|Romance,Radha Mitchell,Love and Other Catastrophes,1727,1661,Matt Day,21,English,Australia,250000,1996,575,6.4,46
+Color,Bill Plympton,19,75,45,0,Bill Martone,5,203134,Animation|Comedy|Drama|Fantasy|Sci-Fi,Charis Michelsen,I Married a Strange Person!,1428,7,Richard Spore,21,English,USA,250000,1997,2,7,178
+Color,Greg Harrison,43,78,7,142,Anne Archer,308,191309,Drama|Mystery|Thriller,Amir Talai,November,2787,1008,Nora Dunn,64,English,USA,150000,2004,249,5.5,98
+Color,Drake Doremus,206,90,52,224,Charlie Bewley,34000,3388210,Drama|Romance,Jennifer Lawrence,Like Crazy,46813,34983,Finola Hughes,150,English,USA,250000,2011,487,6.7,12000
+Color,Al Franklin,,96,0,270,Steffinnie Phrommany,471,,Horror,Marshal Hilton,Teeth and Blood,24,1399,Clint Jung,2,English,USA,300000,2015,320,4.3,85
+Color,Allison Anders,29,92,99,181,Rosanna Arquette,793,177840,Comedy|Music,Ally Sheedy,Sugar Town,708,1987,John Doe,22,English,UK,250000,1999,605,6.1,93
+Color,Michael Kang,27,75,269,7,Clint Jordan,100,47111,Comedy|Drama,Samantha Futerman,The Motel,1227,127,Jackie Nova,11,Cantonese,USA,,2005,8,6.8,62
+Color,Paul Schrader,162,99,261,461,Gus Van Sant,924,49494,Drama|Thriller,Nolan Gerard Funk,The Canyons,8511,2862,James Deen,87,English,USA,250000,2013,835,3.9,0
+Color,,11,58,,250,James Norton,887,,Crime|Drama,Shirley Henderson,Happy Valley,12848,2572,Sarah Lancashire,59,English,UK,,,340,8.5,10000
+Color,Lori Silverbush,26,86,5,41,Flaco Navaja,68,,Drama,Judy Marte,On the Outs,603,216,Dominic Colón,15,English,USA,,2004,64,6.9,122
+Color,Jeff Nichols,85,92,337,22,Natalie Canerday,35,45661,Drama|Thriller,Michael Abbott Jr.,Shotgun Stories,7148,114,Travis Smith,32,English,USA,,2007,32,7.3,773
+Color,Stuart Hazeldine,77,101,17,289,Luke Mably,766,,Mystery|Thriller,Colin Salmon,Exam,70076,2123,Pollyanna McIntosh,120,English,UK,,2009,438,6.9,14000
+ Black and White,Hilary Brougher,8,81,0,5,Samantha Buck,119,18195,Sci-Fi,James Urbaniak,The Sticky Fingers of Time,336,154,Terumi Matthews,7,English,USA,250000,1997,24,6.3,67
+Color,Rachel Goldenberg,5,93,7,73,Mark Hengst,349,,Drama|Musical,Dustin Fitzsimons,Sunday School Musical,602,631,Debra Lynn Hull,18,English,USA,,2008,168,2.5,777
+Color,Corbin Bernsen,3,95,1000,3,Lorne Cardinal,1000,,Drama,Corbin Bernsen,Rust,300,1056,Kirsten Collins,8,English,Canada,250000,2010,53,5.7,141
+Color,Jamin Winans,66,107,63,76,Marty Lindsey,135,,Action|Drama|Fantasy|Sci-Fi,Eme Ikwuakor,Ink,18486,457,Jessica Duffy,215,English,USA,,2009,115,7,11000
+Color,Tom Seidman,4,98,3,104,Derek Brandon,337,,Drama|Family,Florence Henderson,The Christmas Bunny,450,694,Charles Irving Beale,10,English,USA,250000,2010,168,6.2,0
+Color,Jason Naumann,,35,2,152,Kate Flannery,338,,Comedy|Short,Victoria Jackson,Jesus People,31,968,Tim Bagley,,English,USA,,2007,219,6.9,0
+Color,Matt Cimber,15,108,32,180,June Lockhart,602,,Crime|Drama,Stacy Keach,Butterfly,870,1991,Stuart Whitman,18,English,USA,,1982,427,4.5,76
+Color,Sam Martin,1,66,0,0,Steve Duin,0,,Documentary,Sam Adams,UnDivided,6,0,Jeff Jacob,1,English,USA,250000,2013,0,7.8,53
+Color,Andrew Hyatt,12,95,7,89,Brit Morgan,236,,Horror|Thriller,Noah Segan,The Frozen,1488,537,Sedona James,28,English,USA,250000,2012,206,4.4,519
+Color,Dan Curtis,,99,45,224,Campbell Scott,1000,,Fantasy|Romance,Jennifer Jason Leigh,The Love Letter,1465,2166,Estelle Parsons,56,English,USA,,1998,393,7.4,515
+Color,Joel Paul Reisig,1,108,431,3,Dana Blackstone,288,,Family,Joshua Ray Bell,Horse Camp,25,387,Annelyse Ahmad,1,English,USA,250000,2014,96,6.6,71
+Color,Kristin Rizzo,6,90,30,670,Robert Davi,699,,Documentary,Esai Morales,Give Me Shelter,37,3967,Elaine Hendrix,2,English,USA,250000,2014,683,8,199
+ Black and White,King Vidor,48,151,54,6,Renée Adorée,81,,Drama|Romance|War,John Gilbert,The Big Parade,4849,108,Claire Adams,45,,USA,245000,1925,12,8.3,226
+Color,Ward Roberts,2,83,12,29,Jacob Zachar,1000,,Comedy,Sid Haig,Little Big Top,110,1244,Travis Betz,1,English,USA,240000,2006,185,6.5,72
+Color,Zoran Lisinac,17,108,0,142,Brock Baker,431,,Comedy|Music|Romance,Matthew Emerick,Along the Roadside,330,1087,Sheldon Bailey,2,English,USA,250000,2013,297,7.1,231
+Color,Nicolas Winding Refn,225,92,0,146,James Lance,27000,104792,Action|Biography|Crime|Drama,Tom Hardy,Bronson,84817,27507,Matt King,145,English,UK,,2008,161,7.1,22000
+Color,James O'Brien,5,105,7,494,Vivian Lamolli,814,,Adventure|Drama|Fantasy|Thriller|Western,Mark Fantasia,Western Religion,146,2970,Greg Jackson,4,English,USA,250000,2015,755,4,244
+Color,Tom Putnam,22,86,15,0,Donald Austin,2,111300,Documentary,Brendan Doogie Milewski,Burn,575,2,Craig Dougherty,6,English,USA,225000,2012,0,7.5,801
+Color,Jon Shear,38,106,0,131,Josh Hamilton,254,1027119,Drama,Dan Futterman,Urbania,2742,964,Matt Keeslar,73,English,USA,225000,2000,147,7,72
+Color,Al Silliman Jr.,21,93,0,0,Nancy Ison,12,,Comedy|Drama,Christina Hart,The Stewardesses,161,24,William Condos,5,English,USA,100000,1969,12,4,17
+ Black and White,Eugène Lourié,67,80,7,21,Cecil Kellaway,57,5000000,Adventure|Horror|Sci-Fi,Kenneth Tobey,"The Beast from 20,000 Fathoms",4812,205,Ross Elliott,88,English,USA,210000,1953,40,6.7,465
+Color,Richard Fleischer,69,127,130,51,Robert J. Wilke,618,,Adventure|Drama|Family|Fantasy|Sci-Fi,James Mason,"20,000 Leagues Under the Sea",22124,800,Paul Lukas,108,English,USA,5000000,1954,53,7.2,0
+Color,George Miller,208,93,750,28,Steve Bisley,728,,Action|Adventure|Sci-Fi|Thriller,Hugh Keays-Byrne,Mad Max,152232,928,Joanne Samuel,303,English,Australia,200000,1979,76,7,10000
+Color,Doug Liman,77,96,218,31,Alex Désert,4000,4505922,Comedy|Drama,Jon Favreau,Swingers,63951,4230,Blake Lindsley,252,English,USA,200000,1996,135,7.4,0
+Color,Sergio Leone,122,99,0,93,Gian Maria Volontè,16000,3500000,Action|Drama|Western,Clint Eastwood,A Fistful of Dollars,147566,16534,Aldo Sambrell,235,Italian,Italy,200000,1964,360,8,0
+ Black and White,Lowell Sherman,35,66,16,28,Gilbert Roland,418,,Comedy|Drama|History|Musical|Romance,Mae West,She Done Him Wrong,4152,583,Louise Beavers,59,English,USA,200000,1933,85,6.5,328
+Color,Maurizio Benazzo,15,85,0,0,Jasper Johal,66,381225,Documentary,The Dalai Lama,Short Cut to Nirvana: Kumbh Mela,131,66,Swami Krishnanad,13,English,USA,200000,2004,0,7.2,30
+Color,David G. Evans,25,101,0,16,Chris Thomas,77000,2428241,Drama,Michael Joiner,The Grace Card,2099,77046,Michael Higgenbottom,26,English,USA,200000,2010,21,6.4,0
+Color,Ava DuVernay,37,97,151,305,David Oyelowo,1000,78030,Drama,Omari Hardwick,Middle of Nowhere,1034,3021,Lorraine Toussaint,10,English,USA,200000,2012,1000,6.5,569
+Color,Tom Tykwer,76,119,670,9,Sebastian Schipper,24,59774,Comedy|Drama|Romance,Devid Striesow,3,4212,69,Sophie Rois,18,German,Germany,,2010,20,6.8,2000
+Color,Sherman Alexie,12,103,18,61,Leo Rossi,96,174682,Drama|Music,William Joseph Elk III,The Business of Fancydancing,460,314,Cynthia Geary,14,English,USA,200000,2002,90,6.9,96
+Color,Justin Dillon,7,86,0,15,Natasha Bedingfield,178,215185,Documentary|History|Music,Matisyahu,Call + Response,48,279,Madeleine Albright,2,English,USA,200000,2008,58,7.5,26
+Color,Steven Soderbergh,450,106,0,273,David Costabile,17000,32154410,Crime|Drama|Thriller,Channing Tatum,Side Effects,148334,18469,Katie Lowes,274,English,USA,30000000,2013,681,7.1,29000
+Color,Stevan Mena,60,90,25,10,Stevan Mena,169,,Crime|Horror|Mystery|Thriller,R. Brandon Johnson,Malevolence,2413,206,Richard Glover,112,English,USA,200000,2003,25,5.1,198
+Color,Adam Rifkin,4,95,89,45,Adam Rifkin,471,,Comedy|Drama,Marri Savinar,Shooting the Warwicks,81,705,Bethany Blakey,1,English,USA,250000,2015,89,6.2,47
+Color,Eric Valette,42,94,2,156,Ryan Kennedy,259,,Horror|Sci-Fi|Thriller,Melanie Papalia,Super Hybrid,1328,711,John Reardon,22,English,USA,13000000,2010,165,3.9,0
+Color,Jay Duplass,93,84,157,98,Jennifer Lafleur,962,140016,Comedy|Drama|Horror|Romance,Greta Gerwig,Baghead,3507,2016,Elise Muller,40,English,USA,,2008,873,6,443
+Color,Livingston Oden,1,89,0,15,Victoria Lachelle,138,,Comedy|Horror|Mystery|Thriller,Susan Chambers,Solitude,78,192,Ali Daniels,1,English,USA,,2014,18,6.8,267
+Color,Chris Marker,16,59,121,0,Bertrand Cantat,27,,Documentary,Marina Vlady,The Case of the Grinning Cat,352,27,Léon Schwartzenberg,4,French,France,150000,2004,0,7.4,44
+ Black and White,Carl Theodor Dreyer,54,126,147,0,Sylvia Eckhausen,0,,Drama|Fantasy,Hanne Aagesen,Ordet,9903,0,Ejner Federspiel,49,Danish,Denmark,,1955,0,8.1,863
+Color,Marianna Palka,38,86,123,782,Martin Starr,3000,15542,Comedy|Drama|Romance,Bryce Dallas Howard,Good Dick,6689,7144,Jason Ritter,51,English,USA,,2008,985,6.5,0
+Color,Richard Schenkman,66,87,29,131,John Billingsley,505,,Drama|Romance|Sci-Fi,William Katt,The Man from Earth,129799,1181,David Lee Smith,638,English,USA,200000,2007,323,8,46000
+Color,Ricki Stern,11,106,15,0,Evelyn Jefferson,2,1111,Crime|Documentary,Darryl Hunt,The Trials of Darryl Hunt,771,2,John Reeves,10,English,USA,200000,2006,0,7.7,246
+Color,Nadia Tass,6,86,20,32,Jordan Bridges,563,,Drama|Family,Mia Farrow,An American Girl Holiday,1338,828,Bruce Gooch,32,English,USA,200000,2004,194,7.2,90
+ Black and White,James Kerwin,25,89,0,31,Chase Masterson,236,,Drama|Music|Mystery|Romance|Sci-Fi,John Newton,Yesterday Was a Lie,374,518,H.M. Wynant,10,English,USA,2500000,2008,189,5.4,83
+Color,C. Fraser Press,13,105,0,27,Robert Turano,178,,Comedy|Drama|Music,Elaine Bromka,Theresa Is a Mother,37,263,Matthew Gumley,1,English,USA,200000,2012,32,6.7,38
+Color,Rania Attieh,18,93,0,75,Robin Bartlett,110,,Drama|Sci-Fi|Thriller,Paul Hickert,H.,191,338,Rebecca Dayan,1,English,USA,,2014,79,6.3,142
+Color,Sharon Greytak,3,94,0,178,Alex Emanuel,433,,Drama,Sally Kirkland,Archaeology of a Woman,15,1112,Elaine Bromka,3,English,USA,200000,2012,375,8.1,66
+Color,Majid Majidi,46,89,373,27,Amir Farrokh Hashemian,36,925402,Drama|Family,Bahare Seddiqi,Children of Heaven,27882,100,Mohammad Amir Naji,130,Persian,Iran,180000,1997,35,8.5,0
+Color,Andrew Haigh,143,97,131,67,Chris New,507,469947,Drama|Romance,Tom Cullen,Weekend,19846,654,Vauxhall Jermaine,68,English,UK,120000,2011,75,7.7,0
+ Black and White,Spike Lee,26,88,0,46,Joie Lee,539,7137502,Comedy|Romance,S. Epatha Merkerson,She's Gotta Have It,4769,708,Tracy Camilla Johns,26,English,USA,175000,1986,53,6.5,406
+Color,Cary Bell,,78,0,0,Stacie Evans,0,,Documentary,Abigail Evans,Butterfly Girl,27,0,Emily Gorell,1,English,USA,180000,2014,0,8.7,88
+Color,Nicolae Constantin Tanase,5,104,0,0,Ana Maria Guran,0,,Drama,Iulia Ciochina,The World Is Mine,354,0,Ana Vatamanu,1,Romanian,Romania,168000,2015,0,6.5,34
+Color,Mike Cahill,242,92,135,259,William Mapother,574,1316074,Drama|Romance|Sci-Fi,Robin Lord Taylor,Another Earth,71387,1303,Flint Beverage,228,English,USA,100000,2011,399,7,21000
+Color,Jason Stone,48,108,14,826,Ellen Burstyn,2000,,Thriller,Topher Grace,The Calling,6025,4385,Christopher Heyerdahl,28,English,USA,,2014,1000,5.8,0
+Color,Melvin Van Peebles,38,97,101,101,Mario Van Peebles,982,15180000,Crime|Drama|Thriller,John Amos,Sweet Sweetback's Baadasssss Song,3340,1631,Melvin Van Peebles,50,English,USA,500000,1971,535,5.5,566
+Color,Ken Roht,,109,0,26,Joe Lev,270,,Drama,Charla Cochran,Perfect Cowboy,8,364,Sienna Beckman,,English,USA,200000,2014,54,7,65
+Color,Gary Winick,91,78,56,184,Aaron Stanford,376,2882062,Comedy|Drama|Romance,Bebe Neuwirth,Tadpole,5178,1144,Ron Rifkin,101,English,USA,150000,2000,346,6.3,132
+Color,John Carney,232,85,109,18,Markéta Irglová,200,9437933,Drama|Music|Romance,Glen Hansard,Once,90827,332,Darren Healy,329,English,Ireland,180000,2007,96,7.9,26000
+ Black and White,Robinson Devor,18,88,14,3,Eugene Roche,142,110720,Comedy,Marilyn Rising,The Woman Chaser,524,168,Max Kerstein,22,English,USA,1200000,1999,23,7.3,73
+Color,Michel Orion Scott,29,93,0,2,Rowan Isaacson,58,155984,Documentary,Temple Grandin,The Horse Boy,586,62,Simon Baron-Cohen,9,English,USA,160000,2009,2,7.4,0
+Color,Pat Holden,44,86,6,115,Martin Compston,498,,Horror,Alan Brent,When the Lights Went Out,3813,895,Kate Ashfield,27,English,UK,,2012,204,5.4,0
+Color,Eric Bugbee,2,98,0,21,Bill Allen,52,,Action|Drama|Sport,Joel Moody,Heroes of Dirt,53,130,Lia Tucker,1,English,USA,,2015,36,7.1,197
+Color,Tobe Hooper,277,88,365,177,Edwin Neal,383,30859000,Horror|Thriller,Gunnar Hansen,The Texas Chain Saw Massacre,96411,1094,Marilyn Burns,826,English,USA,83532,1974,371,7.5,0
+Color,Bill Melendez,43,25,36,27,Bill Melendez,39,,Animation|Comedy|Family,Peter Robbins,A Charlie Brown Christmas,21826,139,Christopher Shea,126,English,USA,150000,1965,36,8.4,0
+Color,Dena Seidel,5,72,0,0,Hugh Ducklow,0,4914,Adventure|Documentary,Naderev Sano,Antarctic Edge: 70° South,123,0,Mike Brett,2,English,USA,150000,2015,0,7,215
+ Black and White,Deborah Anderson,16,66,4,232,Jesse Jane,502,,Documentary,Lisa Ann,Aroused,502,1796,Kayden Kross,9,English,USA,150000,2013,366,5.3,207
+Color,Sara Newens,18,80,0,0,Xinhua Jiang,0,5858,Documentary,Ariel Hsing,Top Spin,260,0,Michael Landers,2,English,USA,150000,2014,0,7.1,116
+Color,Michael Moore,40,91,909,42,Pat Boone,909,6706368,Documentary,Michael Moore,Roger & Me,22800,1048,Bob Eubanks,133,English,USA,160000,1989,91,7.5,667
+Color,Paul Schrader,130,93,261,697,Ruby Dee,783,,Fantasy|Horror|Thriller,Ed Begley Jr.,Cat People,14193,3700,John Heard,106,English,USA,18000000,1982,782,6.1,0
+Color,Sai Varadan,3,89,0,163,Hassan Johnson,196,,Drama,J.D. Williams,An American in Hollywood,100,942,Samantha Esteban,3,English,USA,125000,2014,180,7.2,72
+Color,Zal Batmanglij,136,85,129,100,James Urbaniak,120,405614,Drama|Mystery|Sci-Fi|Thriller,Christopher Denham,Sound of My Voice,15775,511,Constance Wu,69,English,USA,,2011,119,6.7,0
+Color,Amal Al-Agroobi,,62,58,,,,,Documentary|Family,,The Brain That Sings,18,0,,,Arabic,United Arab Emirates,125000,2013,,8.2,54
+Color,Andrew Berends,12,90,0,,,,,Documentary|War,,The Blood of My Brother,102,0,,7,English,USA,120000,2005,,6.6,14
+Color,Lynn Shelton,171,90,100,9,Mike Birbiglia,830,1573712,Comedy|Drama,Mark Duplass,Your Sister's Sister,21618,973,Mel Eslyn,62,English,USA,125000,2011,128,6.7,3000
+Color,Valentine,,,0,,Valentine,17,,Romance,Diane Sorrentino,Romantic Schemer,172,17,,,English,USA,125000,2015,0,5.1,0
+Color,David Hewlett,8,88,686,405,David Hewlett,847,,Comedy,Christopher Judge,A Dog's Breakfast,3262,2364,Paul McGillion,46,English,Canada,120000,2007,686,7,377
+Color,David Hewlett,8,88,686,405,David Hewlett,847,,Comedy,Christopher Judge,A Dog's Breakfast,3262,2364,Paul McGillion,46,English,Canada,120000,2007,686,7,377
+ Black and White,George A. Romero,284,96,0,56,Duane Jones,125,,Drama|Horror|Mystery,Judith O'Dea,Night of the Living Dead,87978,403,S. William Hinzman,580,English,USA,114000,1968,108,8,0
+ Black and White,Jean-Luc Godard,36,94,0,5,Macha Méril,12,,Drama,Philippe Leroy,Une Femme Mariée,1962,27,Rita Maiden,10,French,France,120000,1964,7,7.4,187
+Color,Nate Parker,21,120,664,400,Nate Parker,990,,Biography|Drama,Jason Stuart,The Birth of a Nation,1197,3525,Aunjanue Ellis,8,English,USA,10000000,2016,664,5.4,0
+Color,Nathan Smith Jones,1,77,7,69,Frank Gerrish,206,,Comedy,Richard Moll,The Work and the Story,98,516,Christopher Robin Miller,5,English,USA,103000,2003,81,5.7,0
+Color,Alex Kendrick,31,111,589,51,Erin Bethea,589,10174663,Drama|Sport,Alex Kendrick,Facing the Giants,12399,916,Shannen Fields,382,English,USA,100000,2006,150,6.7,0
+Color,Travis Cluff,159,81,3,7,Cassidy Gifford,220,22757819,Horror|Thriller,Pfeifer Brown,The Gallows,13521,276,Reese Mishler,150,English,USA,100000,2015,40,4.2,0
+ Black and White,David Lynch,152,89,0,121,Jack Nance,195,,Fantasy|Horror|Sci-Fi,Hal Landon Jr.,Eraserhead,69831,837,Charlotte Stewart,535,English,USA,20000,1977,158,7.4,0
+ Black and White,Harry F. Millarde,1,110,0,0,Johnnie Walker,2,3000000,Crime|Drama,Stephen Carr,Over the Hill to the Poorhouse,5,4,Mary Carr,1,,USA,100000,1920,2,4.8,0
+Color,Robert Townsend,21,81,467,287,Keenen Ivory Wayans,467,5228617,Comedy,Robert Townsend,Hollywood Shuffle,2770,1431,Helen Martin,32,English,USA,100000,1987,322,7,471
+Color,Peter Chelsom,57,100,23,545,Elden Henson,1000,2643689,Comedy|Drama,Kieran Culkin,The Mighty,10499,2283,Gena Rowlands,113,English,USA,,1998,577,7.3,0
+Color,Jamaa Fanaka,23,99,9,10,Chuck Mitchell,116,,Crime|Drama|Sport,Leon Isaac Kennedy,Penitentiary,509,170,Wilbur 'Hi-Fi' White,10,English,USA,100000,1979,24,5.8,157
+ Black and White,Larry Blamire,88,90,56,56,Brian Howe,126,110536,Comedy|Horror|Sci-Fi,Fay Masterson,The Lost Skeleton of Cadavra,4117,284,Larry Blamire,118,English,USA,40000,2001,76,7,0
+Color,Stephen Langford,2,82,7,50,Gabriela Castillo,143,,Family,Kevin P. Farley,"Dude, Where's My Dog?!",73,417,Brandon Middleton,4,English,USA,20000,2014,134,3.2,178
+Color,E.L. Katz,193,88,3,307,Ethan Embry,3000,59379,Comedy|Crime|Drama|Horror|Thriller,Brighton Sharbino,Cheap Thrills,12796,4729,Elissa Dowling,52,English,USA,200000,2013,982,6.8,0
+Color,Lisanne Pajot,50,103,0,0,Edmund McMillen,0,,Documentary,Jonathan Blow,Indie Game: The Movie,16701,0,Phil Fish,23,English,Canada,100000,2012,0,7.7,0
+Color,Dan Reed,61,80,3,140,Adam Rayner,798,,Thriller,Danny Dyer,Closure,5747,1401,Ralph Brown,44,English,UK,1800000,2007,279,5.6,246
+ Black and White,John Reinhardt,1,68,2,75,John Ireland,142,,Crime|Drama,Sheldon Leonard,Open Secret,67,354,Arthur O'Connell,9,English,USA,,1948,86,7.1,10
+Color,Patrick Ryan Sims,5,81,0,10,Hugh Mun,416,,Action|Drama|Sci-Fi|Thriller,Claire Gordon-Harper,Echo Dr.,101,459,Johnathan Hurley,1,English,USA,100000,2013,18,3.6,17
+Color,Laslo Benedek,14,106,6,13,Trevor Howard,440,,Crime|Horror|Thriller,Liv Ullmann,The Night Visitor,544,564,Andrew Keir,19,English,USA,,1971,98,6.8,65
+Color,Jason Miller,5,77,0,0,Dottie Alexander,45,,Biography|Documentary|Music,Jon Brion,The Past is a Grotesque Animal,80,45,David Barnes,1,English,USA,100000,2014,0,7.6,82
+Color,Dennis Iliadis,241,114,29,616,Monica Potter,956,32721635,Crime|Horror|Thriller,Tony Goldwyn,The Last House on the Left,67824,3861,Martha MacIsaac,279,English,USA,15000000,2009,878,6.6,0
+Color,Sut Jhally,16,80,3,0,Seth Ackerman,103,,Documentary,Noam Chomsky,"Peace, Propaganda & the Promised Land",496,103,Arik Ascherman,13,English,USA,70000,2004,0,8.3,110
+ Black and White,Darren Aronofsky,138,84,0,194,Clint Mansell,1000,3216970,Drama|Mystery|Thriller,Mark Margolis,Pi,142619,2065,Stanley B. Herman,586,English,USA,60000,1998,512,7.5,24000
+Color,Julie Davis,5,86,12,117,Meredith Scott Lynn,238,33598,Comedy|Romance,Jack McGee,"I Love You, Don't Touch Me!",405,623,Tim DeZarn,15,English,USA,,1997,166,5.4,97
+Color,Myles Berkowitz,32,87,0,153,Tom Ardavany,1000,536767,Biography|Comedy|Romance,Tia Carrere,20 Dates,1622,1362,Robert McKee,83,English,USA,60000,1998,184,5.3,30
+Color,Brett Piper,18,80,7,3,Steve Diasparra,118,,Action|Sci-Fi|Thriller,Michelle Simone Miller,Queen Crab,48,138,A.J. DeLucia,18,English,USA,75000,2015,15,4.5,34
+Color,Morgan Spurlock,193,100,293,0,Amanda Kearsan,0,11529368,Comedy|Documentary|Drama,Chemeeka Walker,Super Size Me,85028,0,Amelia Giancarlo,404,English,USA,65000,2004,0,7.3,0
+Color,Brandon Trost,66,82,32,128,Sean Whalen,968,40557,Comedy,Clifton Collins Jr.,The FP,1389,2046,James DeBello,22,English,USA,60000,2011,407,5.6,0
+Color,Joe Swanberg,65,82,217,442,Lena Dunham,10000,30084,Comedy|Drama,Anna Kendrick,Happy Christmas,5507,11642,Mark Webber,23,English,USA,70000,2014,969,5.6,812
+ Black and White,Joseph Green,95,70,2,6,Jason Evers,24,,Horror|Sci-Fi,Virginia Leith,The Brain That Wouldn't Die,4752,52,Bruce Kerr,152,English,USA,62000,1962,16,4.1,1000
+Color,Wade Gasque,13,75,0,46,Vincent Duvall,267,,Drama,Ty Parker,Tiger Orange,683,488,Loanne Bishop,8,English,USA,100000,2014,87,6.8,182
+Color,Daniel Schechter,15,87,8,272,Kevin Corrigan,969,,Comedy,Lena Dunham,Supporting Characters,760,2398,Alex Karpovsky,4,English,USA,,2012,778,6.3,209
+Color,Mike Flanagan,125,87,59,9,Courtney Bell,35,,Drama|Horror|Mystery,Justin Gordon,Absentia,13065,97,Erin Cipolletti,136,English,USA,70000,2011,28,5.8,3000
+Color,Edward Burns,36,98,0,73,Michael McGlone,138,10246600,Comedy|Drama|Romance,Shari Albert,The Brothers McMullen,6375,388,Maxine Bahns,36,English,USA,25000,1995,111,6.6,265
+Color,Matt Johnson,73,83,8,8,Shailene Garnett,111,,Crime|Drama|Thriller,Paul Daniel Ayotte,The Dirties,3885,147,Matt Johnson,40,English,Canada,,2013,19,6.7,1000
+Color,Bruno Barreto,1,99,9,3,Sonia Braga,866,,Comedy|Drama|Romance,Marcello Mastroianni,Gabriela,712,1179,Joffre Soares,9,Portuguese,Brazil,,1983,308,6.4,114
+Color,Lena Dunham,113,98,969,433,Merritt Wever,969,389804,Comedy|Drama|Romance,Lena Dunham,Tiny Furniture,11816,2530,Jemima Kirke,35,English,USA,65000,2010,529,6.3,0
+Color,Terron R. Parsons,13,93,9,133,Jeremy Sande,743,,Crime|Drama|Horror,Richard Tyson,Hayride,485,1527,Corlandos Scott,5,English,USA,60000,2012,413,3.4,284
+Color,Daniel Mellitz,,,0,15,Chelse Swain,1000,,Comedy|Drama,Corbin Bernsen,The Naked Ape,128,1077,Amanda MacDonald,3,English,USA,,2006,36,4.7,2
+Color,Jem Cohen,12,111,6,,,,,Documentary,,Counting,61,0,,1,English,USA,50000,2015,,6,5
+ Black and White,Andrew Leman,60,47,2,5,David Mersault,19,,Fantasy|Horror|Mystery|Thriller,Dan Novy,The Call of Cthulhu,6261,43,Barry Lynch,99,English,USA,50000,2005,9,7.3,0
+Color,Dave Carroll,10,92,0,,,0,,Documentary,Chris 'Wonder' Schoeck,Bending Steel,53,0,,10,English,USA,50000,2013,,7.9,33
+Color,William Eubank,161,97,18,236,Olivia Cooke,852,,Sci-Fi|Thriller,Lin Shaye,The Signal,48236,1922,Beau Knapp,180,English,USA,4000000,2014,680,6.1,10000
+Color,Patrick Meaney,7,81,3,18,Greg Aronowitz,26,,Biography|Documentary,Taliesin Jaffe,The Image Revolution,66,70,Jeff Dowd,2,English,USA,50000,2014,20,7.4,83
+Color,Chad Hartigan,34,83,3,69,Paul Eenhoorn,695,,Drama,Jan Haley,This Is Martin Bonner,733,1438,Demetrius Grosse,7,English,USA,42000,2013,571,6.6,234
+Color,Malcolm Goodwin,,96,117,281,Jon Gries,948,,Comedy,Katrina Bowden,A True Story,181,2058,Kelen Coleman,4,English,USA,45000,2013,482,5.5,72
+Color,David Gordon Green,75,90,234,15,Eddie Rouse,552,241816,Drama,Paul Schneider,George Washington,6246,642,Damian Jewan Lee,76,English,USA,42000,2000,61,7.5,451
+Color,Kevin Jordan,21,90,4,113,Christa Miller,20000,277233,Comedy|Romance,Derick Martini,Smiling Fish & Goat on Fire,2631,20814,Ion Overman,26,English,USA,40000,1999,467,7.6,0
+Color,Kirk Loudon,3,95,0,279,Johnny Walter,883,,Drama|Sci-Fi|Thriller,Barry Corbin,Dawn of the Crescent Moon,34,2618,Shiree Nelson,2,English,USA,75000,2014,507,5,87
+Color,Travis Legge,2,83,138,76,Patricia Raven,307,,Horror,Elissa Dowling,Raymond Did It,192,619,Lindsay Felton,6,English,USA,40000,2011,114,3.2,239
+Color,Martin Scorsese,71,117,17000,476,Levon Helm,725,321952,Documentary|Music,Ringo Starr,The Last Waltz,12611,2783,Bob Dylan,113,English,USA,,1978,572,8.2,0
+Color,Collin Joseph Neal,7,75,14,130,Thomas Brophy,252,,Horror|Thriller,Julianne Gabert,"Run, Hide, Die",106,638,Ronee Collins,5,English,USA,50000,2012,132,3.7,225
+Color,Bradley Rust Gray,61,79,2,20,Mark Rendall,962,24705,Drama,Zoe Kazan,The Exploding Girl,1516,1054,Jordan Scovel,10,English,USA,,2009,72,6.3,377
+Color,Mike Bruce,3,78,6,17,Kirpatrick Thomas,32,243768,Western,Joseph Campanella,The Legend of God's Gun,143,72,Christian Anderson,9,English,USA,30000,2007,17,4.1,13
+ Black and White,Andrew Bujalski,52,109,26,3,Kate Dollenmayer,26,,Comedy,Andrew Bujalski,Mutual Appreciation,1578,38,Justin Rice,23,English,USA,,2005,6,6.9,91
+Color,Damir Catic,,89,2,0,Ron Gelner,5,,Horror,Nichole Ceballos,Her Cry: La Llorona Investigation,23,5,Parker Riggs,2,English,USA,60000,2013,0,5.4,48
+Color,Ben Wheatley,53,93,214,59,Tony Way,177,9609,Comedy|Crime|Drama,Michael Smiley,Down Terrace,2646,365,David Schaal,22,English,UK,,2009,95,6.5,535
+ Black and White,Kevin Smith,136,102,0,216,Brian O'Halloran,898,3151130,Comedy,Jason Mewes,Clerks,181749,2103,Jeff Anderson,615,English,USA,230000,1994,657,7.8,0
+Color,James Bidgood,8,65,0,,Bobby Kendall,0,8231,Drama|Fantasy,Don Brooks,Pink Narcissus,803,0,,16,English,USA,27000,1971,0,6.7,85
+Color,Andrew Bujalski,43,85,26,3,Kate Dollenmayer,26,,Comedy|Drama,Andrew Bujalski,Funny Ha Ha,1894,40,Justin Rice,61,English,USA,,2002,6,6.4,108
+Color,Neil LaBute,80,97,119,7,Matt Malloy,136,2856622,Comedy|Drama,Stacy Edwards,In the Company of Men,11550,254,Jason Dixie,197,English,Canada,25000,1997,108,7.3,489
+Color,David Ayer,233,109,453,120,Martin Donovan,1000,10499968,Action|Crime|Drama|Thriller,Mireille Enos,Sabotage,47502,1458,Maurice Compte,212,English,USA,35000000,2014,206,5.7,10000
+Color,Eric Eason,28,79,3,42,Panchito Gómez,93,,Drama|Family,Franky G,Manito,493,243,Casper Martinez,21,English,USA,24000,2002,46,7,61
+Color,Uwe Boll,58,80,892,492,Katharine Isabelle,986,,Action|Crime|Thriller,Matt Frewer,Rampage,15091,3197,Michael Paré,129,English,Canada,,2009,918,6.3,0
+ Black and White,Richard Linklater,61,100,0,0,Richard Linklater,5,1227508,Comedy|Drama,Tommy Pallotta,Slacker,15103,5,Jean Caffeine,80,English,USA,23000,1991,0,7.1,2000
+Color,Joseph Mazzella,,90,0,9,Mikaal Bates,313,,Crime|Drama|Thriller,Tjasa Ferme,Dutch Kills,57,366,Damon Owlia,2,English,USA,25000,2015,25,4.8,33
+Color,Travis Legge,1,90,138,138,Suzi Lorraine,370,,Comedy|Romance,Kristen Seavey,Dry Spell,114,841,Travis Legge,3,English,USA,22000,2013,184,3.3,200
+Color,Alex Kendrick,5,120,589,4,Lisa Arnold,51,,Drama,Shannen Fields,Flywheel,2986,108,Janet Lee Dapper,49,English,USA,20000,2003,49,6.9,725
+Color,Marcus Nispel,43,91,158,265,Brittany Curran,630,,Horror|Mystery|Thriller,Ashley Tramonte,Exeter,3836,2679,Lindsay MacDonald,33,English,USA,,2015,512,4.6,0
+,Brandon Landers,,143,8,8,Alana Kaniewski,720,,Drama|Horror|Thriller,Robbie Barnes,The Ridges,125,770,Brandon Landers,8,English,USA,17350,2011,19,3,33
+Color,Jay Duplass,51,85,157,10,Katie Aselton,830,192467,Comedy|Drama|Romance,Mark Duplass,The Puffy Chair,4067,1064,Bari Hyman,71,English,USA,15000,2005,224,6.6,297
+ Black and White,Jim Chuchu,6,60,0,4,Olwenya Maina,147,,Drama,Paul Ogola,Stories of Our Lives,70,170,Mugambi Nthiga,1,Swahili,Kenya,15000,2014,19,7.4,45
+Color,Daryl Wein,22,88,38,211,Heather Burns,331,76382,Romance,Zoe Lister-Jones,Breaking Upwards,1194,1546,Ebon Moss-Bachrach,8,English,USA,15000,2009,212,6.2,324
+Color,Jason Trost,42,78,91,86,Jason Trost,407,,Sci-Fi|Thriller,Sean Whalen,All Superheroes Must Die,1771,674,Nick Principe,35,English,USA,20000,2011,91,4,835
+Color,John Waters,73,108,0,105,Mink Stole,462,180483,Comedy|Crime|Horror,Divine,Pink Flamingos,16792,760,Edith Massey,183,English,USA,10000,1972,143,6.1,0
+Color,Olivier Assayas,81,110,107,45,Béatrice Dalle,576,136007,Drama|Music|Romance,Maggie Cheung,Clean,3924,776,Don McKellar,39,French,France,4500,2004,133,6.9,171
+Color,Jafar Panahi,64,90,397,0,Nargess Mamizadeh,5,673780,Drama,Fereshteh Sadre Orafaiy,The Circle,4555,5,Mojgan Faramarzi,26,Persian,Iran,10000,2000,0,7.5,697
+ Black and White,Ivan Kavanagh,12,83,18,0,Michael Parle,10,,Horror,Patrick O'Donnell,Tin Can Man,57,15,Emma Eliza Regan,1,English,Ireland,10000,2007,5,6.7,105
+Color,Kiyoshi Kurosawa,78,111,62,6,Anna Nakagawa,89,94596,Crime|Horror|Mystery|Thriller,Kôji Yakusho,The Cure,6318,115,Denden,50,Japanese,Japan,1000000,1997,13,7.4,817
+Color,Tadeo Garcia,,84,5,12,Michael Cortez,21,,Drama,Tatiana Suarez-Pico,On the Downlow,156,62,Eric Ambriz,3,English,USA,,2004,20,6.1,22
+Color,Thomas L. Phillips,13,82,120,84,Joe Coffey,785,,Comedy|Horror|Thriller,Julianna Pitt,Sanctuary; Quite a Conundrum,133,1111,John Lucas,8,English,USA,200000,2012,98,5.4,424
+Color,Ash Baron-Cohen,10,98,3,152,Stanley B. Herman,789,,Crime|Drama,Peter Greene,Bang,438,1186,James Noble,14,English,USA,,1995,194,6.4,20
+Color,Shane Carruth,143,77,291,8,David Sullivan,291,424760,Drama|Sci-Fi|Thriller,Shane Carruth,Primer,72639,368,Casey Gooden,371,English,USA,7000,2004,45,7,19000
+Color,Neill Dela Llana,35,80,0,0,Edgar Tancangco,0,70071,Thriller,Ian Gamazon,Cavite,589,0,Quynn Ton,35,English,Philippines,7000,2005,0,6.3,74
+Color,Robert Rodriguez,56,81,0,6,Peter Marquardt,121,2040920,Action|Crime|Drama|Romance|Thriller,Carlos Gallardo,El Mariachi,52055,147,Consuelo Gómez,130,Spanish,USA,7000,1992,20,6.9,0
+Color,Anthony Vallone,,84,2,2,John Considine,45,,Crime|Drama,Richard Jewell,The Mongol King,36,93,Sara Stepnicka,1,English,USA,3250,2005,44,7.8,4
+Color,Edward Burns,14,95,0,133,Caitlin FitzGerald,296,4584,Comedy|Drama,Kerry Bishé,Newlyweds,1338,690,Daniella Pineda,14,English,USA,9000,2011,205,6.4,413
+Color,Scott Smith,1,87,2,318,Daphne Zuniga,637,,Comedy|Drama,Eric Mabius,Signed Sealed Delivered,629,2283,Crystal Lowe,6,English,Canada,,2013,470,7.7,84
+Color,,43,43,,319,Valorie Curry,841,,Crime|Drama|Mystery|Thriller,Natalie Zea,The Following,73839,1753,Sam Underwood,359,English,USA,,,593,7.5,32000
+Color,Benjamin Roberds,13,76,0,0,Maxwell Moody,0,,Drama|Horror|Thriller,Eva Boehnke,A Plague So Pleasant,38,0,David Chandler,3,English,USA,1400,2013,0,6.3,16
+Color,Daniel Hsia,14,100,0,489,Daniel Henney,946,10443,Comedy|Drama|Romance,Alan Ruck,Shanghai Calling,1255,2386,Eliza Coupe,9,English,USA,,2012,719,6.3,660
+Color,Jon Gunn,43,90,16,16,Brian Herzlinger,86,85222,Documentary,John August,My Date with Drew,4285,163,Jon Gunn,84,English,USA,1100,2004,23,6.6,456
