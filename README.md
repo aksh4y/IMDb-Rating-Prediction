@@ -24,5 +24,5 @@ End time: 2017-01-01 15:05:59
 
 ![img](Screenshot.PNG)
 
-##Bugs and Feedback
+## Bugs and Feedback
 For bugs, questions and discussions please use the [Github Issues](https://github.com/aksh4y/IMDb-Rating-Prediction/issues).
